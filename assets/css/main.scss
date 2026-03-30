@@ -1,0 +1,33 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Enforce requested dark gray + white text baseline. */
+body,
+.layout--single,
+.masthead,
+.page,
+.archive,
+.initial-content,
+.page__inner-wrap {
+  background-color: #1f1f1f;
+  color: #ffffff;
+}
+
+a {
+  color: #8fc7ff;
+}
+
+a:hover,
+a:focus {
+  color: #b7dbff;
+}
+
+.masthead,
+.greedy-nav,
+.greedy-nav .visible-links a,
+.greedy-nav .hidden-links a {
+  background: #1f1f1f;
+  color: #ffffff;
+}

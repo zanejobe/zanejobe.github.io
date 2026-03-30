@@ -1,0 +1,71 @@
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
+
+locale: "en-US"
+title: "Zane Jobe"
+name: "Zane Jobe"
+description: "Sedimentologist"
+url: "https://zanejobe.github.io"
+baseurl: ""
+repository: "zanejobe/zanejobe.github.io"
+
+logo:
+teaser:
+breadcrumbs: false
+
+author:
+  name: "Zane Jobe"
+  avatar:
+  bio: "Researcher in sedimentology and stratigraphy."
+  location: "Golden, CO"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zanejobe@mines.edu"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zanejobe"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/zane-jobe/"
+
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:zanejobe@mines.edu"
+    - label: "Google Scholar"
+      icon: "fab fa-google"
+      url: "https://scholar.google.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zanejobe"
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - node_modules
+  - .sass-cache
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+plugins:
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
