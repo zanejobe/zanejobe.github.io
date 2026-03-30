@@ -24,7 +24,7 @@ author:
       url: "mailto:zanejobe@mines.edu"
     - label: "Google Scholar"
       icon: "fab fa-google"
-      url: "https://scholar.google.com/"
+      url: "https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zanejobe"
@@ -39,11 +39,13 @@ footer:
       url: "mailto:zanejobe@mines.edu"
     - label: "Google Scholar"
       icon: "fab fa-google"
-      url: "https://scholar.google.com/"
+      url: "https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zanejobe"
-
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-7654-4528"
 include:
   - _pages
 
@@ -61,6 +63,9 @@ permalink: /:categories/:title/
 
 plugins:
   - jekyll-include-cache
+
+atom_feed:
+  hide: true
 
 defaults:
   - scope:
