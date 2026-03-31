@@ -155,12 +155,12 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
 <table class="grants-table">
   <thead>
     <tr>
-      <th style="background: transparent; background-color: transparent; color: #ffffff;">Years</th>
-      <th style="background: transparent; background-color: transparent; color: #ffffff;">Source</th>
-      <th style="background: transparent; background-color: transparent; color: #ffffff;">Project</th>
-      <th style="text-align: right; background: transparent; background-color: transparent; color: #ffffff;">Submitted</th>
-      <th style="text-align: right; background: transparent; background-color: transparent; color: #ffffff;">Received</th>
-      <th style="background: transparent; background-color: transparent; color: #ffffff;">Status</th>
+      <td><strong>Years</strong></td>
+      <td><strong>Source</strong></td>
+      <td><strong>Project</strong></td>
+      <td style="text-align: right;"><strong>Submitted</strong></td>
+      <td style="text-align: right;"><strong>Received</strong></td>
+      <td><strong>Status</strong></td>
     </tr>
   </thead>
   <tbody>
@@ -190,11 +190,11 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
 <table class="grants-table">
   <thead>
     <tr>
-      <th style="background: transparent; background-color: transparent; color: #ffffff;">Category</th>
-      <th style="background: transparent; background-color: transparent; color: #ffffff;">Year</th>
-      <th style="background: transparent; background-color: transparent; color: #ffffff;">Recipient</th>
-      <th style="text-align: right; background: transparent; background-color: transparent; color: #ffffff;">Amount</th>
-      <th style="background: transparent; background-color: transparent; color: #ffffff;">Source</th>
+      <td><strong>Category</strong></td>
+      <td><strong>Year</strong></td>
+      <td><strong>Recipient</strong></td>
+      <td style="text-align: right;"><strong>Amount</strong></td>
+      <td><strong>Source</strong></td>
     </tr>
   </thead>
   <tbody>
