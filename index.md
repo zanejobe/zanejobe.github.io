@@ -15,7 +15,6 @@ author_profile: true
 
     <p>
       <a href="/cv/" class="btn btn--primary">View CV</a>
-      <a href="/research/" class="btn btn--inverse">Research</a>
       <a href="/publications/" class="btn btn--inverse">Publications</a>
       <a href="https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en" class="btn btn--inverse">Google Scholar</a>
       <a href="https://orcid.org/0000-0002-7654-4528" class="btn btn--inverse">ORCID</a>
@@ -26,3 +25,11 @@ author_profile: true
     <img src="/assets/images/portrait.jpg" alt="Portrait" class="home-portrait">
   </div>
 </div>
+
+## Research
+
+My research focuses on clastic sedimentology and stratigraphy, particularly in deep-water depositional systems and submarine environments. I use outcrop analogs, core, subsurface datasets, and modern-seafloor observations to improve prediction of reservoir architecture, heterogeneity, and fluid flow.
+
+Current themes include stratigraphic architecture and scaling relationships, sediment budgets and sediment-routing systems, and the integration of field observations with digital and quantitative workflows.
+
+For publications and ongoing work, see the `Publications` page, my `Google Scholar` profile, and the fuller project and funding details in the `CV`.

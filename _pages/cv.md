@@ -104,9 +104,9 @@ With over 20 years of experience in clastic sedimentology, particularly in deep-
 **Colorado School of Mines, Golden, CO**  
 &emsp;Department of Geology and Geological Engineering  
 &emsp;Associate Research Professor
-Director of CoRE (Geology Center of Research Excellence) (2016-present)
-Director of the Earth Resource Data Science gradaute certificate program (2021-present)
-Director of PTTC Rockies (2025-present)
+&emsp;Director of CoRE (Geology Center of Research Excellence) (2016-present)
+&emsp;Director of the Earth Resource Data Science gradaute certificate program (2021-present)
+&emsp;Director of PTTC Rockies (2025-present)
 
 **June 2010–May 2016**  
 **Shell Oil Company, Houston, TX**  
@@ -232,9 +232,9 @@ document.addEventListener("DOMContentLoaded", function () {
 {% include publications-from-cv.md %}
 
 ## Teaching Experience
-**Colorado School of Mines**
+### Colorado School of Mines
 
-Online
+#### Online
 
 &emsp;- 2025 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals  
 &emsp;- 2024 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (16 students), review of 4.86/5.0  
@@ -247,14 +247,14 @@ Online
 &emsp;- 2020 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (27 students), review of 4.9/5.0  
 &emsp;- 2019-2020 development of the Earth Resource Data Science graduate certificate (passed through Colorado Board of Trustees)  
 
-Classroom
+#### Classroom
 
 &emsp;- 2023 Spring – GEOL 624 Carbonate Sedimentology (9 students, co-taught with Slootman, Plink-Björklund, and Wood)  
 &emsp;- 2018 Fall – 1 hour graduate seminar “Interpreting Turbidites in Core” with 9 students and overall review of 4.71/5.00  
 &emsp;- 2017 Fall – 1 hour graduate seminar “Turbidite Stratigraphic Architecture” with 14 students and overall review of 5.00/5.00  
 &emsp;- 2017 Spring – 1 hour graduate seminar “Linkages between geomorphology and the stratigraphic record” with 15 students and an overall review of 4.89/5.00  
 
-Field trips
+#### Field trips
 
 &emsp;- SEPM Slope and Deep-Water Mixed Carbonate-Siliciclastic Architectural Elements of the Delaware Basin, Texas: A Core and Field Workshop (Twice back-to-back during May 2019, with Xavier Janson and Greg Hurd)  
 &emsp;- “Field-based Deepwater Reservoirs in Southern California”  
@@ -264,17 +264,17 @@ Field trips
 &emsp;- Field-based Deepwater Reservoirs in Ireland” for BP: June 2023, June 2024  
 &emsp;- Permian Carbonate Sediment Routing Systems, Guadalupe Mountains, Texas: March 2018 (with Rick Sarg and Mary Carr)  
 
-Virtual field trips
+#### Virtual field trips
 
 &emsp;- Four-module deepwater sedimentology course for BP (processes, channels, lobes, minibasins): 2022, 2023, 2024  
 
-**Petroleum Technology Transfer Council**
+### Petroleum Technology Transfer Council
 
 &emsp;- 2017 (December 7) – “Turbidite Crash Course”, 1 day core workshop at the USGS CRC  
 
-**Shell**
+### Shell
 
-Field trip leader (field-based with classroom portions)
+#### Field trip leader (field-based with classroom portions)
 
 &emsp;- “Turbidites of Southern California” (March 2011, March 2012, March 2013)  
 &emsp;- “Integrated Reservoir Modelling for Turbidites”  
@@ -284,20 +284,20 @@ Field trip leader (field-based with classroom portions)
 &emsp;- “Experimental and Outcrop Analogs for Campos Basin, Brazil”, Porto Alegre, Brazil and Puerto Natales, Chile (February 2014, January 2015, March 2020)  
 &emsp;- “Introduction to Sediment Gravity Flows Through Experiments”, Saint Anthony Falls, Univ. of Minnesota (June 2014)  
 
-Classroom-based courses
+#### Classroom-based courses
 
 &emsp;- Seismic and Sequence Stratigraphy, September 2012  
 &emsp;- 3D Seismic Interpretation (Stratigraphic), March 2012  
 
-**Stanford University**
+### Stanford University
 
-Field trip leader
+#### Field trip leader
 
 &emsp;- SPODDS Consortium meeting, Magallanes Basin, Chile, February 2009  
 &emsp;- West Texas field seminar (2008)  
 &emsp;- Shell Brazil & PetroBras, Magallanes Basin, Chile, February 2007  
 
-Graduate Teaching Assistant, 2005-2010
+#### Graduate Teaching Assistant, 2005-2010
 
 &emsp;- Petroleum Geology (2008, 2009)  
 &emsp;- Depositional Environments (2009)  
@@ -305,17 +305,17 @@ Graduate Teaching Assistant, 2005-2010
 
 
 ## Mentoring Experience
-**Colorado School of Mines**
+### Colorado School of Mines
 
-Research associates
+#### Research associates
 
 &emsp;- Lauren Shumaker (2016-2018, 2 year postdoc)  
 &emsp;- Ross Meyer (2018-2020, data scientist)  
 &emsp;- Arnoud Slootman (2022-2025, 3 year postdoc)  
 
-Primary advisees (chronological)
+#### Primary advisees (chronological)
 
-PhD
+#### PhD
 
 &emsp;- Luke Pettinga (PhD student, 2020)  
 &emsp;- Thomas Martin (PhD student, 2022)  
@@ -325,7 +325,7 @@ PhD
 &emsp;- Marat Ibagarov (PhD student, 2026)  
 &emsp;- David Chibuzor Nworie (PhD student, 2026)  
 
-MSc
+#### MSc
 
 &emsp;- Rosie Fryer (2018)  
 &emsp;- Wylie Walker (2019)  
@@ -343,12 +343,12 @@ MSc
 &emsp;- Viska Dewi (2025)  
 &emsp;- Jutamas Charoensuk (2027)  
 
-Committee member for:
+#### Committee member for:
 
 &emsp;- PhD: Mark Hansford, Michael Peffer, Sebastian Cardona, Dessy Sapardina, Pengfei Hou, Haipeng Li, Jianqiao Wang, Rania Pommer, Hirofumi Kobayashi, Jacquie Colborne, Alexis Wright, Hani Alzahrani, Luke Weidner, Forrest McFarlin, Chris Matson, Zaid Nadhim, Matt Musso, Mohamed Daniel Davis bin Monhamed, Adesh Pandey,  
 &emsp;- MSc:Brittany Abbuhl, April Bievenour, Victoria Blanchard, Alyssa Charsky, Alex Cheney, Stephen Schwarz, Obianuju Ugwu-Oju, Sonia Ellison, Cahill Kelleghan, Jennifer Blake, Selena Neale, Matt Musso, Shane McWilliams, Fredrik Engstrom, Abdulrahman AlHussaini, Andrew Swift  
 
-Undergraduate researchers
+#### Undergraduate researchers
 
 &emsp;- Dingxin Cai (2017 MURF)  
 &emsp;- Ali Downard (2018 MURF)  
@@ -363,7 +363,7 @@ Undergraduate researchers
 &emsp;- Computer Science field session group 2023 CT-scan (Connor Sparks, Asa Sprow, Kira Hanson, Carla Ellefsen)  
 &emsp;- Sera Maurice Reyes 2024-2026  
 
-**Shell Oil Company summer internships**
+### Shell Oil Company summer internships
 
 &emsp;- Neal Auchter (2015)  
 &emsp;- Andrew Parker (2013)  
