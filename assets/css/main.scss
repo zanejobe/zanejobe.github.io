@@ -8,6 +8,15 @@ html {
   font-size: 14px;
 }
 
+/* Apply a consistent readable downscale across all page content. */
+body {
+  font-size: 0.95rem;
+}
+
+.page__content {
+  font-size: 0.95rem;
+}
+
 /* Enforce requested dark gray + white text baseline. */
 body,
 .layout--single,
