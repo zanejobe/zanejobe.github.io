@@ -1,3 +1,5 @@
+<div class="publications-list">
+
 ## Peer-Reviewed Publications
 
 ### In the Pipeline
@@ -188,6 +190,8 @@
 2\. Main, D.A., Jobe, Z.R., Avdeev, B.C., Caster, J.L., & Holbrook, J.M., 2005, Surficial material map of the Norborne 7.5’ Quadrangle, Carroll County, Missouri: Missouri Division of Geology and Land Survey, Open-File Report, Scale 1:24000.
 
 1\. Jobe, Z. R., Main, D.A., Avdeev, B.C., Caster, J.L., & Holbrook, J.M., 2005, Surficial material map of the Dover 7.5’ Quadrangle, Carroll County, Missouri: Missouri Division of Geology and Land Survey, Open-File Report, Scale 1:24000. [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2011-Jobe-et-al-MAP-Dover-quad-MIssouri.pdf)
+
+</div>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {

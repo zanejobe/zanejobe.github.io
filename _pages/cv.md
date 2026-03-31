@@ -250,9 +250,9 @@ document.addEventListener("DOMContentLoaded", function () {
 #### Classroom
 
 &emsp;- 2023 Spring – GEOL 624 Carbonate Sedimentology (9 students, co-taught with Slootman, Plink-Björklund, and Wood)  
-&emsp;- 2018 Fall – 1 hour graduate seminar “Interpreting Turbidites in Core” with 9 students and overall review of 4.71/5.00  
-&emsp;- 2017 Fall – 1 hour graduate seminar “Turbidite Stratigraphic Architecture” with 14 students and overall review of 5.00/5.00  
-&emsp;- 2017 Spring – 1 hour graduate seminar “Linkages between geomorphology and the stratigraphic record” with 15 students and an overall review of 4.89/5.00  
+&emsp;- 2018 Fall – GEOL 598 seminar “Interpreting Turbidites in Core” with 9 students and overall review of 4.71/5.00  
+&emsp;- 2017 Fall – GEOL 598 seminar “Turbidite Stratigraphic Architecture” with 14 students and overall review of 5.00/5.00  
+&emsp;- 2017 Spring – GEOL 598 seminar “Linkages between geomorphology and the stratigraphic record” with 15 students and an overall review of 4.89/5.00  
 
 #### Field trips
 
@@ -416,69 +416,64 @@ document.addEventListener("DOMContentLoaded", function () {
 - UTA Mineralogy Award for excellence in Mineralogy class, 2002 ($200)
 
 ## Professional and Community Involvement
-- Colorado School of Mines
-- 2022
-- Co-convener (Elisabeth Steel and Brian Willis) Session T8-2: Linking surface dynamics to the stratigraphic record at 2022 ISC Beijing
-- 2021
-- TopCorp core workshop (50 participants)
-- 2020
-- Xeek data science contest designer and co-host (January 24)
-- 2019
-- Planned and executed a Mines booth at the RMAG Permian Basin Symposium
-- Mentored the Mines AAPG IBA team
-- Hosted Martin Nauton as a summer visiting scholar
-- Represented Mines at the StraboSpot meeting in Salt Lake City
-- Represented Mines at the unveiling of TTU Permian Basin Research Center, Midland TX
-- 2018
-- Pro-bono taught “Turbidites in Core” Fall 2018, with review of 4.71/5.00
-- Planned and co-led a Book Cliffs field trip with Mike Boyles
-- Representative for USGS ‘Subsurface Frontiers’ initiative for a new building on campus
-- Planned and executed a Mines booth and alumni event at the annual AAPG convention
-- 2017
-- Pro-bono taught “Linkages Between Geomorphology and the Stratigraphic Record” Spring 2017, with review of 4.89/5.00
-- Pro-bono taught “Turbidite Stratigraphic Architecture” Fall 2017; co-taught with Lauren Shumaker, with review of 5.00/5.00
-- Organized Mines Alumni event at AAPG conference in Houston
-- GE Undergraduate Summer Research Program award (Dingxin Cai - $3,200)
-- Attended Mines Undergraduate Commencement in May 2017
+### Colorado School of Mines
+- 2026: Co-convener for the SEPM ISGC II at Colorado School of Mines 
+- 2025: Hosted Bolashaq visiting scholar Yessimkhan Seitkhaziyev at Mines for 12 month stay
+- 2024-2025: GGE Research committee member
+- 2022: Co-convener (Elisabeth Steel and Brian Willis) Session T8-2: Linking surface dynamics to the stratigraphic record at 2022 ISC Beijing
+- 2021: TopCorp core workshop (50 participants)
+- 2020: Xeek data science contest designer and co-host (January 24)
+- 2019: Planned and executed a Mines booth at the RMAG Permian Basin Symposium
+- 2019: Mentored the Mines AAPG IBA team
+- 2019: Hosted Martin Nauton as a summer visiting scholar
+- 2019: Represented Mines at the StraboSpot meeting in Salt Lake City
+- 2019: Represented Mines at the unveiling of TTU Permian Basin Research Center, Midland TX
+- 2018: Pro-bono taught “Turbidites in Core” Fall 2018, with review of 4.71/5.00
+- 2018: Pro-bono Planned and co-led a Book Cliffs field trip with Mike Boyles
+- 2018: Representative for USGS ‘Subsurface Frontiers’ initiative for a new building on campus
+- 2018: Planned and executed a Mines booth and alumni event at the annual AAPG convention
+- 2017: Pro-bono taught “Linkages Between Geomorphology and the Stratigraphic Record” Spring 2017, with review of 4.89/5.00
+- 2017: Pro-bono taught “Turbidite Stratigraphic Architecture” Fall 2017; co-taught with Lauren Shumaker, with review of 5.00/5.00
+- 2017: Organized Mines Alumni event at AAPG conference in Houston
 - 2016: Attended Mines Preview Day, October 29, 2016
-- Author of “off the shelf edge” geology blog https://offtheshelfedge.wordpress.com/, 2010-present
-- SEPM (Society of Sedimentary Geology)
-- Sedimentology Councilor (elected position): 2019-2021
-- Leader of the ‘Deepwater Research Group’ (2016-2019)
-- Executive committee member for the inaugural ‘Bouma conference’ to be held in 2021
-- Planning committee member for the 2020 SEPM meeting in Flagstaff, Arizona
-- Organizer for nomination of Donald R. Lowe for the 2016 Twenhofel Lifetime Achievement Award for outstanding contributions to sedimentology and sedimentary geology
+
+### SEPM (Society of Sedimentary Geology)
+- 2026: Co-convenor for the SEPM ISGC II in Golden, CO
+- 2019-2021: Sedimentology Councilor (elected position)
+- 2016-2019: Leader of the ‘Deepwater Research Group’
+- 2021: Executive committee member for the inaugural ‘Bouma conference’ to be held in 2021
+- 2020: Planning committee member for the 2020 SEPM meeting in Flagstaff, Arizona
+- 2016: Organizer for nomination of Donald R. Lowe for the 2016 Twenhofel Lifetime Achievement Award for outstanding contributions to sedimentology and sedimentary geology
+
+### AAPG (American Association of Petroleum Geologists)
+- 2017: Co-editor of the 2017 AAPG Centennial “Outcrops” atlas
+- 2016: [Interview for the AAPG Learn Blog (August 2016)](http://www.aapg.org/publications/blogs/learn/article/Articleid/33427/outcrops-and-modern-depositional-systems-as-reservoir-analogs-interview-with-zane-jobe)
+- 2013: Organizer for nomination of, and keynote speaker for Donald R. Lowe for the 2013 American Association of Petroleum Geologists Distinguished Educator award
+
+- 2018: Theme chair, Siliciclastics (with Gary Hampson)
+- 2018: Session chair (x4): Theme 1: Using Experiments and Models to Understand Depositional Patterns and Reservoir Architecture III and IV (SEPM), Theme 1: Deepwater Depositional Environments I and IV (SEPM)
+- 2017: Session chair “Stratigraphic Architecture of Deepwater Systems: Subsurface, Outcrop, and Modern Analogs”; co-chairs Brian Romans and Steve Hubbard; “Deepwater Deposits: From Classic Models to Paradigm Shifts”; co-chairs Dave Hodgson and Anna Pontén
+- 2014: Oral session chair – “Turbidites and Contourites”; co-chairs Emiliano Mutti and Joris Eggenhuisen; Poster session chair, “Sedimentology, Architecture and Process Controls of Deepwater Siliciclastic Systems”; co-chairs: Bret Dixon and Michael Pyrcz
+
+### AGU (American Geophysical Union)
+- 2016: Fall Meeting, session co-chair, “Sediment transport capacity in flows: evolution from upland catchments to the deep ocean”; co-chairs Rob Dorrell, Lawrence Amy, Nick Howes
+- 2015: Fall meeting session co-chair, “Mass Extraction and Grain Size Fractionation in Sediment Routing Systems: Tracking Sediment from Upland Catchments to the Deep Ocean”; co-chairs Anjali Fernandes, Nick Howes, Liz Hajek
+- 2014: Fall Meeting, poster session chair, “Sinuous Channels in Subaerial and Submarine Environments: Comparing Flow, Form, and Fill”, co-chairs Jacob Covault, Zoltan Sylvester, Nick Howes
+- 2012: Fall Meeting, oral and poster session chair, “Linking Geomorphology and Morphodynamics to Sediment Budgets, Sediment Caliber, and the Stratigraphic Record”; co-chair Jacob Covault
+
+### GSA (Geological Society of America)
+- 2016: Annual Meeting, session chair, “Deep-Marine Sedimentary Environments: Linking Depositional Processes, Geomorphology, and the Sedimentary Record”; co-chairs Lauren Shumaker and Katie Coble
+
+### General 
+- Author of [“off the shelf edge” geology blog](https://offtheshelfedge.wordpress.com/), 2010–present
 - Associate Chair (2020 onward) for the UNESCO supported “S4Slide” initiative (Significance of Modern and Ancient Submarine Slope Landslides)
 - Co-author of educational article about submarine channels in the magazine “The Sedimentary Record” (September 2016 issue)
-- Co-editor of the 2017 AAPG Centennial “Outcrops” atlas
-- Interview for the AAPG Learn Blog (August 2016) - http://www.aapg.org/publications/blogs/learn/article/Articleid/33427/outcrops-and-modern-depositional-systems-as-reservoir-analogs-interview-with-zane-jobe
 - Participant, 2014 NSF workshop, “Increasing the Access to and the Relevance of Marine Seismic Data” 
-- Organizer for nomination of, and keynote speaker for Donald R. Lowe for the 2013 American Association of Petroleum Geologists Distinguished Educator award
 - Provided letters of recommendation for Pat Nguyen, Rob Dorrell, Mike Clare, Lauren Shumaker, Anne Bernhardt, Dingxin Cai, Ali Downard
 - Developer and leader, Sedimentology Network, Shell, 2010-2013
 - Sedimentary Research Group Coordinator, Stanford University 2008-2010
-- AAPG (American Association of Petroleum Geologists)
-- 2018 Annual Convention and Exhibition, Salt Lake City
-- Theme chair, Siliciclastics (with Gary Hampson)
-- Session chair:
-- Theme 1: Using Experiments and Models to Understand Depositional Patterns and Reservoir Architecture III (SEPM)
-- Theme 1: Using Experiments and Models to Understand Depositional Patterns and Reservoir Architecture IV (SEPM)
-- Theme 1: Deepwater Depositional Environments I (SEPM)
-- Theme 1: Deepwater Depositional Environments IV (SEPM)
-- 2017 Annual Convention and Exhibition, Houston
-- Session chair “Stratigraphic Architecture of Deepwater Systems: Subsurface, Outcrop, and Modern Analogs”; co-chairs Brian Romans and Steve Hubbard
-- Session chair “Deepwater Deposits: From Classic Models to Paradigm Shifts”; co-chairs Dave Hodgson and Anna Pontén
-- 2014 Annual Convention and Exhibition
-- Oral session chair – “Turbidites and Contourites”; co-chairs Emiliano Mutti and Joris Eggenhuisen
-- Poster session chair, “Sedimentology, Architecture and Process Controls of Deepwater Siliciclastic Systems”; co-chairs: Bret Dixon and Michael Pyrcz
-- AGU (American Geophysical Union)
-- 2016 Fall Meeting, session co-chair, “Sediment transport capacity in flows: evolution from upland catchments to the deep ocean”; co-chairs Rob Dorrell, Lawrence Amy, Nick Howes
-- 2015 Fall meeting session co-chair, “Mass Extraction and Grain Size Fractionation in Sediment Routing Systems: Tracking Sediment from Upland Catchments to the Deep Ocean”; co-chairs Anjali Fernandes, Nick Howes, Liz Hajek
-- 2014 Fall Meeting, poster session chair, “Sinuous Channels in Subaerial and Submarine Environments: Comparing Flow, Form, and Fill”, co-chairs Jacob Covault, Zoltan Sylvester, Nick Howes
-- 2012 Fall Meeting, oral and poster session chair, “Linking Geomorphology and Morphodynamics to Sediment Budgets, Sediment Caliber, and the Stratigraphic Record”; co-chair Jacob Covault
-- GSA (Geological Society of America)
-- 2016 Annual Meeting, session chair, “Deep-Marine Sedimentary Environments: Linking Depositional Processes, Geomorphology, and the Sedimentary Record”; co-chairs Lauren Shumaker and Katie Coble
-- Professional organization memberships:
+
+## Professional organization memberships
 - SEPM (Society for Sedimentary Geology)
 - IAS (International Association for Sedimentology)
 - AAPG (American Association of Petroleum Geologists)
@@ -541,6 +536,8 @@ document.addEventListener("DOMContentLoaded", function () {
   - Play Based Exploration – 3 days
   - Unconventionals – 1 day
   - Subsurface Integration (G180) – 10 days
+
+<div class="abstracts-list">
 
 ## CONFERENCE ABSTRACTS AND PRESENTATIONS 2021 and prior (2021-present not tracked)
 73\. Martin, T., Tadla, J., Jobe, Z.R., 2021, Digitalization of legacy datasets from the Lewis Shale yields insights for reservoir properties and submarine-fan evolution. AAPG IMAGE meeting, Denver  
@@ -616,3 +613,5 @@ document.addEventListener("DOMContentLoaded", function () {
 3\. Main, D.J., Holbrook, J., Jobe, Z.R., Avdeev, B., Caster, J., 2005, First record of late Pleistocene deposits from the Missouri river valley, Norborne quadrangle, MO, Geological Society of America annual meeting, Abstracts with programs, 2005.  
 2\. Jobe, Z.R., Kleim, G., & Holbrook, J.M., 2005, Using fluvial sedimentology to guide vegetation and shallow water habitat rehabilitation in the Big Muddy Fish and Wildlife Refuge, Missouri, GSA abstracts with programs, vol.31, no. 3.  
 1\. Jobe, Z.R., 2004, Microfauna of the upper Bell Canyon Formation (Permian), Univ. of Texas at Arlington ACES 2004 abstracts.  
+
+</div>

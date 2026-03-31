@@ -84,6 +84,16 @@ a:focus {
   border-radius: 4px;
 }
 
+.publications-list p {
+  padding-left: 2rem;
+  text-indent: -2rem;
+}
+
+.abstracts-list p {
+  padding-left: 2rem;
+  text-indent: -2rem;
+}
+
 @media (max-width: 800px) {
   .home-intro {
     display: block;
