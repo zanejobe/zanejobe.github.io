@@ -79,14 +79,12 @@ With over 20 years of experience in clastic sedimentology, particularly in deep-
 - Technical presentations and peer-reviewed publications
 
 ## Education
-**2010**  
-**Ph.D. in Geology**, Stanford University  
+**2010 Ph.D. in Geology**, Stanford University  
 &emsp;*Thesis:* “Multi-Scale Architectural Evolution and Flow Property Characterization of Channelized Turbidite Systems”  
 &emsp;*Primary Advisor:* Donald R. Lowe ([drlowe@stanford.edu](mailto:drlowe@stanford.edu))  
 &emsp;*Secondary Advisor:* Stephan A. Graham ([sagraham@stanford.edu](mailto:sagraham@stanford.edu))
 
-**2004**  
-**Honors B.S. in Geology, Summa Cum Laude**, University of Texas at Arlington  
+**2004 Honors B.S. in Geology, Summa Cum Laude**, University of Texas at Arlington  
 &emsp;*Thesis:* “Stratigraphy of the upper Bell Canyon Formation (Guadalupian Stage, Permian System), Seven Heart Gap, Apache Mountains, Trans-Pecos Texas”  
 &emsp;*Supervisor:* Merlynd Nestell ([nestell@uta.edu](mailto:nestell@uta.edu))
 
