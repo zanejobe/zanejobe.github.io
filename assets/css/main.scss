@@ -62,10 +62,38 @@ a:focus {
   color: #ffffff !important;
 }
 
+.home-intro {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.home-intro__text {
+  flex: 1 1 0;
+}
+
+.home-intro__image {
+  flex: 0 0 260px;
+}
+
 .home-portrait {
   display: block;
   width: 100%;
-  max-width: 460px;
-  margin: 0 auto 1.25rem auto;
+  max-width: 260px;
+  margin: 0 0 1rem auto;
   border-radius: 4px;
+}
+
+@media (max-width: 800px) {
+  .home-intro {
+    display: block;
+  }
+
+  .home-intro__image {
+    margin-top: 1rem;
+  }
+
+  .home-portrait {
+    margin-left: 0;
+  }
 }

@@ -26,7 +26,17 @@ With over 20 years of experience in clastic sedimentology, particularly in deep-
 
 ### Research: funding and products
 
-- $6,406,775 total fundraising since 2016 at Colorado School of Mines
+{% assign overview_major_received = 0 %}
+{% for grant in site.data.grants_major.items %}
+  {% assign overview_major_received = overview_major_received | plus: grant.received_amount %}
+{% endfor %}
+{% assign overview_student_total = 0 %}
+{% for grant in site.data.grants_student.items %}
+  {% assign overview_student_total = overview_student_total | plus: grant.amount %}
+{% endfor %}
+{% assign overview_total_fundraising = overview_major_received | plus: overview_student_total %}
+
+- $<span class="grants-total" data-value="{{ overview_total_fundraising }}">{{ overview_total_fundraising }}</span> total fundraising since 2016 at Colorado School of Mines
 - Director of the Geology Center of Research Excellence, 2016-present, [core.mines.edu](https://core.mines.edu)
 - Published 60 peer-reviewed journal articles and >100 conference abstracts
 - h-index 26 and i10-index 38 (metrics from Google Scholar)
