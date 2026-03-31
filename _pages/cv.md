@@ -155,12 +155,12 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
 <table class="grants-table">
   <thead>
     <tr>
-      <th>Years</th>
-      <th>Source</th>
-      <th>Project</th>
-      <th style="text-align: right;">Submitted</th>
-      <th style="text-align: right;">Received</th>
-      <th>Status</th>
+      <th style="background: transparent; background-color: transparent; color: #ffffff;">Years</th>
+      <th style="background: transparent; background-color: transparent; color: #ffffff;">Source</th>
+      <th style="background: transparent; background-color: transparent; color: #ffffff;">Project</th>
+      <th style="text-align: right; background: transparent; background-color: transparent; color: #ffffff;">Submitted</th>
+      <th style="text-align: right; background: transparent; background-color: transparent; color: #ffffff;">Received</th>
+      <th style="background: transparent; background-color: transparent; color: #ffffff;">Status</th>
     </tr>
   </thead>
   <tbody>
@@ -190,11 +190,11 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
 <table class="grants-table">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Year</th>
-      <th>Recipient</th>
-      <th style="text-align: right;">Amount</th>
-      <th>Source</th>
+      <th style="background: transparent; background-color: transparent; color: #ffffff;">Category</th>
+      <th style="background: transparent; background-color: transparent; color: #ffffff;">Year</th>
+      <th style="background: transparent; background-color: transparent; color: #ffffff;">Recipient</th>
+      <th style="text-align: right; background: transparent; background-color: transparent; color: #ffffff;">Amount</th>
+      <th style="background: transparent; background-color: transparent; color: #ffffff;">Source</th>
     </tr>
   </thead>
   <tbody>
