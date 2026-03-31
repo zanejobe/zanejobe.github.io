@@ -46,6 +46,16 @@ a:focus {
   color: #ffffff;
 }
 
+.page__content table th,
+.page__content table td {
+  border-color: #4a4a4a;
+}
+
+.page__content table th {
+  background: transparent;
+  color: #ffffff;
+}
+
 .home-portrait {
   display: block;
   width: 100%;
