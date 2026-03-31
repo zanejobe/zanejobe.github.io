@@ -148,3 +148,13 @@ items:
     received_amount: 0
     received_display: "$0"
     status: "not funded"
+
+  - start_year: 2016
+    end_year: 2019
+    source: "Chevron"
+    project: "Center of Research Excellence"
+    submitted_amount: 1800000
+    submitted_display: "$1,800,000"
+    received_amount: 1800000
+    received_display: "$1,800,000"
+    status: "awarded"

@@ -254,54 +254,76 @@ document.addEventListener("DOMContentLoaded", function () {
 - Invited contributor for 3 articles in the 2009 Society of Sedimentary Geology (SEPM) Field Trip Guide #10, “Stratigraphic Evolution of Deep-Water Architecture: Examples on Controls and Depositional Styles from the Magallanes Basin, Chile”
 
 ## Teaching Experience
-- Colorado School of Mines
-- Online
-- 2025 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals
-- 2024 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (16 students), review of 4.86/5.0
-- 2023 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (29 students), review of 4.5/5.0
-- 2023 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (19 students)
-- 2022 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (34 students), review of 4.9/5.0
-- 2022 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (17 students)
-- 2021 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (33 students), review of 4.9/5.0
-- 2021 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (15 students), review of 4.75/5.0
-- 2020 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (27 students), review of 4.9/5.0
-- 2019-2020 development of the Earth Resource Data Science graduate certificate (passed through Colorado Board of Trustees)
-- Classroom
-- 2023 Spring – GEOL 624 Carbonate Sedimentology (9 students, co-taught with Slootman, Plink-Björklund, and Wood)
-- 2018 Fall – 1 hour graduate seminar “Interpreting Turbidites in Core” with 9 students and overall review of 4.71/5.00
-- 2017 Fall – 1 hour graduate seminar “Turbidite Stratigraphic Architecture” with 14 students and overall review of 5.00/5.00
-- 2017 Spring – 1 hour graduate seminar “Linkages between geomorphology and the stratigraphic record” with 15 students and an overall review of 4.89/5.00
-- Field trips
-- SEPM Slope and Deep-Water Mixed Carbonate-Siliciclastic Architectural Elements of the Delaware Basin, Texas: A Core and Field Workshop (Twice back-to-back during May 2019, with Xavier Janson and Greg Hurd)
-- “Field-based Deepwater Reservoirs in Southern California”
-- for BP: July 2018, October 2018, March 2019, October 2019, February 2020, March 2022, November 2022, March 2023, February 2025;
-- For Hess: October 2022, April 2025
-- For Inpex, March 2018 (with Mary Carr)
-- Field-based Deepwater Reservoirs in Ireland” for BP: June 2023, June 2024
-- Permian Carbonate Sediment Routing Systems, Guadalupe Mountains, Texas: March 2018 (with Rick Sarg and Mary Carr)
-- Virtual field trips
-- Four-module deepwater sedimentology course for BP (processes, channels, lobes, minibasins): 2022, 2023, 2024
-- Petroleum Technology Transfer Council
-- 2017 (December 7) – “Turbidite Crash Course”, 1 day core workshop
-- Field trip leader, Shell (field-based with classroom portions)
-- “Turbidites of Southern California” (March 2011, March 2012, March 2013)
-- “Integrated Reservoir Modelling for Turbidites”
-- Tabernas-Sorbas basin, Spain, November 2011
-- Ross Sandstone, Ireland, June 2012, July 2013, July 2014, August 2016
-- “Basins and Reservoirs”, Guadalupe Mountains, west Texas (September 2013, September 2014, March 2015, March 2016, March 2019, September 2020)
-- “Experimental and Outcrop Analogs for Campos Basin, Brazil”, Porto Alegre, Brazil and Puerto Natales, Chile (February 2014, January 2015, March 2020)
-- “Introduction to Sediment Gravity Flows Through Experiments”, Saint Anthony Falls, Univ. of Minnesota (June 2014)
-- Classroom-based courses, Shell
-- Seismic and Sequence Stratigraphy, September 2012
-- 3D Seismic Interpretation (Stratigraphic), March 2012
-- Field trip leader, Stanford University
-- SPODDS Consortium meeting, Magallanes Basin, Chile, February 2009
-- West Texas field seminar (2008)
-- Shell Brazil & PetroBras, Magallanes Basin, Chile, February 2007
-- Stanford University, 2005-2010: Graduate Teaching Assistant
-- Petroleum Geology (2008, 2009)
-- Depositional Environments (2009)
-- Sedimentary Basins (2007, 2008)
+**Colorado School of Mines**
+
+Online
+
+&emsp;- 2025 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals
+&emsp;- 2024 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (16 students), review of 4.86/5.0
+&emsp;- 2023 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (29 students), review of 4.5/5.0
+&emsp;- 2023 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (19 students)
+&emsp;- 2022 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (34 students), review of 4.9/5.0
+&emsp;- 2022 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (17 students)
+&emsp;- 2021 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (33 students), review of 4.9/5.0
+&emsp;- 2021 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (15 students), review of 4.75/5.0
+&emsp;- 2020 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (27 students), review of 4.9/5.0
+&emsp;- 2019-2020 development of the Earth Resource Data Science graduate certificate (passed through Colorado Board of Trustees)
+
+Classroom
+
+&emsp;- 2023 Spring – GEOL 624 Carbonate Sedimentology (9 students, co-taught with Slootman, Plink-Björklund, and Wood)
+&emsp;- 2018 Fall – 1 hour graduate seminar “Interpreting Turbidites in Core” with 9 students and overall review of 4.71/5.00
+&emsp;- 2017 Fall – 1 hour graduate seminar “Turbidite Stratigraphic Architecture” with 14 students and overall review of 5.00/5.00
+&emsp;- 2017 Spring – 1 hour graduate seminar “Linkages between geomorphology and the stratigraphic record” with 15 students and an overall review of 4.89/5.00
+
+Field trips
+
+&emsp;- SEPM Slope and Deep-Water Mixed Carbonate-Siliciclastic Architectural Elements of the Delaware Basin, Texas: A Core and Field Workshop (Twice back-to-back during May 2019, with Xavier Janson and Greg Hurd)
+&emsp;- “Field-based Deepwater Reservoirs in Southern California”
+&emsp;- for BP: July 2018, October 2018, March 2019, October 2019, February 2020, March 2022, November 2022, March 2023, February 2025;
+&emsp;- For Hess: October 2022, April 2025
+&emsp;- For Inpex, March 2018 (with Mary Carr)
+&emsp;- Field-based Deepwater Reservoirs in Ireland” for BP: June 2023, June 2024
+&emsp;- Permian Carbonate Sediment Routing Systems, Guadalupe Mountains, Texas: March 2018 (with Rick Sarg and Mary Carr)
+
+Virtual field trips
+
+&emsp;- Four-module deepwater sedimentology course for BP (processes, channels, lobes, minibasins): 2022, 2023, 2024
+
+**Petroleum Technology Transfer Council**
+
+&emsp;- 2017 (December 7) – “Turbidite Crash Course”, 1 day core workshop
+
+**Shell**
+
+Field trip leader (field-based with classroom portions)
+
+&emsp;- “Turbidites of Southern California” (March 2011, March 2012, March 2013)
+&emsp;- “Integrated Reservoir Modelling for Turbidites”
+&emsp;- Tabernas-Sorbas basin, Spain, November 2011
+&emsp;- Ross Sandstone, Ireland, June 2012, July 2013, July 2014, August 2016
+&emsp;- “Basins and Reservoirs”, Guadalupe Mountains, west Texas (September 2013, September 2014, March 2015, March 2016, March 2019, September 2020)
+&emsp;- “Experimental and Outcrop Analogs for Campos Basin, Brazil”, Porto Alegre, Brazil and Puerto Natales, Chile (February 2014, January 2015, March 2020)
+&emsp;- “Introduction to Sediment Gravity Flows Through Experiments”, Saint Anthony Falls, Univ. of Minnesota (June 2014)
+
+Classroom-based courses
+
+&emsp;- Seismic and Sequence Stratigraphy, September 2012
+&emsp;- 3D Seismic Interpretation (Stratigraphic), March 2012
+
+**Stanford University**
+
+Field trip leader
+
+&emsp;- SPODDS Consortium meeting, Magallanes Basin, Chile, February 2009
+&emsp;- West Texas field seminar (2008)
+&emsp;- Shell Brazil & PetroBras, Magallanes Basin, Chile, February 2007
+
+Graduate Teaching Assistant, 2005-2010
+
+&emsp;- Petroleum Geology (2008, 2009)
+&emsp;- Depositional Environments (2009)
+&emsp;- Sedimentary Basins (2007, 2008)
 
 ## Mentoring Experience
 - Colorado School of Mines
