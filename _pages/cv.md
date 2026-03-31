@@ -236,72 +236,72 @@ document.addEventListener("DOMContentLoaded", function () {
 
 Online
 
-&emsp;- 2025 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals
-&emsp;- 2024 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (16 students), review of 4.86/5.0
-&emsp;- 2023 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (29 students), review of 4.5/5.0
-&emsp;- 2023 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (19 students)
-&emsp;- 2022 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (34 students), review of 4.9/5.0
-&emsp;- 2022 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (17 students)
-&emsp;- 2021 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (33 students), review of 4.9/5.0
-&emsp;- 2021 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (15 students), review of 4.75/5.0
-&emsp;- 2020 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (27 students), review of 4.9/5.0
-&emsp;- 2019-2020 development of the Earth Resource Data Science graduate certificate (passed through Colorado Board of Trustees)
+&emsp;- 2025 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals  
+&emsp;- 2024 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (16 students), review of 4.86/5.0  
+&emsp;- 2023 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (29 students), review of 4.5/5.0  
+&emsp;- 2023 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (19 students)  
+&emsp;- 2022 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (34 students), review of 4.9/5.0  
+&emsp;- 2022 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (17 students)  
+&emsp;- 2021 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (33 students), review of 4.9/5.0  
+&emsp;- 2021 Spring – GEOL 558 Earth Resource Data Science II: Applications and Machine-learning (15 students), review of 4.75/5.0  
+&emsp;- 2020 Fall – GEOL 557 Earth Resource Data Science I: Fundamentals (27 students), review of 4.9/5.0  
+&emsp;- 2019-2020 development of the Earth Resource Data Science graduate certificate (passed through Colorado Board of Trustees)  
 
 Classroom
 
-&emsp;- 2023 Spring – GEOL 624 Carbonate Sedimentology (9 students, co-taught with Slootman, Plink-Björklund, and Wood)
-&emsp;- 2018 Fall – 1 hour graduate seminar “Interpreting Turbidites in Core” with 9 students and overall review of 4.71/5.00
-&emsp;- 2017 Fall – 1 hour graduate seminar “Turbidite Stratigraphic Architecture” with 14 students and overall review of 5.00/5.00
-&emsp;- 2017 Spring – 1 hour graduate seminar “Linkages between geomorphology and the stratigraphic record” with 15 students and an overall review of 4.89/5.00
+&emsp;- 2023 Spring – GEOL 624 Carbonate Sedimentology (9 students, co-taught with Slootman, Plink-Björklund, and Wood)  
+&emsp;- 2018 Fall – 1 hour graduate seminar “Interpreting Turbidites in Core” with 9 students and overall review of 4.71/5.00  
+&emsp;- 2017 Fall – 1 hour graduate seminar “Turbidite Stratigraphic Architecture” with 14 students and overall review of 5.00/5.00  
+&emsp;- 2017 Spring – 1 hour graduate seminar “Linkages between geomorphology and the stratigraphic record” with 15 students and an overall review of 4.89/5.00  
 
 Field trips
 
-&emsp;- SEPM Slope and Deep-Water Mixed Carbonate-Siliciclastic Architectural Elements of the Delaware Basin, Texas: A Core and Field Workshop (Twice back-to-back during May 2019, with Xavier Janson and Greg Hurd)
-&emsp;- “Field-based Deepwater Reservoirs in Southern California”
-&emsp;- for BP: July 2018, October 2018, March 2019, October 2019, February 2020, March 2022, November 2022, March 2023, February 2025;
-&emsp;- For Hess: October 2022, April 2025
-&emsp;- For Inpex, March 2018 (with Mary Carr)
-&emsp;- Field-based Deepwater Reservoirs in Ireland” for BP: June 2023, June 2024
-&emsp;- Permian Carbonate Sediment Routing Systems, Guadalupe Mountains, Texas: March 2018 (with Rick Sarg and Mary Carr)
+&emsp;- SEPM Slope and Deep-Water Mixed Carbonate-Siliciclastic Architectural Elements of the Delaware Basin, Texas: A Core and Field Workshop (Twice back-to-back during May 2019, with Xavier Janson and Greg Hurd)  
+&emsp;- “Field-based Deepwater Reservoirs in Southern California”  
+&emsp;- for BP: July 2018, October 2018, March 2019, October 2019, February 2020, March 2022, November 2022, March 2023, February 2025;  
+&emsp;- For Hess: October 2022, April 2025  
+&emsp;- For Inpex, March 2018 (with Mary Carr)  
+&emsp;- Field-based Deepwater Reservoirs in Ireland” for BP: June 2023, June 2024  
+&emsp;- Permian Carbonate Sediment Routing Systems, Guadalupe Mountains, Texas: March 2018 (with Rick Sarg and Mary Carr)  
 
 Virtual field trips
 
-&emsp;- Four-module deepwater sedimentology course for BP (processes, channels, lobes, minibasins): 2022, 2023, 2024
+&emsp;- Four-module deepwater sedimentology course for BP (processes, channels, lobes, minibasins): 2022, 2023, 2024  
 
 **Petroleum Technology Transfer Council**
 
-&emsp;- 2017 (December 7) – “Turbidite Crash Course”, 1 day core workshop at the USGS CRC
+&emsp;- 2017 (December 7) – “Turbidite Crash Course”, 1 day core workshop at the USGS CRC  
 
 **Shell**
 
 Field trip leader (field-based with classroom portions)
 
-&emsp;- “Turbidites of Southern California” (March 2011, March 2012, March 2013)
-&emsp;- “Integrated Reservoir Modelling for Turbidites”
-&emsp;- Tabernas-Sorbas basin, Spain, November 2011
-&emsp;- Ross Sandstone, Ireland, June 2012, July 2013, July 2014, August 2016
-&emsp;- “Basins and Reservoirs”, Guadalupe Mountains, west Texas (September 2013, September 2014, March 2015, March 2016, March 2019, September 2020)
-&emsp;- “Experimental and Outcrop Analogs for Campos Basin, Brazil”, Porto Alegre, Brazil and Puerto Natales, Chile (February 2014, January 2015, March 2020)
-&emsp;- “Introduction to Sediment Gravity Flows Through Experiments”, Saint Anthony Falls, Univ. of Minnesota (June 2014)
+&emsp;- “Turbidites of Southern California” (March 2011, March 2012, March 2013)  
+&emsp;- “Integrated Reservoir Modelling for Turbidites”  
+&emsp;- Tabernas-Sorbas basin, Spain, November 2011  
+&emsp;- Ross Sandstone, Ireland, June 2012, July 2013, July 2014, August 2016  
+&emsp;- “Basins and Reservoirs”, Guadalupe Mountains, west Texas (September 2013, September 2014, March 2015, March 2016, March 2019, September 2020)  
+&emsp;- “Experimental and Outcrop Analogs for Campos Basin, Brazil”, Porto Alegre, Brazil and Puerto Natales, Chile (February 2014, January 2015, March 2020)  
+&emsp;- “Introduction to Sediment Gravity Flows Through Experiments”, Saint Anthony Falls, Univ. of Minnesota (June 2014)  
 
 Classroom-based courses
 
-&emsp;- Seismic and Sequence Stratigraphy, September 2012
-&emsp;- 3D Seismic Interpretation (Stratigraphic), March 2012
+&emsp;- Seismic and Sequence Stratigraphy, September 2012  
+&emsp;- 3D Seismic Interpretation (Stratigraphic), March 2012  
 
 **Stanford University**
 
 Field trip leader
 
-&emsp;- SPODDS Consortium meeting, Magallanes Basin, Chile, February 2009
-&emsp;- West Texas field seminar (2008)
-&emsp;- Shell Brazil & PetroBras, Magallanes Basin, Chile, February 2007
+&emsp;- SPODDS Consortium meeting, Magallanes Basin, Chile, February 2009  
+&emsp;- West Texas field seminar (2008)  
+&emsp;- Shell Brazil & PetroBras, Magallanes Basin, Chile, February 2007  
 
 Graduate Teaching Assistant, 2005-2010
 
-&emsp;- Petroleum Geology (2008, 2009)
-&emsp;- Depositional Environments (2009)
-&emsp;- Sedimentary Basins (2007, 2008)
+&emsp;- Petroleum Geology (2008, 2009)  
+&emsp;- Depositional Environments (2009)  
+&emsp;- Sedimentary Basins (2007, 2008)  
 
 
 ## Mentoring Experience
@@ -309,67 +309,66 @@ Graduate Teaching Assistant, 2005-2010
 
 Research associates
 
-&emsp;- Lauren Shumaker (2016-2018, 2 year postdoc)
-&emsp;- Ross Meyer (2018-2020, data scientist)
-&emsp;- Arnoud Slootman (2022-2025, 3 year postdoc)
+&emsp;- Lauren Shumaker (2016-2018, 2 year postdoc)  
+&emsp;- Ross Meyer (2018-2020, data scientist)  
+&emsp;- Arnoud Slootman (2022-2025, 3 year postdoc)  
 
 Primary advisees (chronological)
 
 PhD
 
-&emsp;- Luke Pettinga (PhD student, 2020)
-&emsp;- Thomas Martin (PhD student, 2022)
-&emsp;- Clark Gilbert (PhD student, 2023)
-&emsp;- Rachel Aisner Williams (PhD student, 2026)
-&emsp;- Guldana Alimzhanova (PhD student, 2026)
-&emsp;- Marat Ibagarov (PhD student, 2026)
-&emsp;- David Chibuzor Nworie (PhD student, 2026)
+&emsp;- Luke Pettinga (PhD student, 2020)  
+&emsp;- Thomas Martin (PhD student, 2022)  
+&emsp;- Clark Gilbert (PhD student, 2023)  
+&emsp;- Rachel Aisner Williams (PhD student, 2026)  
+&emsp;- Guldana Alimzhanova (PhD student, 2026)  
+&emsp;- Marat Ibagarov (PhD student, 2026)  
+&emsp;- David Chibuzor Nworie (PhD student, 2026)  
 
 MSc
 
-&emsp;- Rosie Fryer (2018)
-&emsp;- Wylie Walker (2019)
-&emsp;- Evan Gross (2019)
-&emsp;- Kaci Kus (2020)
-&emsp;- Chance Seckinger (2022)
-&emsp;- Hanaga Simabrata (2022)
-&emsp;- Nataly Chacón Buitrago (2022)
-&emsp;- Mitch Schneider (2022)
-&emsp;- Leonela Aguada (2023)
-&emsp;- Shaskia Herida Putri (2023)
-&emsp;- Sanzhar Begimbetov (2024)
-&emsp;- Luthfi Saifudin (2024)
-&emsp;- Maximiliano Miguez (2024)
-&emsp;- Viska Dewi (2025)
-&emsp;- Jutamas Charoensuk (2027)
+&emsp;- Rosie Fryer (2018)  
+&emsp;- Wylie Walker (2019)  
+&emsp;- Evan Gross (2019)  
+&emsp;- Kaci Kus (2020)  
+&emsp;- Chance Seckinger (2022)  
+&emsp;- Hanaga Simabrata (2022)  
+&emsp;- Nataly Chacón Buitrago (2022)  
+&emsp;- Mitch Schneider (2022)  
+&emsp;- Leonela Aguada (2023)  
+&emsp;- Shaskia Herida Putri (2023)  
+&emsp;- Sanzhar Begimbetov (2024)  
+&emsp;- Luthfi Saifudin (2024)  
+&emsp;- Maximiliano Miguez (2024)  
+&emsp;- Viska Dewi (2025)  
+&emsp;- Jutamas Charoensuk (2027)  
 
 Committee member for:
 
-&emsp;- PhD: Mark Hansford, Michael Peffer, Sebastian Cardona, Dessy Sapardina, Pengfei Hou, Haipeng Li, Jianqiao Wang, Rania Pommer, Hirofumi Kobayashi, Jacquie Colborne, Alexis Wright, Hani Alzahrani, Luke Weidner, Forrest McFarlin, Chris Matson, Zaid Nadhim, Matt Musso, Mohamed Daniel Davis bin Monhamed, Adesh Pandey,
-&emsp;- MSc:Brittany Abbuhl, April Bievenour, Victoria Blanchard, Alyssa Charsky, Alex Cheney, Stephen Schwarz, Obianuju Ugwu-Oju, Sonia Ellison, Cahill Kelleghan, Jennifer Blake, Selena Neale, Matt Musso, Shane McWilliams, Fredrik Engstrom, Abdulrahman AlHussaini, Andrew Swift
+&emsp;- PhD: Mark Hansford, Michael Peffer, Sebastian Cardona, Dessy Sapardina, Pengfei Hou, Haipeng Li, Jianqiao Wang, Rania Pommer, Hirofumi Kobayashi, Jacquie Colborne, Alexis Wright, Hani Alzahrani, Luke Weidner, Forrest McFarlin, Chris Matson, Zaid Nadhim, Matt Musso, Mohamed Daniel Davis bin Monhamed, Adesh Pandey,  
+&emsp;- MSc:Brittany Abbuhl, April Bievenour, Victoria Blanchard, Alyssa Charsky, Alex Cheney, Stephen Schwarz, Obianuju Ugwu-Oju, Sonia Ellison, Cahill Kelleghan, Jennifer Blake, Selena Neale, Matt Musso, Shane McWilliams, Fredrik Engstrom, Abdulrahman AlHussaini, Andrew Swift  
 
 Undergraduate researchers
 
-&emsp;- Dingxin Cai (2017 MURF)
-&emsp;- Ali Downard (2018 MURF)
-&emsp;- Andrew Harger (2018)
-&emsp;- Carissa Anderson (2019)
-&emsp;- Jared Tadla (2019-2020 MURF)
-&emsp;- Jessy Liao and Eric Klatzco (2020)
-&emsp;- Michael Field (2020-2021 MURF)
-&emsp;- Computer Science field session group 2020 (Lexie Ludeman, Jessy Liao, Courtney Richardson, Marcelo Gonzalez)
-&emsp;- Computer Science field session group 2021 (Grant Falkner, Matt Plumb, Ryan Armstrong, Patrick Schassberger)
-&emsp;- Computer Science field session group 2023 Lidar-fracture (Keshav Vembar, Rielly King, Zachary Royal, Adam Lisle)
-&emsp;- Computer Science field session group 2023 CT-scan (Connor Sparks, Asa Sprow, Kira Hanson, Carla Ellefsen)
-&emsp;- Sera Maurice Reyes 2024-2025
-&emsp;- Sylvia Hoyt 2025
+&emsp;- Dingxin Cai (2017 MURF)  
+&emsp;- Ali Downard (2018 MURF)  
+&emsp;- Andrew Harger (2018)  
+&emsp;- Carissa Anderson (2019)  
+&emsp;- Jared Tadla (2019-2020 MURF)  
+&emsp;- Jessy Liao and Eric Klatzco (2020)  
+&emsp;- Michael Field (2020-2021 MURF)  
+&emsp;- Computer Science field session group 2020 (Lexie Ludeman, Jessy Liao, Courtney Richardson, Marcelo Gonzalez)  
+&emsp;- Computer Science field session group 2021 (Grant Falkner, Matt Plumb, Ryan Armstrong, Patrick Schassberger)  
+&emsp;- Computer Science field session group 2023 Lidar-fracture (Keshav Vembar, Rielly King, Zachary Royal, Adam Lisle)  
+&emsp;- Computer Science field session group 2023 CT-scan (Connor Sparks, Asa Sprow, Kira Hanson, Carla Ellefsen)  
+&emsp;- Sera Maurice Reyes 2024-2026  
 
 **Shell Oil Company summer internships**
 
-&emsp;- Neal Auchter (2015)
-&emsp;- Andrew Parker (2013)
-&emsp;- Lauren Shumaker (2012, 2014)
-&emsp;- Cody Trigg (2014; also served as PhD committee member at Stanford University)
+&emsp;- Neal Auchter (2015)  
+&emsp;- Andrew Parker (2013)  
+&emsp;- Lauren Shumaker (2012, 2014)  
+&emsp;- Cody Trigg (2014; also served as PhD committee member at Stanford University)  
 
 ## Invited Presentations and Articles
 - October 2025 Invited Keynote speaker at the Digital Geoscience conference, Geological Society of London
@@ -544,76 +543,76 @@ Undergraduate researchers
   - Subsurface Integration (G180) – 10 days
 
 ## CONFERENCE ABSTRACTS AND PRESENTATIONS 2021 and prior (2021-present not tracked)
-73\. Martin, T., Tadla, J., Jobe, Z.R., 2021, Digitalization of legacy datasets from the Lewis Shale yields insights for reservoir properties and submarine-fan evolution. AAPG IMAGE meeting, Denver
-72\. Jobe, Z.R. and Laugier, F., 2021, From 1D to 4D: The humble graphic log as a means to quantify and predict stratigraphic complexity. AAPG IMAGE meeting, Denver
-71\. Jobe, Z.R., Howes, N., Martin, J., Meyer, R., Coutts, D., and Hou, P., Stright, L., and Laugier, F., 2021, Sedimentary graphic logs: A template for description and a toolkit for digitalization. AAPG IMAGE meeting, Denver
-70\. Chacon Buitrago, N., Jobe, Z.R., Walton, G., 2021, Automated Facies recognition using digital outcrop models and machine learning. AAPG IMAGE meeting, Denver
-69\. Gilbert, J.C. and Jobe, Z.R., 2021, Repetitive depositional architecture patterns demonstrate evolution of submarine channels on a steep margin: Miocene Modelo Formation, Lake Piru, Southern California. AAPG IMAGE meeting, Denver
-68\. Simabrata, H., Jobe, Z.R., Cardona, S., Wood, L., 2021, Spicule grain reorientation in mixed carbonate-siliciclastic mass transport deposits: A case study in the Cutoff Formation, Guadalupe Mountains, Texas. AAPG IMAGE meeting, Denver
-67\. Hou, P., Jobe, Z.R., Li, H., 2021, Introducing time series complexity analysis to submarine fan stratigraphy. AAPG IMAGE meeting, Denver
-66\. Jobe, Z.R., Howes, N.C., Straub, K.M., Cai, D., Deng, H., Laugier, F.J., Pettinga, L.A., Shumaker, L.E., 2020, Comparing Aggradation, Superelevation, and Avulsion Frequency of Submarine and Fluvial Channels. American Geophysical Union, Fall Meeting 2020, abstract #EP019-16.
-65\. Hou, P., Jobe, Z.R., Wood, L., 2020, Statistical Characterization of a Confined Submarine Fan System: the Pennsylvanian Lower Atoka Formation, Ouachita Mountains, USA. American Geophysical Union, Fall Meeting 2020, abstract #EP025-08.
-64\. Hou, P., Jobe, Z.R., Wood, L., 2020, Statistical Characterization of a Confined Submarine Fan System: the Pennsylvanian Lower Atoka Formation, Ouachita Mountains, USA. GSA Online meeting.
-63\. Jobe, Z.R., Howes, N., Meyer, R., Martin, J., Coutts, D., Hou, P., 2020, Sedimentary graphic logs: A toolkit for digitalization and a template for standardized description, GSA Online meeting.
-62\. Pettinga, L.A. and Jobe, Z.R., 2019, How Turbidity Current Flow Properties Shape Submarine Levees. American Geophysical Union, Fall Meeting 2019, abstract #OS32A-01.
-61\. Gross, E., Carr, M., Jobe, Z.R., 2019, Three-Dimensional Eolian Bounding Surface Architecture of the Entrada Sandstone, Utah: Expanding our Understanding of Dune Morphodynamics and Ancient Erg Evolution. American Geophysical Union, Fall Meeting 2019, abstract #EP23C-2278.
-60\. Jobe, Z.R., Downard, A., Martin, T.P., Meyer, R., 2019, Automated Interpretation of Depositional Environments Using Measured Stratigraphic Sections and Machine-Learning Models. AAPG Technical Program, Annual Convention, 2019.
-59\. Walker, W., Jobe, Z.R., 2019, Stratigraphic Architecture and Sediment Partitioning in the Mixed Carbonate-Siliciclastic Bone Spring Formation, Delaware Basin, Texas. AAPG Technical Program, Annual Convention, 2019.
-58\. Martin, T.P., Meyer, R., Jobe, Z.R., 2019, Automated Lithology Prediction from Core Images and Well Log Data Using Machine Learning Algorithms: A Case Study from the Greater Schiehallion Area, West of Shetland, United Kingdom. AAPG Technical Program, Annual Convention, 2019.
-57\. Pettinga, L., Jobe, Z.R., 2019, How do submarine canyon-channel systems (re)shape continental margins? AAPG Technical Program, Annual Convention, 2019.
-56\. Kus, K.B., Jobe, Z.R., Laugier, F., Sullivan, M., 2019, Lateral Heterogeneity of Distal Submarine Lobe Deposits, Point Loma Formation, California: Implications for Lateral Facies Prediction in Horizontal Wells. AAPG Technical Program, Annual Convention, 2019.
-55\. Gross, E., Carr, M., Jobe, Z.R., 2019, Three-dimensional eolian bounding surface architecture of the Entrada Sandstone, Utah: Expanding our understanding of reservoir heterogeneity in wet eolian prospects. AAPG Technical Program, Annual Convention, 2019.
-54\. Gilbert, C., Jobe, Z.R., Sharman, G., Johnstone, S., 2019, Unraveling the complex tectonostratigraphic evolution of the Ventura Basin, California, using detrital zircon mixture modeling. AAPG Technical Program, Annual Convention, 2019.
-53\. Jobe, Z.R., Howes, N.C., Romans, B.R., Covault, J.A., 2018, Volumes and frequencies of submarine fan-building turbidity currents. ISC Quebec City Technical Program.
-52\. Englert, R.G., Hubbard, S.M., Coutts, D., Jobe, Z.R., Cartigny, M., Hage, S., 2018, Preservation of Upper-Flow-Regime Bedforms and Their Recognition in the Stratigraphic Record. ISC Quebec City Technical Program.
-51\. Patten, J., Marcantonio, F., Jobe, Z.R., Schmidt, M., Slowet, N., Thomas, D., 2018, The Applicability of the 230Th Constant Flux Proxy in Sediments Offshore of the Niger River Delta. AGU Abstracts with Program, Washington D.C., 2018.
-50\. Jobe, Z.R., Howes, N.C., Georgiou, I., Cai, D., Deng, H., Laugier, F., Shumaker, L.E., 2018, Comparing Aggradation, Superelevation, and Avulsion Frequency of Submarine and Fluvial Channels. AAPG Technical Program, Annual Convention, 2018.
-49\. Fryer, R.C., Jobe, Z.R., Shumaker, L.E., 2018, Quantitative Analysis of the Bed-Scale Facies Architecture of Submarine Lobe Deposits. AAPG Technical Program, Annual Convention, 2018.
-48\. Thompson-Jobe, J.A., Giles, K., Hearon, T.E., Trudgill, B., Gannaway, C.E., Jobe, Z.R., Rowan, M.G., 2018, Structural and Stratigraphic Evolution of the Sinbad Valley Salt Wall, Northeast Paradox Basin, Southwest Colorado. AAPG Technical Program, Annual Convention, 2018.
-47\. Englert, R.G., Hubbard, S.M., Coutts, D., Jobe, Z.R., Cartigny, M., Hage, S., 2018, Preservation of Upper-Flow-Regime Bedforms and Their Recognition in the Stratigraphic Record. AAPG Technical Program, Annual Convention, 2018.
-46\. Pettinga, L., Jobe, Z.R., Shumaker, L.E., Howes, N.C., 2018, Morphometric scaling relationships in submarine channel-lobe systems: implications for turbidite depositional processes and stratigraphic architecture. AAPG Technical Program, Annual Convention, 2018.
-45\. Morris, P.D., Covault, J.A., Sech, R., Sylvester, Z., Jobe, Z.R., 2018, Deepwater Channel Trajectory Controls on Resultant Reservoir Connectivity. AAPG Technical Program, Annual Convention, 2018.
-44\. Deng, H., Wood, L., Jobe, Z.R., 2018, Mass Failure Complex Morphometrics as an Indicator of Flow Rheology and Composition: A Comprehensive Study in the Gulf of Mexico. AAPG Technical Program, Annual Convention, 2018.
-43\. Walker, W., Jobe, Z.R., 2018, Stratigraphic Architecture of Turbidite and Mass-Transport Deposits in the Outcropping Bone Spring Formation, Delaware Basin, Texas. AAPG Technical Program, Annual Convention, 2018.
-42\. Shumaker, L.E., Jobe, Z.R., Moody, J., Cai, D., 2018, Scaling Relationships Between Stratigraphy and Morphology of Submarine Channels. AAPG Technical Program, Annual Convention, 2018.
-41\. Wang, J., Plink-Bjorklund, P., Jobe, Z.R., 2018, Scaling Relationships of Channel-Lobe Deposits in Large Fluvial Fan Systems: Implications for Subsurface Reservoir Prediction. AAPG Technical Program, Annual Convention, 2018.
-40\. Fryer, R.C., Jobe, Z.R., Shumaker, L.E., Stammer, J., Fleming, A., 2017, Quantifying the Bed-scale Architecture of Submarine Lobe Deposits, Point Loma Formation, California. AAPG Technical Program, Annual Convention, 2017.
-39\. Southern, S.J., Stright, L., Jobe, Z.R., Romans, B.R., Hubbard, S.M., 2017, The Stratigraphic Expression of Slope Channel Evolution: Insights From Qualitative and Quantitative Assessment of Channel Fills From the Cretaceous Tres Pasos Formation, Southern Chile. AAPG Technical Program, Annual Convention, 2017.
-38\. Shumaker, L.E., Howes, N.C., Pettinga, L.A., Jobe, Z.R., 2017, Investigating Controls on Submarine Channel Evolution Through Morphometric Scaling Relationships. AAPG Technical Program, Annual Convention, 2017.
-37\. Pettinga, L.A., Shumaker, L.E., Howes, N.C., Jobe Z.R., 2017, Scaling Relationships in Linked Submarine Channel-Lobe Systems: Enabling Prediction of Reservoir Scales and Geometries in Deep-Water Sediment Routing Systems. AAPG Technical Program, Annual Convention, 2017.
-36\. Jobe, Z.R., 2017, Submarine Sediment Routing Systems on the Western Niger Delta Slope: Autogenic and Allogenic Signal Propagation and Preservation. AAPG Technical Program, Annual Convention, 2017.
-35\. Jobe, Z.R., and Howes, N.C., 2017, Scaling Relationships, Kinematics, and Stratigraphic Architecture of Submarine Channels: Application to Reservoir Prediction. Deep-water Depositional Systems: Advances and Applications (Geological Society of London).
-34\. Jobe, Z.R., 2016, Mass Delivery and Frequency of Submarine Fan-Building Turbidity Currents. American Geophysical Union, Fall Meeting 2016, abstract #OS12C-07.
-33\. Jobe, Z.R., 2016, Characterization of a Submarine Channel-Lobe Transition Zone, Western Niger Delta. GSA 2016 Annual Conference, session T190. Modern and Ancient Sediment Transport on Earth and Planetary Surfaces.
-32\. Jobe, Z.R., Howes, N.C., Auchter, N., 2016, Temporal Evolution of Submarine Channel Trajectory and Mobility: Quantitative Analysis and Comparison to Rivers. AAPG Technical Program, Annual Convention, 2016.
-31\. Romans, Brian W., Auchter, N.C., Bernhardt, A., Covault, J.A., Daniels, B.G., Fildani, A., Fosdick, J.C., Hubbard, S.M., Jobe, Z.R., Malkowski, M.A., Schwartz, T.M., Sickmann, Z.T., Stright, L., Graham, S.A., 2016, Stratigraphic Record of Foreland Basin Dynamics, Cretaceous Magallanes-Austral Basin, Chile and Argentina. AAPG Technical Program, Annual Convention, 2016.
-30\. Jobe, Z.R., Howes, N.C., Martin, J., Wolinsky, M., Cantelli, A., 2015, Submarine Channel Morphological Scaling Relationships: A Predictor for Architectural Heterogeneity and a Comparison to Subaerial/River Scaling Relationships. AAPG Technical Program, Annual Convention, 2015.
-29\. Howes, N.C., Martin, J., Georgiou, I.Y., Hughes, Z.J., Wolinsky, M.A., Jobe, Z.R., 2015, Channel Scaling and Dynamics in the Fluvial Marine Transition, AAPG Technical Program, Annual Convention, 2015.
-28\. Hubbard, S.M., Romans, B.W., Jobe, Z.R., Covault, J.A., Fildani, A., 2015, How Many Turbidity Currents Pass Through a Submarine Channel and What is Their Stratigraphic Expression? AAPG Technical Program, Annual Convention, 2015.
-27\. Jobe, Z.R., Parker, A.O., Lowe, D.R., Slowey, N., McGann, M., 2015, Sediment Budgets and Depositional Processes Influencing Submarine Canyon Systems, Equatorial Guinea, West Africa. AAPG Technical Program, Annual Convention, 2015.
-26\. Niquet, D.D., Hubbard, S.M., Laycock, D.P., Reimchen, A.P., Jobe, Z.R., Romans, B.W., 2015, The Orientation of Sandstone-Filled U-Shaped Trace Fossils as Indicators of Deepwater Channel Axis Position, Tres Pasos Formation, Chile. AAPG Technical Program, Annual Convention, 2015.
-25\. Trigg, C., Jobe, Z.R., Lowe, D.R., 2015, Stacking Patterns and Petrographic Analysis of Slurry Beds of the Wilcox Formation, Gulf of Mexico: Implications for Flow Evolution and Depositional Setting. AAPG Technical Program, Annual Convention, 2015.
-24\. Jobe, Z.R., Pirmez, C., Sylvester, Z., Frascati, A., Bolla Pittaluga, M., Howes, N.C., 2015, Vertical and Lateral Changes in Facies, Bed Thickness, and Grain Size in Submarine Channels from an Ultra-High Resolution Dataset, Western Niger Delta Slope: Implications for Turbidity Current Stratification. American Geophysical Union, Fall Meeting 2015, abstract #EP12A-02.
-23\. Shumaker, L., Jobe, Z.R., Graham, S.A., 2015, Constraining the Formation of Submarine Gullies on Continental Slopes. American Geophysical Union, Fall Meeting 2015, abstract #EP13A-0930.
-22\. Auchter, N., Jobe, Z.R., Howes, N.C., 2015, Temporal Evolution of Submarine Channel Trajectory and Mobility: Quantitative Analysis and Comparison to Rivers. American Geophysical Union, Fall Meeting 2015, abstract #EP13A-0933.
-21\. Jobe, Z.R., Sylvester, Z., Pirmez, C., Prather, B., 2014, High Resolution, Millennial-Scale Patterns of Bed Compensation on a Sand-Rich Submarine Lobe, Western Niger Delta Slope. AAPG Technical Program, Annual Convention, 2014.
-20\. Jobe, Z.R., Sylvester, Z., Pirmez, C., Prather, B., Abd El-Gawad, S., Minisini, D., Cantelli, A., Howes, N.C, Smith, R.D.A., 2014, Ultra-High Resolution Modern Analog Dataset from the Western Niger Delta Slope: Facies Architecture and Application to Turbidite Reservoirs. GCAGS Transactions 2014 meeting, Lafayette, LA.
-19\. Parker, A.O., Schmidt, M.W., Slowey, N.C., Jobe, Z.R., Marcantonio, F., 2014, Decoupled Changes in Western Niger Delta Primary Productivity and Niger River Discharge Across the Last Deglacial. American Geophysical Union, Fall Meeting 2014, abstract #PP44A-02
-18\. Jobe, Z.R., 2014, High Resolution, Millennial-Scale Patterns of Bed Compensation on a Sand-Rich Submarine Lobe, Western Niger Delta Slope. American Geophysical Union, Fall Meeting 2014, abstract #EP13D-3542.
-17\. Jobe, Z.R., Sylvester, Z., Parker, A.O., 2013, Adjustment of Submarine Channel Architecture to Changes in Sediment Supply, Western Niger Delta Slope. SEPM conference, September 2013: Turbidity currents: current state of the art and future directions, Santa Sofia, Italy.
-16\. Jobe, Z.R., Morris, W.R., Lowe, D.R., 2013, Climbing Ripple Successions in Turbidite Systems: Depositional Environments, Sedimentation Rates, and Accumulation Times. 2013 Pacific Section AAPG, SEG and SEPM Joint Technical Conference, Monterey, California.
-15\. Jobe, Z.R., Sylvester, Z., Parker, A.O., Pirmez, P., Slowey, N., 2013, Adjustment of Submarine Channel Architecture to Changes in Sediment Supply, Western Niger Delta Slope. American Geophysical Union, Fall Meeting 2013, abstract #OS52A-08.
-14\. Jobe, Z.R., Z Sylvester, SA Abd El-Gawad, A Cantelli, C Pirmez, 2012, Sinuous slope channel evolution: insights from 3D high-resolution seismic data, piston coring, and numerical modeling of the western Niger Delta slope. AAPG Technical Program, Annual Convention, 2012.
-13\. A Bernhardt, Jobe, Z.R., M Grove, DR Lowe, 2011, Paleogeography And Diachronous Infill Of An Ancient Deep-Marine Foreland Basin, Upper Cretaceous Cerro Toro Axial Channel, Magallanes Basin, Chile. AGU Fall Meeting Abstracts 0930.
-12\. Jobe, Z.R., Z Sylvester, SA Abd El-Gawad, A Cantelli, C Pirmez, 2011, Sinuous slope channel evolution: insights from 3D high-resolution seismic data, piston coring, and numerical modeling of the western Niger Delta slope. AGU Fall Meeting Abstracts 0929.
-11\. Jobe, Z.R., 2010, The Influence of Sediment Supply & Caliber on Submarine Canyon Morphology and Turbidity-Flow Character. AGU Fall Meeting Abstracts, 0630.
-10\. Jobe, Z.R., Bernhardt, Z., and Lowe, D.R., 2010, Quantitative Architectural Analysis and Depositional Model of an Asymmetric Conglomerate-Rich Submarine Channel Fill, Cerro Toro Formation, Sierra del Toro, Magallanes Basin, Chile. AAPG Technical Program, Annual Convention, 2010.
-9\. Jobe, Z.R. and Lowe, D.R., 2009, Pockmarks on the Modern Seafloor as Indicators of Submarine Canyon Abandonment, Offshore Equatorial Guinea, Pacific Section AAPG 2009 Annual Meeting: Modern Sea Floor and Quaternary Turbidite Systems in Honor of Bill Normark.
-8\. Stright, L., and Jobe, Z.R., 2008, Analysis of Channel-Fill Architecture with Forward Seismic Modelling of the Wildcat Channel Complex, Sierra del Toro, Magallanes Basin, Chile, in SEPM Research Program Proceedings “Outcrops Revitalized: Tools, Techniques and Applications”, Abstracts with Programs 2008, held in Kilkee, County Clare, Western Ireland.
-7\. Jobe, Z.R., 2008, Tertiary Evolution of Upper Slope Canyons, Offshore Equatorial Guinea: Canyon Initiation, Growth and Abandonment via Knickpoint Migration, Joint meeting of the Geological Society of America abstracts with programs, 2008.
-6\. Jobe, Z.R., Morris, W.R., Wickens, H.D., and Lowe, D.R., 2008, Thick successions of climbing-ripple and scour-fill deposits in overbank/off-axis deep-water environments: Tanqua Karoo, South Africa and Magnolia field, Gulf of Mexico, AAPG Technical Program, Annual Convention, San Antonio 2008.
-5\. Bernhardt, Anne, Jobe, Z.R., and Lowe, D.R., 2007, Foreland Basin Axis Migration Documented by Deep-Water Conglomeratic Channel Deposits, Southern Chile, AAPG Technical Program, Annual Convention, Long Beach 2007.
-4\. Jobe, Z.R. & Jim S. Hewlett, 2007, Neogene Evolution of a Confined Upper Slope Canyon System with Emphasis on Canyon Fill Architecture, Offshore Equatorial Guinea, AAPG Technical Program, Annual Convention, Long Beach 2007.
-3\. Main, D.J., Holbrook, J., Jobe, Z.R., Avdeev, B., Caster, J., 2005, First record of late Pleistocene deposits from the Missouri river valley, Norborne quadrangle, MO, Geological Society of America annual meeting, Abstracts with programs, 2005.
-2\. Jobe, Z.R., Kleim, G., & Holbrook, J.M., 2005, Using fluvial sedimentology to guide vegetation and shallow water habitat rehabilitation in the Big Muddy Fish and Wildlife Refuge, Missouri, GSA abstracts with programs, vol.31, no. 3.
-1\. Jobe, Z.R., 2004, Microfauna of the upper Bell Canyon Formation (Permian), Univ. of Texas at Arlington ACES 2004 abstracts.
+73\. Martin, T., Tadla, J., Jobe, Z.R., 2021, Digitalization of legacy datasets from the Lewis Shale yields insights for reservoir properties and submarine-fan evolution. AAPG IMAGE meeting, Denver  
+72\. Jobe, Z.R. and Laugier, F., 2021, From 1D to 4D: The humble graphic log as a means to quantify and predict stratigraphic complexity. AAPG IMAGE meeting, Denver  
+71\. Jobe, Z.R., Howes, N., Martin, J., Meyer, R., Coutts, D., and Hou, P., Stright, L., and Laugier, F., 2021, Sedimentary graphic logs: A template for description and a toolkit for digitalization. AAPG IMAGE meeting, Denver  
+70\. Chacon Buitrago, N., Jobe, Z.R., Walton, G., 2021, Automated Facies recognition using digital outcrop models and machine learning. AAPG IMAGE meeting, Denver  
+69\. Gilbert, J.C. and Jobe, Z.R., 2021, Repetitive depositional architecture patterns demonstrate evolution of submarine channels on a steep margin: Miocene Modelo Formation, Lake Piru, Southern California. AAPG IMAGE meeting, Denver  
+68\. Simabrata, H., Jobe, Z.R., Cardona, S., Wood, L., 2021, Spicule grain reorientation in mixed carbonate-siliciclastic mass transport deposits: A case study in the Cutoff Formation, Guadalupe Mountains, Texas. AAPG IMAGE meeting, Denver  
+67\. Hou, P., Jobe, Z.R., Li, H., 2021, Introducing time series complexity analysis to submarine fan stratigraphy. AAPG IMAGE meeting, Denver  
+66\. Jobe, Z.R., Howes, N.C., Straub, K.M., Cai, D., Deng, H., Laugier, F.J., Pettinga, L.A., Shumaker, L.E., 2020, Comparing Aggradation, Superelevation, and Avulsion Frequency of Submarine and Fluvial Channels. American Geophysical Union, Fall Meeting 2020, abstract #EP019-16.  
+65\. Hou, P., Jobe, Z.R., Wood, L., 2020, Statistical Characterization of a Confined Submarine Fan System: the Pennsylvanian Lower Atoka Formation, Ouachita Mountains, USA. American Geophysical Union, Fall Meeting 2020, abstract #EP025-08.  
+64\. Hou, P., Jobe, Z.R., Wood, L., 2020, Statistical Characterization of a Confined Submarine Fan System: the Pennsylvanian Lower Atoka Formation, Ouachita Mountains, USA. GSA Online meeting.  
+63\. Jobe, Z.R., Howes, N., Meyer, R., Martin, J., Coutts, D., Hou, P., 2020, Sedimentary graphic logs: A toolkit for digitalization and a template for standardized description, GSA Online meeting.  
+62\. Pettinga, L.A. and Jobe, Z.R., 2019, How Turbidity Current Flow Properties Shape Submarine Levees. American Geophysical Union, Fall Meeting 2019, abstract #OS32A-01.  
+61\. Gross, E., Carr, M., Jobe, Z.R., 2019, Three-Dimensional Eolian Bounding Surface Architecture of the Entrada Sandstone, Utah: Expanding our Understanding of Dune Morphodynamics and Ancient Erg Evolution. American Geophysical Union, Fall Meeting 2019, abstract #EP23C-2278.  
+60\. Jobe, Z.R., Downard, A., Martin, T.P., Meyer, R., 2019, Automated Interpretation of Depositional Environments Using Measured Stratigraphic Sections and Machine-Learning Models. AAPG Technical Program, Annual Convention, 2019.  
+59\. Walker, W., Jobe, Z.R., 2019, Stratigraphic Architecture and Sediment Partitioning in the Mixed Carbonate-Siliciclastic Bone Spring Formation, Delaware Basin, Texas. AAPG Technical Program, Annual Convention, 2019.  
+58\. Martin, T.P., Meyer, R., Jobe, Z.R., 2019, Automated Lithology Prediction from Core Images and Well Log Data Using Machine Learning Algorithms: A Case Study from the Greater Schiehallion Area, West of Shetland, United Kingdom. AAPG Technical Program, Annual Convention, 2019.  
+57\. Pettinga, L., Jobe, Z.R., 2019, How do submarine canyon-channel systems (re)shape continental margins? AAPG Technical Program, Annual Convention, 2019.  
+56\. Kus, K.B., Jobe, Z.R., Laugier, F., Sullivan, M., 2019, Lateral Heterogeneity of Distal Submarine Lobe Deposits, Point Loma Formation, California: Implications for Lateral Facies Prediction in Horizontal Wells. AAPG Technical Program, Annual Convention, 2019.  
+55\. Gross, E., Carr, M., Jobe, Z.R., 2019, Three-dimensional eolian bounding surface architecture of the Entrada Sandstone, Utah: Expanding our understanding of reservoir heterogeneity in wet eolian prospects. AAPG Technical Program, Annual Convention, 2019.  
+54\. Gilbert, C., Jobe, Z.R., Sharman, G., Johnstone, S., 2019, Unraveling the complex tectonostratigraphic evolution of the Ventura Basin, California, using detrital zircon mixture modeling. AAPG Technical Program, Annual Convention, 2019.  
+53\. Jobe, Z.R., Howes, N.C., Romans, B.R., Covault, J.A., 2018, Volumes and frequencies of submarine fan-building turbidity currents. ISC Quebec City Technical Program.  
+52\. Englert, R.G., Hubbard, S.M., Coutts, D., Jobe, Z.R., Cartigny, M., Hage, S., 2018, Preservation of Upper-Flow-Regime Bedforms and Their Recognition in the Stratigraphic Record. ISC Quebec City Technical Program.  
+51\. Patten, J., Marcantonio, F., Jobe, Z.R., Schmidt, M., Slowet, N., Thomas, D., 2018, The Applicability of the 230Th Constant Flux Proxy in Sediments Offshore of the Niger River Delta. AGU Abstracts with Program, Washington D.C., 2018.  
+50\. Jobe, Z.R., Howes, N.C., Georgiou, I., Cai, D., Deng, H., Laugier, F., Shumaker, L.E., 2018, Comparing Aggradation, Superelevation, and Avulsion Frequency of Submarine and Fluvial Channels. AAPG Technical Program, Annual Convention, 2018.  
+49\. Fryer, R.C., Jobe, Z.R., Shumaker, L.E., 2018, Quantitative Analysis of the Bed-Scale Facies Architecture of Submarine Lobe Deposits. AAPG Technical Program, Annual Convention, 2018.  
+48\. Thompson-Jobe, J.A., Giles, K., Hearon, T.E., Trudgill, B., Gannaway, C.E., Jobe, Z.R., Rowan, M.G., 2018, Structural and Stratigraphic Evolution of the Sinbad Valley Salt Wall, Northeast Paradox Basin, Southwest Colorado. AAPG Technical Program, Annual Convention, 2018.  
+47\. Englert, R.G., Hubbard, S.M., Coutts, D., Jobe, Z.R., Cartigny, M., Hage, S., 2018, Preservation of Upper-Flow-Regime Bedforms and Their Recognition in the Stratigraphic Record. AAPG Technical Program, Annual Convention, 2018.  
+46\. Pettinga, L., Jobe, Z.R., Shumaker, L.E., Howes, N.C., 2018, Morphometric scaling relationships in submarine channel-lobe systems: implications for turbidite depositional processes and stratigraphic architecture. AAPG Technical Program, Annual Convention, 2018.  
+45\. Morris, P.D., Covault, J.A., Sech, R., Sylvester, Z., Jobe, Z.R., 2018, Deepwater Channel Trajectory Controls on Resultant Reservoir Connectivity. AAPG Technical Program, Annual Convention, 2018.  
+44\. Deng, H., Wood, L., Jobe, Z.R., 2018, Mass Failure Complex Morphometrics as an Indicator of Flow Rheology and Composition: A Comprehensive Study in the Gulf of Mexico. AAPG Technical Program, Annual Convention, 2018.  
+43\. Walker, W., Jobe, Z.R., 2018, Stratigraphic Architecture of Turbidite and Mass-Transport Deposits in the Outcropping Bone Spring Formation, Delaware Basin, Texas. AAPG Technical Program, Annual Convention, 2018.  
+42\. Shumaker, L.E., Jobe, Z.R., Moody, J., Cai, D., 2018, Scaling Relationships Between Stratigraphy and Morphology of Submarine Channels. AAPG Technical Program, Annual Convention, 2018.  
+41\. Wang, J., Plink-Bjorklund, P., Jobe, Z.R., 2018, Scaling Relationships of Channel-Lobe Deposits in Large Fluvial Fan Systems: Implications for Subsurface Reservoir Prediction. AAPG Technical Program, Annual Convention, 2018.  
+40\. Fryer, R.C., Jobe, Z.R., Shumaker, L.E., Stammer, J., Fleming, A., 2017, Quantifying the Bed-scale Architecture of Submarine Lobe Deposits, Point Loma Formation, California. AAPG Technical Program, Annual Convention, 2017.  
+39\. Southern, S.J., Stright, L., Jobe, Z.R., Romans, B.R., Hubbard, S.M., 2017, The Stratigraphic Expression of Slope Channel Evolution: Insights From Qualitative and Quantitative Assessment of Channel Fills From the Cretaceous Tres Pasos Formation, Southern Chile. AAPG Technical Program, Annual Convention, 2017.  
+38\. Shumaker, L.E., Howes, N.C., Pettinga, L.A., Jobe, Z.R., 2017, Investigating Controls on Submarine Channel Evolution Through Morphometric Scaling Relationships. AAPG Technical Program, Annual Convention, 2017.  
+37\. Pettinga, L.A., Shumaker, L.E., Howes, N.C., Jobe Z.R., 2017, Scaling Relationships in Linked Submarine Channel-Lobe Systems: Enabling Prediction of Reservoir Scales and Geometries in Deep-Water Sediment Routing Systems. AAPG Technical Program, Annual Convention, 2017.  
+36\. Jobe, Z.R., 2017, Submarine Sediment Routing Systems on the Western Niger Delta Slope: Autogenic and Allogenic Signal Propagation and Preservation. AAPG Technical Program, Annual Convention, 2017.  
+35\. Jobe, Z.R., and Howes, N.C., 2017, Scaling Relationships, Kinematics, and Stratigraphic Architecture of Submarine Channels: Application to Reservoir Prediction. Deep-water Depositional Systems: Advances and Applications (Geological Society of London).  
+34\. Jobe, Z.R., 2016, Mass Delivery and Frequency of Submarine Fan-Building Turbidity Currents. American Geophysical Union, Fall Meeting 2016, abstract #OS12C-07.  
+33\. Jobe, Z.R., 2016, Characterization of a Submarine Channel-Lobe Transition Zone, Western Niger Delta. GSA 2016 Annual Conference, session T190. Modern and Ancient Sediment Transport on Earth and Planetary Surfaces.  
+32\. Jobe, Z.R., Howes, N.C., Auchter, N., 2016, Temporal Evolution of Submarine Channel Trajectory and Mobility: Quantitative Analysis and Comparison to Rivers. AAPG Technical Program, Annual Convention, 2016.  
+31\. Romans, Brian W., Auchter, N.C., Bernhardt, A., Covault, J.A., Daniels, B.G., Fildani, A., Fosdick, J.C., Hubbard, S.M., Jobe, Z.R., Malkowski, M.A., Schwartz, T.M., Sickmann, Z.T., Stright, L., Graham, S.A., 2016, Stratigraphic Record of Foreland Basin Dynamics, Cretaceous Magallanes-Austral Basin, Chile and Argentina. AAPG Technical Program, Annual Convention, 2016.  
+30\. Jobe, Z.R., Howes, N.C., Martin, J., Wolinsky, M., Cantelli, A., 2015, Submarine Channel Morphological Scaling Relationships: A Predictor for Architectural Heterogeneity and a Comparison to Subaerial/River Scaling Relationships. AAPG Technical Program, Annual Convention, 2015.  
+29\. Howes, N.C., Martin, J., Georgiou, I.Y., Hughes, Z.J., Wolinsky, M.A., Jobe, Z.R., 2015, Channel Scaling and Dynamics in the Fluvial Marine Transition, AAPG Technical Program, Annual Convention, 2015.  
+28\. Hubbard, S.M., Romans, B.W., Jobe, Z.R., Covault, J.A., Fildani, A., 2015, How Many Turbidity Currents Pass Through a Submarine Channel and What is Their Stratigraphic Expression? AAPG Technical Program, Annual Convention, 2015.  
+27\. Jobe, Z.R., Parker, A.O., Lowe, D.R., Slowey, N., McGann, M., 2015, Sediment Budgets and Depositional Processes Influencing Submarine Canyon Systems, Equatorial Guinea, West Africa. AAPG Technical Program, Annual Convention, 2015.  
+26\. Niquet, D.D., Hubbard, S.M., Laycock, D.P., Reimchen, A.P., Jobe, Z.R., Romans, B.W., 2015, The Orientation of Sandstone-Filled U-Shaped Trace Fossils as Indicators of Deepwater Channel Axis Position, Tres Pasos Formation, Chile. AAPG Technical Program, Annual Convention, 2015.  
+25\. Trigg, C., Jobe, Z.R., Lowe, D.R., 2015, Stacking Patterns and Petrographic Analysis of Slurry Beds of the Wilcox Formation, Gulf of Mexico: Implications for Flow Evolution and Depositional Setting. AAPG Technical Program, Annual Convention, 2015.  
+24\. Jobe, Z.R., Pirmez, C., Sylvester, Z., Frascati, A., Bolla Pittaluga, M., Howes, N.C., 2015, Vertical and Lateral Changes in Facies, Bed Thickness, and Grain Size in Submarine Channels from an Ultra-High Resolution Dataset, Western Niger Delta Slope: Implications for Turbidity Current Stratification. American Geophysical Union, Fall Meeting 2015, abstract #EP12A-02.  
+23\. Shumaker, L., Jobe, Z.R., Graham, S.A., 2015, Constraining the Formation of Submarine Gullies on Continental Slopes. American Geophysical Union, Fall Meeting 2015, abstract #EP13A-0930.  
+22\. Auchter, N., Jobe, Z.R., Howes, N.C., 2015, Temporal Evolution of Submarine Channel Trajectory and Mobility: Quantitative Analysis and Comparison to Rivers. American Geophysical Union, Fall Meeting 2015, abstract #EP13A-0933.  
+21\. Jobe, Z.R., Sylvester, Z., Pirmez, C., Prather, B., 2014, High Resolution, Millennial-Scale Patterns of Bed Compensation on a Sand-Rich Submarine Lobe, Western Niger Delta Slope. AAPG Technical Program, Annual Convention, 2014.  
+20\. Jobe, Z.R., Sylvester, Z., Pirmez, C., Prather, B., Abd El-Gawad, S., Minisini, D., Cantelli, A., Howes, N.C, Smith, R.D.A., 2014, Ultra-High Resolution Modern Analog Dataset from the Western Niger Delta Slope: Facies Architecture and Application to Turbidite Reservoirs. GCAGS Transactions 2014 meeting, Lafayette, LA.  
+19\. Parker, A.O., Schmidt, M.W., Slowey, N.C., Jobe, Z.R., Marcantonio, F., 2014, Decoupled Changes in Western Niger Delta Primary Productivity and Niger River Discharge Across the Last Deglacial. American Geophysical Union, Fall Meeting 2014, abstract #PP44A-02  
+18\. Jobe, Z.R., 2014, High Resolution, Millennial-Scale Patterns of Bed Compensation on a Sand-Rich Submarine Lobe, Western Niger Delta Slope. American Geophysical Union, Fall Meeting 2014, abstract #EP13D-3542.  
+17\. Jobe, Z.R., Sylvester, Z., Parker, A.O., 2013, Adjustment of Submarine Channel Architecture to Changes in Sediment Supply, Western Niger Delta Slope. SEPM conference, September 2013: Turbidity currents: current state of the art and future directions, Santa Sofia, Italy.  
+16\. Jobe, Z.R., Morris, W.R., Lowe, D.R., 2013, Climbing Ripple Successions in Turbidite Systems: Depositional Environments, Sedimentation Rates, and Accumulation Times. 2013 Pacific Section AAPG, SEG and SEPM Joint Technical Conference, Monterey, California.  
+15\. Jobe, Z.R., Sylvester, Z., Parker, A.O., Pirmez, P., Slowey, N., 2013, Adjustment of Submarine Channel Architecture to Changes in Sediment Supply, Western Niger Delta Slope. American Geophysical Union, Fall Meeting 2013, abstract #OS52A-08.  
+14\. Jobe, Z.R., Z Sylvester, SA Abd El-Gawad, A Cantelli, C Pirmez, 2012, Sinuous slope channel evolution: insights from 3D high-resolution seismic data, piston coring, and numerical modeling of the western Niger Delta slope. AAPG Technical Program, Annual Convention, 2012.  
+13\. A Bernhardt, Jobe, Z.R., M Grove, DR Lowe, 2011, Paleogeography And Diachronous Infill Of An Ancient Deep-Marine Foreland Basin, Upper Cretaceous Cerro Toro Axial Channel, Magallanes Basin, Chile. AGU Fall Meeting Abstracts 0930.  
+12\. Jobe, Z.R., Z Sylvester, SA Abd El-Gawad, A Cantelli, C Pirmez, 2011, Sinuous slope channel evolution: insights from 3D high-resolution seismic data, piston coring, and numerical modeling of the western Niger Delta slope. AGU Fall Meeting Abstracts 0929.  
+11\. Jobe, Z.R., 2010, The Influence of Sediment Supply & Caliber on Submarine Canyon Morphology and Turbidity-Flow Character. AGU Fall Meeting Abstracts, 0630.  
+10\. Jobe, Z.R., Bernhardt, Z., and Lowe, D.R., 2010, Quantitative Architectural Analysis and Depositional Model of an Asymmetric Conglomerate-Rich Submarine Channel Fill, Cerro Toro Formation, Sierra del Toro, Magallanes Basin, Chile. AAPG Technical Program, Annual Convention, 2010.  
+9\. Jobe, Z.R. and Lowe, D.R., 2009, Pockmarks on the Modern Seafloor as Indicators of Submarine Canyon Abandonment, Offshore Equatorial Guinea, Pacific Section AAPG 2009 Annual Meeting: Modern Sea Floor and Quaternary Turbidite Systems in Honor of Bill Normark.  
+8\. Stright, L., and Jobe, Z.R., 2008, Analysis of Channel-Fill Architecture with Forward Seismic Modelling of the Wildcat Channel Complex, Sierra del Toro, Magallanes Basin, Chile, in SEPM Research Program Proceedings “Outcrops Revitalized: Tools, Techniques and Applications”, Abstracts with Programs 2008, held in Kilkee, County Clare, Western Ireland.  
+7\. Jobe, Z.R., 2008, Tertiary Evolution of Upper Slope Canyons, Offshore Equatorial Guinea: Canyon Initiation, Growth and Abandonment via Knickpoint Migration, Joint meeting of the Geological Society of America abstracts with programs, 2008.  
+6\. Jobe, Z.R., Morris, W.R., Wickens, H.D., and Lowe, D.R., 2008, Thick successions of climbing-ripple and scour-fill deposits in overbank/off-axis deep-water environments: Tanqua Karoo, South Africa and Magnolia field, Gulf of Mexico, AAPG Technical Program, Annual Convention, San Antonio 2008.  
+5\. Bernhardt, Anne, Jobe, Z.R., and Lowe, D.R., 2007, Foreland Basin Axis Migration Documented by Deep-Water Conglomeratic Channel Deposits, Southern Chile, AAPG Technical Program, Annual Convention, Long Beach 2007.  
+4\. Jobe, Z.R. & Jim S. Hewlett, 2007, Neogene Evolution of a Confined Upper Slope Canyon System with Emphasis on Canyon Fill Architecture, Offshore Equatorial Guinea, AAPG Technical Program, Annual Convention, Long Beach 2007.  
+3\. Main, D.J., Holbrook, J., Jobe, Z.R., Avdeev, B., Caster, J., 2005, First record of late Pleistocene deposits from the Missouri river valley, Norborne quadrangle, MO, Geological Society of America annual meeting, Abstracts with programs, 2005.  
+2\. Jobe, Z.R., Kleim, G., & Holbrook, J.M., 2005, Using fluvial sedimentology to guide vegetation and shallow water habitat rehabilitation in the Big Muddy Fish and Wildlife Refuge, Missouri, GSA abstracts with programs, vol.31, no. 3.  
+1\. Jobe, Z.R., 2004, Microfauna of the upper Bell Canyon Formation (Permian), Univ. of Texas at Arlington ACES 2004 abstracts.  
