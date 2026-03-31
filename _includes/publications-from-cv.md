@@ -1,4 +1,4 @@
-<div class="publications-list">
+<div class="publications-list" markdown="1">
 
 ## Peer-Reviewed Publications
 

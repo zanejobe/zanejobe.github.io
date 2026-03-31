@@ -537,7 +537,7 @@ document.addEventListener("DOMContentLoaded", function () {
   - Unconventionals – 1 day
   - Subsurface Integration (G180) – 10 days
 
-<div class="abstracts-list">
+<div class="abstracts-list" markdown="1">
 
 ## CONFERENCE ABSTRACTS AND PRESENTATIONS 2021 and prior (2021-present not tracked)
 73\. Martin, T., Tadla, J., Jobe, Z.R., 2021, Digitalization of legacy datasets from the Lewis Shale yields insights for reservoir properties and submarine-fan evolution. AAPG IMAGE meeting, Denver  
