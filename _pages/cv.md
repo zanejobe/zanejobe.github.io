@@ -149,10 +149,10 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
   {% assign major_received = major_received | plus: grant.received_amount %}
 {% endfor %}
 
-**Major grants total submitted:** ${{ major_submitted | number_with_delimiter }}  
-**Major grants total received:** ${{ major_received | number_with_delimiter }}
+**Major grants total submitted:** $<span class="grants-total" data-value="{{ major_submitted }}">{{ major_submitted }}</span>  
+**Major grants total received:** $<span class="grants-total" data-value="{{ major_received }}">{{ major_received }}</span>
 
-<table>
+<table class="grants-table">
   <thead>
     <tr>
       <th>Years</th>
@@ -185,9 +185,9 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
   {% assign student_total = student_total | plus: grant.amount %}
 {% endfor %}
 
-**Student and small grants total:** ${{ student_total | number_with_delimiter }}
+**Student and small grants total:** $<span class="grants-total" data-value="{{ student_total }}">{{ student_total }}</span>
 
-<table>
+<table class="grants-table">
   <thead>
     <tr>
       <th>Category</th>
@@ -209,6 +209,17 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
     {% endfor %}
   </tbody>
 </table>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".grants-total").forEach(function (node) {
+    var value = Number(node.dataset.value || node.textContent);
+    if (!Number.isNaN(value)) {
+      node.textContent = value.toLocaleString("en-US");
+    }
+  });
+});
+</script>
 
 {% include publications-from-cv.md %}
 

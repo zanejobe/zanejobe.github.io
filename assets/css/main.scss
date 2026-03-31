@@ -51,9 +51,15 @@ a:focus {
   border-color: #4a4a4a;
 }
 
-.page__content table th {
-  background: transparent;
-  color: #ffffff;
+.page__content table thead,
+.page__content table thead tr,
+.page__content table thead th,
+.page__content .grants-table thead,
+.page__content .grants-table thead tr,
+.page__content .grants-table thead th {
+  background: transparent !important;
+  background-color: transparent !important;
+  color: #ffffff !important;
 }
 
 .home-portrait {
