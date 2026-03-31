@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 ---
 
+![Portrait](/assets/images/portrait.jpg){: .home-portrait }
+
 I am a sedimentologist and research professor at Colorado School of Mines. My work focuses on using outcrop analogs to improve prediction of subsurface fluid flow. 
 
 I aim to better understand the stratigraphic architecture, scaling relationships, and sediment budgets for clastic depositional systems, with an emphasis on submarine environments. 

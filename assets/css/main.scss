@@ -3,6 +3,11 @@
 
 @import "minimal-mistakes";
 
+/* Slightly reduce base type size site-wide. */
+html {
+  font-size: 14px;
+}
+
 /* Enforce requested dark gray + white text baseline. */
 body,
 .layout--single,
@@ -30,4 +35,12 @@ a:focus {
 .greedy-nav .hidden-links a {
   background: #1f1f1f;
   color: #ffffff;
+}
+
+.home-portrait {
+  display: block;
+  width: 100%;
+  max-width: 460px;
+  margin: 0 auto 1.25rem auto;
+  border-radius: 4px;
 }
