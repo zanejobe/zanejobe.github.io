@@ -4,6 +4,13 @@ on:
   push:
     paths:
       - "_pages/cv.md"
+      - "_config.yml"
+      - "_data/**"
+      - "_includes/**"
+      - "assets/**"
+      - "index.md"
+      - "Gemfile"
+      - "scripts/render-cv-pdf.mjs"
       - ".github/workflows/cv-pdf.yml"
 
 permissions:
@@ -18,22 +25,40 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Pandoc
-        uses: pandoc/actions/setup@v1
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
 
-      - name: Install TeX
-        run: sudo apt-get update && sudo apt-get install -y texlive-xetex
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Playwright
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
 
       - name: Create files directory
         run: mkdir -p files
 
-      - name: Build PDF from CV markdown
+      - name: Start local server
         run: |
-          pandoc "_pages/cv.md" \
-            -o "files/Zane_Jobe_CV_2026.pdf" \
-            --from gfm \
-            --pdf-engine=xelatex \
-            --metadata title="Zane Jobe CV"
+          python3 -m http.server 4001 --directory _site >/tmp/cv-pdf-server.log 2>&1 &
+          for attempt in {1..20}; do
+            curl --silent --fail "http://127.0.0.1:4001/cv/" >/dev/null && exit 0
+            sleep 1
+          done
+          echo "Timed out waiting for local site server"
+          cat /tmp/cv-pdf-server.log
+          exit 1
+
+      - name: Generate PDF from rendered CV page
+        run: node scripts/render-cv-pdf.mjs "http://127.0.0.1:4001/cv/" "files/Zane_Jobe_CV_2026.pdf"
 
       - name: Commit updated PDF if changed
         run: |

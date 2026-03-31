@@ -141,7 +141,7 @@ Through a USGS EDMAP grant received by John Holbrook, I was hired as a student-m
 &emsp;Supervisor: Merlynd Nestell ([nestell@uta.edu](mailto:nestell@uta.edu))  
 Conducted field work in the Apache Mountains in the Permian Basin, Texas, to measure stratigraphic sections, Samples from those sections were processed in the lab to identify microfaunal content (conodonts, radiolaria, & foraminifera). I also compiled data for a biostratigraphic correlation of the Apache Mountains to the Guadalupe Mountains, where the stratotype section is for the Guadalupian (Permian) stage. Wrote a thesis entitled “Stratigraphy of the upper Bell Canyon Formation (Guadalupian Stage, Permian System), Seven Heart Gap, Apache Mountains, Trans-Pecos Texas”. For this research, I was awarded the 2004 President’s award for Undergraduate Research at the University of Texas at Arlington. Knowledge, skills, and abilities required for this position include geologic mapping, carbonate facies identification, fossil identification, laboratory procedures for biostratigraphy, and technical report writing.
 
-## Funding and Grants Received
+## Funding and Grants
 {% assign major_submitted = 0 %}
 {% assign major_received = 0 %}
 {% for grant in site.data.grants_major.items %}
@@ -292,7 +292,7 @@ Virtual field trips
 
 **Petroleum Technology Transfer Council**
 
-&emsp;- 2017 (December 7) – “Turbidite Crash Course”, 1 day core workshop
+&emsp;- 2017 (December 7) – “Turbidite Crash Course”, 1 day core workshop at the USGS CRC
 
 **Shell**
 
