@@ -21,13 +21,13 @@ With over 20 years of experience in clastic sedimentology, particularly in deep-
 
 ### Appointments
 
-- Research Professor in Sedimentary Geology, Colorado School of Mines, 2016-present
+- Associate Research Professor in Sedimentary Geology, Colorado School of Mines, 2016-present
 - Research Geologist, Shell Oil Company Clastics Research Team, 2010-2016
 
 ### Research: funding and products
 
 - $6,406,775 total fundraising since 2016 at Colorado School of Mines
-- Director of the Geology Center of Research Excellence, 2016-present, https://core.mines.edu
+- Director of the Geology Center of Research Excellence, 2016-present, [core.mines.edu](https://core.mines.edu)
 - Published 60 peer-reviewed journal articles and >100 conference abstracts
 - h-index 26 and i10-index 38 (metrics from Google Scholar)
 
@@ -41,7 +41,7 @@ With over 20 years of experience in clastic sedimentology, particularly in deep-
 ### Teaching and outreach
 
 - Since 2016 at Mines: led 15 outcrop-based field trips for industry to Texas, California, Chile, Ireland
-- Founder and Director, Earth Resource Data Science online graduate certificate, https://online.mines.edu/er
+- Founder and Director, [Earth Resource Data Science online graduate certificate](https://online.mines.edu/er)
 - Teach two graduate-level, asynchronous, online python data-analysis courses (GEOL 557 and GEOL 558)
 - Since 2016 at Mines: taught 12 online and classroom-based graduate-level courses (550 total student credit hours)
 
@@ -57,9 +57,8 @@ With over 20 years of experience in clastic sedimentology, particularly in deep-
 
 ### Contact information
 
-- Email: zanejobe@gmail.com
-- Google Scholar profile: https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en&oi=ao
 - LinkedIn profile: https://www.linkedin.com/in/zane-jobe-4b732168
+- Google Scholar profile: https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en&oi=ao
 - Github: @ZaneJobe
 - Blog: https://offtheshelfedge.wordpress.com
 - ORCID: https://orcid.org/0000-0002-7654-4528
@@ -92,62 +91,56 @@ With over 20 years of experience in clastic sedimentology, particularly in deep-
 &emsp;*Supervisor:* Merlynd Nestell ([nestell@uta.edu](mailto:nestell@uta.edu))
 
 ## Work and Research Experience
-### Colorado School of Mines, Golden, CO (May 2016-present)
-Department of Geology and Geological Engineering
-Associate Research Professor and Director of CoRE (Geology Center of Research Excellence)
+**May 2016–present**  
+**Colorado School of Mines, Golden, CO**  
+&emsp;Department of Geology and Geological Engineering  
+&emsp;Associate Research Professor and Director of CoRE (Geology Center of Research Excellence)
 
-Shell Oil Company, Houston, TX 							June 2010 – May 2016
-Research Sedimentologist, Reservoir Geology Research Team
-Supervisor: Ru Smith ru.smith@shell.com
+**June 2010–May 2016**  
+**Shell Oil Company, Houston, TX**  
+&emsp;Research Sedimentologist, Reservoir Geology Research Team  
+&emsp;Supervisor: Ru Smith ([ru.smith@shell.com](mailto:ru.smith@shell.com))  
 
-Stanford University, Palo Alto, CA 					September 2005 – May 2010
-PhD Candidate and Graduate Research Assistant
-Primary advisor: Donald R. Lowe (drlowe@stanford.edu); Secondary advisor: Stephan A. Graham (sagraham@stanford.edu)
-My PhD thesis was focused on channelized deepwater depositional systems, and focused on three different projects, each published as a peer-reviewed journal article:
-- The detailed characterization of a large, asymmetric, conglomerate-rich submarine channel complex, entitled “Facies and Architectural Asymmetry in a Conglomerate-Rich Submarine Channel Fill, Cerro Toro Formation, Sierra Del Toro, Magallanes Basin, Chile” (Jobe et al., 2010, J. Sed. Res.)
-- A 3D seismic-reflection based study of the long-term evolution of a submarine canyon system offshore west Africa, entitled “Two Fundamentally Different Types of Submarine Canyons Along The Continental Margin of Equatorial Guinea” (Jobe et al., 2011, Marine Pet. Geol.)
-- Determining the depositional environments, sedimentation rates, and accumulation times of deep-water climbing-ripple successions from three field locales, entitled “Climbing Ripple Successions in Deep-Water Systems: Depositional Environments, Sedimentation Rates, and Accumulation Times” (Jobe et al., 2012, Sedimentology)
-These projects gave me wide-ranging knowledge, skills, and abilities, including expertise in deepwater depositional systems, outcrop and field-based research, 3D seismic interpretation, subsurface core description, and numerical modeling abilities, as well as creativity, collaboration, project management, and performance under pressure/deadlines.
+**September 2005–May 2010**  
+**Stanford University, Palo Alto, CA**  
+&emsp;PhD Candidate and Graduate Research Assistant  
+&emsp;Primary Advisor: Donald R. Lowe ([drlowe@stanford.edu](mailto:drlowe@stanford.edu))  
+&emsp;Secondary Advisor: Stephan A. Graham ([sagraham@stanford.edu](mailto:sagraham@stanford.edu))
 
-ExxonMobil, Houston, TX 						June 2008 – September 2008
-Geoscience Intern, Upstream Research Company
-Supervisor: Kirt Campion kirt_campion@att.net (retired)
-Yes, supervisor may be contacted
-Hours worked per week: 40
+**June 2008–September 2008**  
+**ExxonMobil, Houston, TX**  
+&emsp;Geoscience Intern, Upstream Research Company  
+&emsp;Supervisor: Kirt Campion 
 Conducted outcrop-based sedimentological field work (including ground penetrating radar surveys) to quantify bedform density and submarine channel architecture of the Ross Sandstone in western Ireland. I integrated the data from this outcrop analog with borehole and seismic reflection data from the Diana Field (western Gulf of Mexico) in order to better predict reservoir connectivity and future well locations. Knowledge, skills, and abilities for this position included: understanding of petroleum systems and hydrocarbon reservoirs, collection of field data and ground-penetrating radar surveys, interpretation of seismic data, borehole, and outcrop data, communication of scientific results through presentations to technical and non-technical audiences.
 
-ConocoPhillips, Houston, TX 						June 2007 – September 2007
-Geoscience Intern, Sedimentary Systems
-Supervisor: Bill Morris william.r.morris@conocophillips.com
-Yes, supervisor may be contacted
-Hours worked per week: 40
+**June 2007–September 2007**  
+**ConocoPhillips, Houston, TX**  
+&emsp;Geoscience Intern, Sedimentary Systems  
+&emsp;Supervisor: Bill Morris
 Described core and interpreted seismic data from the Magnolia field (Gulf of Mexico) and provided depositional environment interpretations. Performed outcrop-based field work on submarine-fan deposits in the Karoo basin, South Africa in order to provide an analog to the Magnolia field, GOM. Specifically, I studied climbing-ripple cross-laminated sandstones in both the Karoo and Magnolia, and used numerical modeling to provide sedimentation rates and accumulation times of individual turbidite event-beds. This data was used to better constrain in-place hydrocarbon volumes, reservoir, connectivity, and future well placement decisions for Magnolia field. Knowledge, skills, and abilities for this position included: understanding of sedimentology and related geologic processes and petroleum systems, interpretation of seismic reflection and core data to assess petroleum accumulations,
 
-Hess Corporation, Houston, TX 						June 2006 – September 2006
-Geoscience Intern, West Africa Business Unit
-Supervisor: Steve Uchytil suchytil@att.net (retired)
-Yes, supervisor may be contacted
-Hours worked per week: 40
+**June 2006–September 2006**  
+**Hess Corporation, Houston, TX**  
+&emsp;Geoscience Intern, West Africa Business Unit  
+&emsp;Supervisor: Steve Uchytil
 Utilized 3D seismic reflection and borehole data to interpret the Cenozoic evolution of the Rio Muni Basin continental margin, offshore Equatorial Guinea. Specifically, I defined two fundamentally different types of submarine canyons and provided a method for defining sand content using only canyon geometry. I wrote a technical report and peer-reviewed manuscript using the data from this project, which enabled Hess to better constrain sediment routing and in-place volume estimates for a key petroleum reservoir. I also conducted geohazard assessments for the positioning of tension leg platform (TLP) infrastructure in offshore Equatorial Guinea. Knowledge, skills, and abilities required for this position included: advanced 3D seismic interpretation, borehole data characterization, fault mapping, and data synthesis into a technical presentation for technical and non-technical audiences
 
-Pioneer Natural Resources Company, Las Colinas, TX	September 2004 – August 2005
-Geologist, International Exploration
-Supervisor: Rob Hull (no current contact info)
-Hours worked per week: 40
+**September 2004–August 2005**  
+**Pioneer Natural Resources Company, Las Colinas, TX**  
+&emsp;Geologist, International Exploration  
+&emsp;Supervisor: Rob Hull 
 In my first petroleum industry job, I mapped regional horizons from 2D seismic reflection data, offshore Nigeria in an effort to interpret deep-water channel architectural evolution and constrain undiscovered geologic energy resources. This included constructing a regional tectonic analysis for the basin and compiling data for a porosity-permeability-depth study from existing borehole data, offshore Nigeria. I also updated a weekly scout-report poster with drilling activity in the basin to disseminate data to the team. Knowledge, skills, and abilities required for this position included: the ability to generate estimates of petroleum resources from subsurface data, present technical work to technical and non-technical audiences, knowledge of software used in seismic interpretation, and knowledge of operations geology and drilling.
 
-University of Texas at Arlington		May 2004 – December 2004
-Surficial Floodplain Mapper
-Supervisor: John Holbrook john.holbrook@tcu.edu
-Yes, supervisor may be contacted
-Hours worked per week: 30
+**May 2004–December 2004**  
+**University of Texas at Arlington**  
+&emsp;Surficial Floodplain Mapper  
+&emsp;Supervisor: John Holbrook ([john.holbrook@tcu.edu](mailto:john.holbrook@tcu.edu))  
 Through a USGS EDMAP grant received by John Holbrook, I was hired as a student-mapper. I hand-augered and logged > 200 cores of Quaternary fluvial deposits in the Missouri River valley in order to constrain paleo-river locations and dimensions and to aid in locating suitable areas for wetland restoration. Drill sites were selected using remotely sensed GIS data and allostratigraphic principles. I utilized ArcGIS to draft and publish four surficial geological quadrangle maps that aided in wetland rehabilitation, crop productivity, and water resource characterization. Knowledge, skills, and abilities required for this position include geologic and geomorphic field mapping, field data collection, GIS software knowledge, creativity, teamwork, attention to detail, and technical report writing.
 
-University of Texas at Arlington		May 2003 – May 2004
-Honors Student Researcher
-Supervisor: Merlynd Nestell nestell@uta.edu
-Yes, supervisor may be contacted
-Hours worked per week: 20
+**May 2003–May 2004**  
+**University of Texas at Arlington**  
+&emsp;Honors Student Researcher  
+&emsp;Supervisor: Merlynd Nestell ([nestell@uta.edu](mailto:nestell@uta.edu))  
 Conducted field work in the Apache Mountains in the Permian Basin, Texas, to measure stratigraphic sections, Samples from those sections were processed in the lab to identify microfaunal content (conodonts, radiolaria, & foraminifera). I also compiled data for a biostratigraphic correlation of the Apache Mountains to the Guadalupe Mountains, where the stratotype section is for the Guadalupian (Permian) stage. Wrote a thesis entitled “Stratigraphy of the upper Bell Canyon Formation (Guadalupian Stage, Permian System), Seven Heart Gap, Apache Mountains, Trans-Pecos Texas”. For this research, I was awarded the 2004 President’s award for Undergraduate Research at the University of Texas at Arlington. Knowledge, skills, and abilities required for this position include geologic mapping, carbonate facies identification, fossil identification, laboratory procedures for biostratigraphy, and technical report writing.
 
 ## Funding and Grants Received
@@ -158,7 +151,8 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
 - 2019-2022: $3,020,000 ($900,000 new) from Chevron to support the Colorado School of Mines Center of Research Excellence (3 staff, 6 graduate students, 2 undergraduate students)
 - 2020: $15,000 for development of online Earth Resource Data Science graduate certificate for Mines
 - 2019: $8,000 from Earth Science Information Partners (ESIP) for the creation of a subaqueous landslide database and website for global outreach and data dissemination
-- Student-led grants:
+
+### Student-led grants:
 - 2026 – Jutamas Charoensuk $6,000 RMAG, $1,000 Bartshe, MORE
 - 2025 – David Nworie $10,000 SM Scholar; Rachel Williams RMAG $7,500, Laubach $2,500; Marat Ibagarov $3,000 Kent Mines, $3,000 WTGS, $950 SEPM;
 - 2024 – Luthfi Saifudin $2000 Bartshe; Sanzhar Begimbetov $1000 Bartshe, $2000 Haun; Maxi Miguez $1000 Bartshe, $2000 AAPG-GIA, $2000 Kent; Rachel Williams $5000 RMAG, $2500 SEPM ISGC; David Nworie $3000 AAPG-GIA; Viska Dewi $3000 AAPG-GIA;
