@@ -144,51 +144,37 @@ Through a USGS EDMAP grant received by John Holbrook, I was hired as a student-m
 Conducted field work in the Apache Mountains in the Permian Basin, Texas, to measure stratigraphic sections, Samples from those sections were processed in the lab to identify microfaunal content (conodonts, radiolaria, & foraminifera). I also compiled data for a biostratigraphic correlation of the Apache Mountains to the Guadalupe Mountains, where the stratotype section is for the Guadalupian (Permian) stage. Wrote a thesis entitled “Stratigraphy of the upper Bell Canyon Formation (Guadalupian Stage, Permian System), Seven Heart Gap, Apache Mountains, Trans-Pecos Texas”. For this research, I was awarded the 2004 President’s award for Undergraduate Research at the University of Texas at Arlington. Knowledge, skills, and abilities required for this position include geologic mapping, carbonate facies identification, fossil identification, laboratory procedures for biostratigraphy, and technical report writing.
 
 ## Funding and Grants Received
-- Total 2016-2024: $6,406,775
-- 2021-2022: $17,500 from Nazarbayev University for creation of documents to support the creation of a successful research center
-- 2021-2025: $3,156,000 from Chevron for “Carbonate Mechanical Stratigraphy”, with 5 graduate students and a three-year postdoc position
-- 2021: $110,000 from the ACS-Petroleum Research Fund for “Carbonate sediment-gravity-flow experiments” to fund a graduate student
-- 2019-2022: $3,020,000 ($900,000 new) from Chevron to support the Colorado School of Mines Center of Research Excellence (3 staff, 6 graduate students, 2 undergraduate students)
-- 2020: $15,000 for development of online Earth Resource Data Science graduate certificate for Mines
-- 2019: $8,000 from Earth Science Information Partners (ESIP) for the creation of a subaqueous landslide database and website for global outreach and data dissemination
+{% assign major_submitted = 0 %}
+{% assign major_received = 0 %}
+{% for grant in site.data.grants_major.items %}
+  {% assign major_submitted = major_submitted | plus: grant.submitted_amount %}
+  {% assign major_received = major_received | plus: grant.received_amount %}
+{% endfor %}
 
-### Student-led grants:
-- 2026 – Jutamas Charoensuk $6,000 RMAG, $1,000 Bartshe, MORE
-- 2025 – David Nworie $10,000 SM Scholar; Rachel Williams RMAG $7,500, Laubach $2,500; Marat Ibagarov $3,000 Kent Mines, $3,000 WTGS, $950 SEPM;
-- 2024 – Luthfi Saifudin $2000 Bartshe; Sanzhar Begimbetov $1000 Bartshe, $2000 Haun; Maxi Miguez $1000 Bartshe, $2000 AAPG-GIA, $2000 Kent; Rachel Williams $5000 RMAG, $2500 SEPM ISGC; David Nworie $3000 AAPG-GIA; Viska Dewi $3000 AAPG-GIA;
-- 2023 – David Nworie $2500 AAPG; Maxi Miguez $500 Colorado Scientific Society; Luthfi Saifudin $300 IAS, $900 SEPM;
-- 2022 – David Nworie $4000 RMAG; Maxi Miguez $2500 RMAG, $2500 Haun, $2500 Daniels; Leonela Aguada $2500 Kent; Luthfi Saifudin $1000 Bartshe; Shaskia Putri $1900 Bartshe
-- 2021 – Nataly Chacón Buitrago: $1000 Bartsche, $2000 Kent, Haun Billingsley, $300 AAPG, $400 SEPM
-- 2021 – Mitch Schneider: $2500 Kent, Haun, Billingsley, $2000 Bartsche
-- 2020 – Hanaga Simabrata: $3500 from RMAG, $3000 from AAPG, $1200 from Bartsche
-- 2019 - Thomas Martin ($1000) from Bartsche Fund at Mines
-- 2018 - Luke Pettinga ($3000), Kaci Kus ($1400) from Bartsche Fund at Mines
-- 2017 - Wylie Walker ($5000 from WTGS; $1000 from AAPG); Pengfei Hou ($1000 AAPG)
-- 2016 - Rosie Fryer ($2500 from AAPG; $1775 from GSA)
-- Small grants at Mines
-- 2025 GE Undergraduate Summer Research Program (Sera Reyes - $3500)
-- 2020 GE Undergraduate Summer Research Program (Kayla Brady - $3200)
-- 2019 GE Undergraduate Summer Research Program (Jared Tadla - $3200)
-- 2018 GE Undergraduate Summer Research Program (Andrew Harger - $3200)
-- 2017 GE Undergraduate Summer Research Program (Dingxin Cai - $3200)
-- Mines Undergraduate Research Fellowships (MURF)
-- 2020-21 MURF (Michael Field - $1500)
-- 2018-19 MURF (Carissa Anderson - $1500)
-- 2017-18 MURF (Ali Downard - $1500)
-- 2016-17 MURF (Dingxin Cai - $1500)
-- 2008 recipient of the AAPG Grants-in-Aid program ($2500)
-- 2007 recipient of the Lawrence W. Funkhouser Named Grant from the American Association of Petroleum Geologists Grants-in-Aid program ($2,000)
+**Major grants total submitted:** ${{ major_submitted }}  
+**Major grants total received:** ${{ major_received }}
 
-## Grants Submitted
-- 2021: $3,156,000 from Chevron for “Carbonate Mechanical Stratigraphy”, with 5 graduate students and a three-year postdoc position
-- 2021: $98,000 to Berry Corp for sidewall-core image analysis (with Luis Zerpa – not funded)
-- 2021: $110,000 from the ACS-Petroleum Research Fund for “Carbonate sediment-gravity-flow experiments” to fund a graduate student
-- 2020: $780,000 to UNSA (Paul Santi center) for “Hazards of Yearly River Migration on Artisanal Mine Infrastructure” (not funded)
-- 2019-2022: $3,020,000 to Chevron for the operation of the Mines Center or Research Excellence
-- 2020: $15,000 from Research and Technology Transfer (one of four co-PIs)
-- 2019: $8000 to Earth Science Information Partners (ESIP) for the creation of a subaqueous landslide database and website for global outreach (awarded)
-- 2019: International Ocean Discovery Program Pre-proposal: “Climatic Forcing on Late Cenozoic Drought Variability of the Sahara/Sahel and the Impacts on Sediment/Nutrient Flux to the Niger Delta and the Atlantic Ocean”, PI: Zane Jobe, proponents Derek Sawyer, Niall Slowey, Brian Romans, Andrew Parker, Zoltan Sylvester (not selected for future consideration due to ship safety, piracy, and logistical concerns)
-- 2018: $57,969 to Department of Energy Watershed Function Science Focus Area (SFA) Collaborative Mini Grant: “Variations in bedrock lithology play a dominant role in the spatial availability and cycling of solutes in watersheds,” PI: Zane Jobe, SFA sponsor: Alexis Sitchler (not selected for funding)
+| Years | Source | Project | Submitted | Received | Status |
+|---|---|---|---:|---:|---|
+{% for grant in site.data.grants_major.items %}
+{% capture grant_years %}{{ grant.start_year }}{% if grant.end_year %}–{{ grant.end_year }}{% endif %}{% endcapture %}
+| {{ grant_years | strip }} | {{ grant.source }} | {{ grant.project }} | {{ grant.submitted_display }} | {{ grant.received_display }} | {{ grant.status }} |
+{% endfor %}
+
+### Student and Small Grants
+
+{% assign student_total = 0 %}
+{% for grant in site.data.grants_student.items %}
+  {% assign student_total = student_total | plus: grant.amount %}
+{% endfor %}
+
+**Student and small grants total:** ${{ student_total }}
+
+| Category | Year | Recipient | Amount | Source |
+|---|---|---|---:|---|
+{% for grant in site.data.grants_student.items %}
+| {{ grant.category }} | {{ grant.year }} | {{ grant.recipient }} | {{ grant.amount_display }} | {{ grant.source }} |
+{% endfor %}
 
 {% include publications-from-cv.md %}
 

@@ -1,0 +1,399 @@
+items:
+  - category: "student-led"
+    year: 2026
+    recipient: "Jutamas Charoensuk"
+    amount: 6000
+    amount_display: "$6,000"
+    source: "RMAG"
+
+  - category: "student-led"
+    year: 2026
+    recipient: "Jutamas Charoensuk"
+    amount: 1000
+    amount_display: "$1,000"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2025
+    recipient: "David Nworie"
+    amount: 10000
+    amount_display: "$10,000"
+    source: "RMAG SM Scholar"
+
+  - category: "student-led"
+    year: 2025
+    recipient: "Rachel Williams"
+    amount: 7500
+    amount_display: "$7,500"
+    source: "RMAG"
+
+  - category: "student-led"
+    year: 2025
+    recipient: "Rachel Williams"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "GSA Laubach"
+
+  - category: "student-led"
+    year: 2025
+    recipient: "Marat Ibagarov"
+    amount: 3000
+    amount_display: "$3,000"
+    source: "Kent Fund at Mines"
+
+  - category: "student-led"
+    year: 2025
+    recipient: "Marat Ibagarov"
+    amount: 3000
+    amount_display: "$3,000"
+    source: "WTGS"
+
+  - category: "student-led"
+    year: 2025
+    recipient: "Marat Ibagarov"
+    amount: 950
+    amount_display: "$950"
+    source: "SEPM"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Luthfi Saifudin"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Sanzhar Begimbetov"
+    amount: 1000
+    amount_display: "$1,000"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Sanzhar Begimbetov"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "Haun Fund at Mines"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Maxi Miguez"
+    amount: 1000
+    amount_display: "$1,000"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Maxi Miguez"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "AAPG-GIA"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Maxi Miguez"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "Kent Fund at Mines"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Rachel Williams"
+    amount: 5000
+    amount_display: "$5,000"
+    source: "RMAG"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Rachel Williams"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "SEPM ISGC"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "David Nworie"
+    amount: 3000
+    amount_display: "$3,000"
+    source: "AAPG-GIA"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Viska Dewi"
+    amount: 3000
+    amount_display: "$3,000"
+    source: "AAPG-GIA"
+
+  - category: "student-led"
+    year: 2023
+    recipient: "David Nworie"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "AAPG-GIA"
+
+  - category: "student-led"
+    year: 2023
+    recipient: "Maxi Miguez"
+    amount: 500
+    amount_display: "$500"
+    source: "Colorado Scientific Society"
+
+  - category: "student-led"
+    year: 2023
+    recipient: "Luthfi Saifudin"
+    amount: 300
+    amount_display: "$300"
+    source: "IAS"
+
+  - category: "student-led"
+    year: 2023
+    recipient: "Luthfi Saifudin"
+    amount: 900
+    amount_display: "$900"
+    source: "SEPM"
+
+  - category: "student-led"
+    year: 2022
+    recipient: "David Nworie"
+    amount: 4000
+    amount_display: "$4,000"
+    source: "RMAG"
+
+  - category: "student-led"
+    year: 2022
+    recipient: "Maxi Miguez"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "RMAG"
+
+  - category: "student-led"
+    year: 2022
+    recipient: "Maxi Miguez"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "Haun Fund at Mines"
+
+  - category: "student-led"
+    year: 2022
+    recipient: "Maxi Miguez"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "Daniels Fund at Mines"
+
+  - category: "student-led"
+    year: 2022
+    recipient: "Leonela Aguada"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "Kent Fund at Mines"
+
+  - category: "student-led"
+    year: 2022
+    recipient: "Luthfi Saifudin"
+    amount: 1000
+    amount_display: "$1,000"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2022
+    recipient: "Shaskia Putri"
+    amount: 1900
+    amount_display: "$1,900"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2021
+    recipient: "Nataly Chacón Buitrago"
+    amount: 1000
+    amount_display: "$1,000"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2021
+    recipient: "Nataly Chacón Buitrago"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "Kent Fund at Mines"
+
+  - category: "student-led"
+    year: 2021
+    recipient: "Nataly Chacón Buitrago"
+    amount: 300
+    amount_display: "$300"
+    source: "AAPG-GIA"
+
+  - category: "student-led"
+    year: 2021
+    recipient: "Nataly Chacón Buitrago"
+    amount: 400
+    amount_display: "$400"
+    source: "SEPM"
+
+  - category: "student-led"
+    year: 2021
+    recipient: "Mitch Schneider"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "Haun/Billingsley Fund at Mines"
+
+  - category: "student-led"
+    year: 2021
+    recipient: "Mitch Schneider"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2020
+    recipient: "Hanaga Simabrata"
+    amount: 3500
+    amount_display: "$3,500"
+    source: "RMAG"
+
+  - category: "student-led"
+    year: 2020
+    recipient: "Hanaga Simabrata"
+    amount: 3000
+    amount_display: "$3,000"
+    source: "AAPG-GIA"
+
+  - category: "student-led"
+    year: 2020
+    recipient: "Hanaga Simabrata"
+    amount: 1200
+    amount_display: "$1,200"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2019
+    recipient: "Thomas Martin"
+    amount: 1000
+    amount_display: "$1,000"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2018
+    recipient: "Luke Pettinga"
+    amount: 3000
+    amount_display: "$3,000"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2018
+    recipient: "Kaci Kus"
+    amount: 1400
+    amount_display: "$1,400"
+    source: "Bartshe Fund at Mines"
+
+  - category: "student-led"
+    year: 2017
+    recipient: "Wylie Walker"
+    amount: 5000
+    amount_display: "$5,000"
+    source: "WTGS"
+
+  - category: "student-led"
+    year: 2017
+    recipient: "Wylie Walker"
+    amount: 1000
+    amount_display: "$1,000"
+    source: "AAPG-GIA"
+
+  - category: "student-led"
+    year: 2017
+    recipient: "Pengfei Hou"
+    amount: 1000
+    amount_display: "$1,000"
+    source: "AAPG-GIA"
+
+  - category: "student-led"
+    year: 2016
+    recipient: "Rosie Fryer"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "AAPG-GIA"
+
+  - category: "student-led"
+    year: 2016
+    recipient: "Rosie Fryer"
+    amount: 1775
+    amount_display: "$1,775"
+    source: "GSA"
+
+  - category: "small-grants"
+    year: 2025
+    recipient: "Sera Reyes"
+    amount: 3500
+    amount_display: "$3,500"
+    source: "Geology Dept Undergrad Summer Research Program"
+
+  - category: "small-grants"
+    year: 2020
+    recipient: "Kayla Brady"
+    amount: 3200
+    amount_display: "$3,200"
+    source: "Geology Dept Undergrad Summer Research Program"
+
+  - category: "small-grants"
+    year: 2019
+    recipient: "Jared Tadla"
+    amount: 3200
+    amount_display: "$3,200"
+    source: "Geology Dept Undergrad Summer Research Program"
+
+  - category: "small-grants"
+    year: 2018
+    recipient: "Andrew Harger"
+    amount: 3200
+    amount_display: "$3,200"
+    source: "Geology Dept Undergrad Summer Research Program"
+
+  - category: "small-grants"
+    year: 2017
+    recipient: "Dingxin Cai"
+    amount: 3200
+    amount_display: "$3,200"
+    source: "Geology Dept Undergrad Summer Research Program"
+
+  - category: "small-grants"
+    year: 2020
+    recipient: "Michael Field"
+    amount: 1500
+    amount_display: "$1,500"
+    source: "Mines Undergraduate Research Fellowship"
+
+  - category: "small-grants"
+    year: 2018
+    recipient: "Carissa Anderson"
+    amount: 1500
+    amount_display: "$1,500"
+    source: "Mines Undergraduate Research Fellowship"
+
+  - category: "small-grants"
+    year: 2017
+    recipient: "Ali Downard"
+    amount: 1500
+    amount_display: "$1,500"
+    source: "Mines Undergraduate Research Fellowship"
+
+  - category: "small-grants"
+    year: 2016
+    recipient: "Dingxin Cai"
+    amount: 1500
+    amount_display: "$1,500"
+    source: "Mines Undergraduate Research Fellowship"
+
+  - category: "small-grants"
+    year: 2008
+    recipient: "Zane Jobe"
+    amount: 2500
+    amount_display: "$2,500"
+    source: "AAPG-GIA"
+
+  - category: "small-grants"
+    year: 2007
+    recipient: "Zane Jobe"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "AAPG-GIA Lawrence W. Funkhouser Named Grant"

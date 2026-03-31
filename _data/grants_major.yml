@@ -1,0 +1,150 @@
+items:
+  - start_year: 2026
+    end_year: 2027
+    source: "Chevron"
+    project: "Carbonate Slope Deposit Mechanical Stratigraphy extension"
+    submitted_amount: 630347
+    submitted_display: "$630,347"
+    received_amount: 156833
+    received_display: "$156,833"
+    status: "awarded"
+
+  - start_year: 2026
+    end_year: 2028
+    source: "AAPG"
+    project: "Digital-Outcrop Geology, Delaware Basin"
+    submitted_amount: 100000
+    submitted_display: "$100,000"
+    received_amount: 0
+    received_display: "$0"
+    status: "not funded"
+
+  - start_year: 2022
+    end_year: 2023
+    source: "Nazarbayev University"
+    project: "Developing research center documents"
+    submitted_amount: 17500
+    submitted_display: "$17,500"
+    received_amount: 17500
+    received_display: "$17,500"
+    status: "awarded"
+
+  - start_year: 2021
+    end_year: 2025
+    source: "Chevron"
+    project: "Carbonate Slope Deposit Mechanical Stratigraphy"
+    submitted_amount: 3156000
+    submitted_display: "$3,156,000"
+    received_amount: 3156000
+    received_display: "$3,156,000"
+    status: "awarded"
+
+  - start_year: 2021
+    end_year: 2026
+    source: "ACS Petroleum Research Fund"
+    project: "Carbonate sediment-gravity-flow experiments"
+    submitted_amount: 110000
+    submitted_display: "$110,000"
+    received_amount: 110000
+    received_display: "$110,000"
+    status: "awarded"
+
+  - start_year: 2021
+    end_year: 2026
+    source: "Colorado School of Mines"
+    project: "Carbonate sediment-gravity-flow experiments (TA-ship)"
+    submitted_amount: 180000
+    submitted_display: "$180,000"
+    received_amount: 180000
+    received_display: "$180,000"
+    status: "awarded"
+
+  - start_year: 2021
+    end_year:
+    source: "Berry Corp"
+    project: "Sidewall-core image analysis with Luis Zerpa"
+    submitted_amount: 98000
+    submitted_display: "$98,000"
+    received_amount: 0
+    received_display: "$0"
+    status: "not funded"
+
+  - start_year: 2020
+    end_year:
+    source: "DOE"
+    project: "Reservoir and Seal Efficacy Risking (RASER) for Offshore Carbon Storage"
+    submitted_amount: 6500000
+    submitted_display: "$6,500,000"
+    received_amount: 0
+    received_display: "$0"
+    status: "not funded"
+
+  - start_year: 2020
+    end_year:
+    source: "Mines IILA"
+    project: "Hazards of River Migration for Artisanal Mines"
+    submitted_amount: 780000
+    submitted_display: "$780,000"
+    received_amount: 0
+    received_display: "$0"
+    status: "not funded"
+
+  - start_year: 2020
+    end_year:
+    source: "Colorado School of Mines"
+    project: "Development of online Earth Resource Data Science graduate certificate"
+    submitted_amount: 15000
+    submitted_display: "$15,000"
+    received_amount: 15000
+    received_display: "$15,000"
+    status: "awarded"
+
+  - start_year: 2019
+    end_year: 2022
+    source: "Chevron"
+    project: "Center of Research Excellence"
+    submitted_amount: 3020000
+    submitted_display: "$3,020,000"
+    received_amount: 900000
+    received_display: "$900,000"
+    status: "awarded"
+
+  - start_year: 2019
+    end_year:
+    source: "Earth Science Information Partners (ESIP)"
+    project: "Subaqueous landslide database and website"
+    submitted_amount: 8000
+    submitted_display: "$8,000"
+    received_amount: 8000
+    received_display: "$8,000"
+    status: "awarded"
+
+  - start_year: 2019
+    end_year:
+    source: "International Ocean Discovery Program"
+    project: "Late Cenozoic Drought Variability of the Sahara/Sahel and the Impacts on Oceanic Sediment/Nutrient Flux"
+    submitted_amount: 0
+    submitted_display: "$0 (pre-proposal)"
+    received_amount: 0
+    received_display: "$0"
+    status: "not selected"
+
+  - start_year: 2019
+    end_year:
+    source: "ConocoPhillips"
+    project: "Reservoir quality in the Brookian sediment routing system"
+    submitted_amount: 104005
+    submitted_display: "$104,005"
+    received_amount: 0
+    received_display: "$0"
+    status: "not funded"
+
+  - start_year: 2018
+    end_year:
+    source: "DOE Watershed SFA Mini Grant"
+    project: "Variations in bedrock lithology play a dominant role in cycling of solutes in watersheds"
+    submitted_amount: 57969
+    submitted_display: "$57,969"
+    received_amount: 0
+    received_display: "$0"
+    status: "not funded"
