@@ -151,15 +151,34 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
   {% assign major_received = major_received | plus: grant.received_amount %}
 {% endfor %}
 
-**Major grants total submitted:** ${{ major_submitted }}  
-**Major grants total received:** ${{ major_received }}
+**Major grants total submitted:** ${{ major_submitted | number_with_delimiter }}  
+**Major grants total received:** ${{ major_received | number_with_delimiter }}
 
-| Years | Source | Project | Submitted | Received | Status |
-|---|---|---|---:|---:|---|
-{% for grant in site.data.grants_major.items %}
-{% capture grant_years %}{{ grant.start_year }}{% if grant.end_year %}–{{ grant.end_year }}{% endif %}{% endcapture %}
-| {{ grant_years | strip }} | {{ grant.source }} | {{ grant.project }} | {{ grant.submitted_display }} | {{ grant.received_display }} | {{ grant.status }} |
-{% endfor %}
+<table>
+  <thead>
+    <tr>
+      <th>Years</th>
+      <th>Source</th>
+      <th>Project</th>
+      <th style="text-align: right;">Submitted</th>
+      <th style="text-align: right;">Received</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for grant in site.data.grants_major.items %}
+    {% capture grant_years %}{{ grant.start_year }}{% if grant.end_year %}&ndash;{{ grant.end_year }}{% endif %}{% endcapture %}
+    <tr>
+      <td>{{ grant_years | strip }}</td>
+      <td>{{ grant.source }}</td>
+      <td>{{ grant.project }}</td>
+      <td style="text-align: right;">{{ grant.submitted_display }}</td>
+      <td style="text-align: right;">{{ grant.received_display }}</td>
+      <td>{{ grant.status }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
 ### Student and Small Grants
 
@@ -168,13 +187,30 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
   {% assign student_total = student_total | plus: grant.amount %}
 {% endfor %}
 
-**Student and small grants total:** ${{ student_total }}
+**Student and small grants total:** ${{ student_total | number_with_delimiter }}
 
-| Category | Year | Recipient | Amount | Source |
-|---|---|---|---:|---|
-{% for grant in site.data.grants_student.items %}
-| {{ grant.category }} | {{ grant.year }} | {{ grant.recipient }} | {{ grant.amount_display }} | {{ grant.source }} |
-{% endfor %}
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Year</th>
+      <th>Recipient</th>
+      <th style="text-align: right;">Amount</th>
+      <th>Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for grant in site.data.grants_student.items %}
+    <tr>
+      <td>{{ grant.category }}</td>
+      <td>{{ grant.year }}</td>
+      <td>{{ grant.recipient }}</td>
+      <td style="text-align: right;">{{ grant.amount_display }}</td>
+      <td>{{ grant.source }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
 
 {% include publications-from-cv.md %}
 
