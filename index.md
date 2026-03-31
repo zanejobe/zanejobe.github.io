@@ -9,7 +9,7 @@ I am a sedimentologist and research professor at Colorado School of Mines. My wo
 
 I aim to better understand the stratigraphic architecture, scaling relationships, and sediment budgets for clastic depositional systems, with an emphasis on submarine environments. 
 
-I also enjoys cycling 🚴 in the summer and driveway snow removal 🪏 in the winter. 
+I also enjoy cycling 🚴 in the summer and driveway snow removal 🪏 in the winter. 
 
 [View CV](/cv/){: .btn .btn--primary}
 [Research](/research/){: .btn .btn--inverse}

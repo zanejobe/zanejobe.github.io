@@ -3,6 +3,7 @@ title: "CV"
 permalink: /cv/
 layout: single
 author_profile: false
+classes: wide
 ---
 
 [Download full CV (PDF)](/files/Zane_Jobe_CV_2026.pdf)
@@ -60,7 +61,7 @@ With over 20 years of experience in clastic sedimentology, particularly in deep-
 - Google Scholar profile: https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en&oi=ao
 - LinkedIn profile: https://www.linkedin.com/in/zane-jobe-4b732168
 - Github: @ZaneJobe
-- Blog: https://www.offtheshelfedge.wordpress.com
+- Blog: https://offtheshelfedge.wordpress.com
 - ORCID: https://orcid.org/0000-0002-7654-4528
 ---
 
@@ -195,95 +196,7 @@ Conducted field work in the Apache Mountains in the Permian Basin, Texas, to mea
 - 2019: International Ocean Discovery Program Pre-proposal: “Climatic Forcing on Late Cenozoic Drought Variability of the Sahara/Sahel and the Impacts on Sediment/Nutrient Flux to the Niger Delta and the Atlantic Ocean”, PI: Zane Jobe, proponents Derek Sawyer, Niall Slowey, Brian Romans, Andrew Parker, Zoltan Sylvester (not selected for future consideration due to ship safety, piracy, and logistical concerns)
 - 2018: $57,969 to Department of Energy Watershed Function Science Focus Area (SFA) Collaborative Mini Grant: “Variations in bedrock lithology play a dominant role in the spatial availability and cycling of solutes in watersheds,” PI: Zane Jobe, SFA sponsor: Alexis Sitchler (not selected for funding)
 
-## Peer-Reviewed Publications
-In the pipeline:
-- Marat fractures in the Rader, GSA Bulletin
-- Rachel fractures in the Pinery, GSA Bulletin
-- Zaid Dona Ana in Alamo, Sedimentologika
-- David muddy experiments paper, Sedimentologika
-Published:
-2026
-67 Slootman, A., de Kruijf, M., Glatz, G., Eggenhuisen, J.T., Jobe, Z.R., Reijmer, J.J.G., 2026, Settling velocity of sediment grains, Part 2: Volume/area ratio as descriptor of particle size and shape in sediment hydrodynamics. Sedimentologika, 26 p., https://doi.org/10.57035/journals/sdk.2026.e41.2307
-66 Slootman, A., de Kruijf, M., Glatz, G., Eggenhuisen, J.T., Jobe, Z.R., Reijmer, J.J.G., 2026, Settling velocity of sediment grains, Part 1: Natural sediment particles are not ellipsoids. Sedimentologika, 21 p., https://doi.org/10.57035/journals/sdk.2026.e41.1937
-65 Saifudin, L., Jobe, Z.R., Slootman, A., Carr, M., Plink-Bjorklund, P., 2026, Supercritical-flow structures in a Cretaceous submarine channel-lobe transition zone, Point Loma Formation, California. The Depositional Record, https://doi.org/10.1002/dep2.70070
-2025
-64 Nworie, C.D. and Jobe, Z.R., 2025, Size and shape of carbonate grains: A comparison of measurement techniques. Sedimentologika, https://doi.org/10.57035/journals/sdk.2025.e31.1742
-63 Musso, M.S., Slootman, A., Wood, L.J., Jobe, Z.R., 2025, Stalked crinoids: from skeleton to sediment, Journal of Sedimentary Research, https://doi.org/10.2110/jsr.2025.099
-62 Simabrata, H., Jobe, Z.R., Hou, P., Wood, L.J., Kus, K.B., Hurd, G., 2025, Grain‐fabric alignments in a mixed carbonate–siliciclastic mass‐transport complex: The Cutoff Formation, Permian Basin, Texas. Sedimentology, 72 (4), 1065-1101, https://doi.org/10.1111/sed.13270
-61 Simabrata, H., Jobe, Z.R., Wood, L.J., Cardona, S., Hou, P., 2025, Characterization, prediction and implications of compartments in a mixed carbonate–siliciclastic mass‐transport complex: The Cutoff Formation, Permian Basin, Texas. Sedimentology, 72 (4), 1102-1131, https://doi.org/10.1111/sed.13269
-60 Putri, S.H., Jobe, Z.R., Melick, J., Wood, L.J., French, M., 2025, Depositional-process controls on chemofacies in mixed-lithology submarine lobe deposits: A high-resolution core study from the Permian Wolfcamp XY Formation, Delaware Basin, Texas. Journal of Sedimentary Research, 95 (1): 63–85, https://doi.org/10.2110/jsr.2024.015
-2024
-59 Jobe, Z. R., Hubbard, S. M., & Romans, B. W. (2024). How many turbidity currents pass through a submarine channel during its lifespan?. Journal of Sedimentary Research, 94(6), 737-749, https://doi.org/10.2110/jsr.2024.050
-58 Jobe, Z.R., Seckinger, S., Martin, T., Kus, K., Pettinga, L., Lateral heterogeneity of basin-plain turbidites of the Cloridorme Formation, Quebec, Canada: Implications for horizontal well prediction. The Depositional Record, vol. 11, no. 1, p. 22-43, https://doi.org/10.1002/dep2.278
-2023
-57 Putri, S.H., Jobe, Z.R., Wood, L., Melick, J., French, M., and Pfaff, K., High-Resolution Core Study Relating Chemofacies to Reservoir Quality: Examples from the Permian Wolfcamp XY Formation, Delaware Basin, Texas. URTEC-3871113-MS, https://doi.org/10.15530/urtec-2023-3871113
-56 Cardenas, B. T., Lamb, M. P., Jobe, Z.R., Mohrig, D., & Swartz, J. M., 2023, Morphodynamic Preservation of Fluvial Channel Belts. The Sedimentary Record, 21(1), https://doi.org/10.2110/001c.66285
-55 Gilbert, J. C., & Jobe, Z. R., 2023, Submarine-Channel Element Architecture Demonstrates Facies Heterogeneity in Both Strike and Dip Views: Miocene Modelo Formation, Lake Piru, California, USA. The Sedimentary Record, 21(1). https://doi.org/10.2110/001c.84246
-54 Bishop, J., Bachtel, S., Thompson, J., Miller, C., Ryan, B., Sullivan, M., Jobe, Z.R., 2023, Carbonate submarine fan deposits of the Mississippian Lake Valley Formation, Sacramento Mountains, New Mexico. The Depositional Record, 00, 1–36, https://doi.org/10.1002/dep2.246
-53 Gross, E., Carr, M., Jobe, Z.R., 2023, Three‐dimensional bounding surface architecture and lateral facies heterogeneity of a wet aeolian system: Entrada Sandstone, Utah. Sedimentology v. 70, p. 145-178, https://doi.org/10.1111/sed.13035
-2022
-52 Naranjo-Vesga, J., Paniagua-Arroyave, J.F., Ortiz-Karpf, A., Jobe, Z.R., Wood, L., Galindo, P., Shumaker, L., and Mateus-Tarazona, D., 2022, Controls on submarine canyon morphology along a convergent tectonic margin. The Southern Caribbean of Colombia: Marine and Petroleum Geology, v. 137, https://doi.org/10.1016/j.marpetgeo.2021.105493
-51 Martin, T., Tadla, J., Jobe, Z.R., 2022, Digitalization of Legacy Datasets and Machine Learning Regression Yields Insights for Reservoir Property Prediction and Submarine-Fan Evolution: A Subsurface Example From the Lewis Shale, Wyoming. The Sedimentary Record, v. 20, https://doi.org/10.2110/001c.36638
-50 Kus, K.B., Jobe, Z.R., Laugier, F., Walker, W., Sullivan, M., 2022, Quantifying the lateral heterogeneity of distal submarine lobe deposits, Point Loma Formation, California: Implications for subsurface lateral facies prediction. The Depositional Record v. 8, p. 472-501, https://doi.org/10.1002/dep2.169
-49 Hou, P., Jobe, Z.R., Wood, L., 2022, Statistical characterization of a confined submarine fan system: The Pennsylvanian Lower Atoka Formation, Ouachita Mountains, USA. Sedimentology v. 69, p. 775-797, https://doi.org/10.1111/sed.12925
-2021
-48 Jobe, Z.R., Howes, N., Martin, J., Meyer, R., Coutts, D., and Hou, P., Stright, L., and Laugier, F., 2021, Sedimentary graphic logs: A template for description and a toolkit for digitalization. The Sedimentary Record, v. 19, https://doi.org/10.2110/sedred.2021.3.3
-47 Fryer, R.C., Jobe, Z.R., Laugier, F., Pettinga, L.A., Gilbert, J.C., Shumaker, L.E., Smith, J.E., and Sullivan, M., 2021, Submarine lobe deposits of the Point Loma Formation, California: Quantifying event-bed architecture and lateral heterogeneity: The Depositional Record, v. 7, p. 374–391, https://doi.org/10.1002/dep2.156
-46 Hou, P., Wood, L.J., and Jobe, Z.R., 2021, Tectonic-sedimentary interplay of a confined deepwater system in a foreland basin setting: The Pennsylvanian lower Atoka Formation, Ouachita Mountains, U.S.A.: Journal of Sedimentary Research, v. 91, p. 683–709, https://doi.org/10.2110/jsr.2020.064
-45 Walker, W., Jobe, Z.R., Sarg, J.F., and Wood, L., 2021, Progradational slope architecture and sediment distribution in outcrops of the mixed carbonate-siliciclastic Bone Spring Formation, Permian Basin, west Texas: Geosphere, v. 17, p. 1268–1293, https://doi.org/10.1130/GES02355.1
-44 Martin, T., Meyer, R., and Jobe, Z.R, 2021, Centimeter-Scale Lithology and Facies Prediction in Cored Wells Using Machine Learning: Frontiers in Earth Science, v. 9, p. 1–18, https://doi.org/10.3389/feart.2021.659611
-43 Nauton-Fourteu, M., Tyrrell, S., Chew, D.M., Drakou, F., Pfaff, K., and Jobe, Z.R., 2021, Deep- versus shallow-marine sandstone provenance in the mid-Carboniferous Clare Basin, western Ireland: Journal of the Geological Society, v. 178, p. jgs2020-216, https://doi.org/10.1144/jgs2020-216
-42 Gilbert, J.C., Jobe, Z.R., Johnstone, S.A., Sharman, G.R., 2021, Identifying elusive piercing points along the North American transform margin using mixture modeling of detrital zircon data from sedimentary units and their crystalline sources. The Sedimentary Record, v. 19, no. 2, p. 12-21, https://doi.org/10.2110/sedred.2021.2.3
-41 Englert, R.G., Hubbard, S.M., Cartigny, M.J., Clare, M.A., Coutts, D.S., Hage, S., Hughes Clarke, J., Jobe, Z.R., Lintern, D.G., Stacey, C. and Vendettuoli, D., 2021. Quantifying the three‐dimensional stratigraphic expression of cyclic steps by integrating seafloor and deep‐water outcrop observations. Sedimentology, https://doi.org/10.1111/sed.12772
-2020
-40 Pettinga, L.A. and Jobe, Z.R., 2020, How submarine channels (re)shape continental margins. Journal of Sedimentary Research, https://doi.org/10.2110/jsr.2020.72
-39 Naranjo-Vesga, J., Ortiz-Karpf, A., Wood, L., Jobe, Z.R., Paniagua-Arroyave, J.F., Shumaker, L., Mateus-Tarazona, D., and Galindo, P., 2020, Regional controls in the distribution and morphometry of deep-water gravitational deposits along a convergent tectonic margin. Southern caribbean of Colombia: Marine and Petroleum Geology, v. 121, https://doi.org/10.1016/j.marpetgeo.2020.104639
-38 Hubbard, S.M., Jobe, Z.R., Romans, B.W., Covault, J.A., Sylvester, Z., and Fildani, A., 2020, The stratigraphic evolution of a submarine channel: Linking seafloor dynamics to depositional products: Journal of Sedimentary Research, v. 90, https://doi.org/10.2110/jsr.2020.36
-37 Meyer, R., Martin, T., Jobe, Z.R., 2020, Corebreakout: Subsurface core images to depth-registered datasets, Journal of Open-Source Software, https://doi.org/10.21105/joss.01969 and https://github.com/rgmyr/corebreakout
-36 Jobe, Z.R., Howes, N.C., Cai, D., Deng, H., Laugier, F., Shumaker, L.E., 2020, Comparing Aggradation, Superelevation, and Avulsion Frequency of Submarine and Fluvial Channels. Frontiers in Earth Science https://doi.org/10.3389/feart.2020.00053
-35 Cardona, S., Wood, L.J., Dugan, B., Jobe, Z.R., Strachan, L.J., 2020, Characterization of the Rapanui mass-transport deposit and the basal shear zone: Mount Messenger Formation, Taranaki Basin, New Zealand. Sedimentology, https://doi.org/10.1111/sed.12697
-2019
-34 Thompson Jobe, J.A., Giles, K.A., Hearon, T.E., IV, Rowan, M.G., Trudgill, B., Gannaway Dalton, C.E., and Jobe, Z.R., 2019, Controls on the structural and stratigraphic evolution of the megaflap-bearing Sinbad Valley salt wall, NE Paradox Basin, SW Colorado: Geosphere, v. 16, no. X, p. 1–32, https://doi.org/10.1130/GES02089.1
-33 Daniels, B.G., Hubbard, S.M., Romans, B.W., Malkowski, M.A., Matthews, W.A., Bernhardt, A., Kaempfe, S.A., Jobe, Z.R., Fosdick, J.C., Schwartz, T.M. and Fildani, A., 2019. Revised chronostratigraphic framework for the Cretaceous Magallanes-Austral Basin, Última Esperanza Province, Chile. Journal of South American Earth Sciences, v. 94, https://doi.org/10.1016/j.jsames.2019.05.025
-32 Fryer, R. and Jobe, Z.R., 2019, Quantification of the Bed-scale Architecture of Submarine Depositional Environments. The Depositional Record, v. 5 p. 192-211, https://doi.org/10.1002/dep2.70
-31 Clare, M., Chaytor, J., Dabson, O., Gamboa, D., Georgiopoulou, A., Eady, H., Hunt, J. Jackson, C., Katz, O., Krastel, S., León, R., Micallef, R., Moernaut, J., Moriconi, R., Moscardelli, L., Mueller, C., Normandeau, A., Patacci, M., Steventon, M., Urlaub, M., Völker, D., Wood, L., and Jobe, Z.R., 2019, A consistent global approach for the morphometric characterization of subaqueous landslides. Geological Society, London, Special Publications, 477, SP477.15. https://doi.org/10.1144/SP477.15
-2018
-30 Pettinga, L.A., Jobe, Z.R., Shumaker, L.E., and Howes, N.C., 2018, Morphometric scaling relationships in submarine channel–lobe systems. Geology, https://doi.org/10.1130/G45142.1
-29 Shumaker, L.E., Jobe, Z.R., Johnstone, S.A., Pettinga, L.A., Cai, D.X., and Moody, J.D., 2018, Controls on submarine channel-modifying processes identified through morphometric scaling relationships. Geosphere, v. 14, no. 5, p. 1–17, https://doi.org/10.1130/GES01674.1
-28 Jobe, Z.R., Howes, N.C., Romans, B.R., Covault, J.A., 2018, Volumes and recurrence of submarine fan-building turbidity currents. The Depositional Record, v. 4, p. 160-176, https://doi.org/10.1002/dep2.42
-27 Malkowski, M.A., Jobe, Z.R., Sharman, G.R., Graham, S.A., 2018, Down-slope facies variability within deep-water channel systems: Insights from the Upper Cretaceous Cerro Toro Formation, southern Patagonia. Sedimentology, https://doi.org/10.1111/sed.12452
-2017
-26 Jobe, Z.R., Sylvester, Z., Bolla Pittaluga, M., Frascati, A., Pirmez, P., Minisini, D., Howes, N.C., Cantelli, A., 2017, Facies Architecture of Submarine Channel Deposits on the Western Niger Delta Slope: Implications for Grain-size and Density Stratification in Turbidity Currents. Journal of Geophysical Research Earth Surface, v. 122, p. 473–491, https://doi.org/10.1002/2016JF003903
-25 Stright, L., Jobe, Z.R., Fosdick, J., Bernhardt, A., 2017, Modeling uncertainty in the three-dimensional structural deformation and stratigraphic evolution from outcrop data: implications for submarine channel knickpoint recognition. Marine and Petroleum Geology, v. 86, p. 79–94, https://doi.org/10.1016/j.marpetgeo.2017.05.004
-24 Jobe, Z.R., Sylvester, Z., Howes, N., Pirmez, C., Parker, A., Cantelli, A., Smith, R., Wolinsky, M.A., O’Byrne, C., Slowey, N., and Prather, B., 2017, High-resolution, millennial-scale patterns of bed compensation on a sand-rich intraslope submarine fan, western Niger Delta slope: Geological Society of America Bulletin, v. 129, p. 23–37, https://doi.org/10.1130/B31440.1
-23 Shumaker, L.E., Jobe, Z.R., & Graham, S. A., 2017, Evolution of submarine gullies on a prograding slope: Insights from 3D seismic reflection data. Marine Geology, v. 393, p. 35-46, https://doi.org/10.1016/j.margeo.2016.06.006
-2016
-22 Covault, J.A., Sylvester, Z., Hubbard, S.M., Jobe, Z.R., and Sech, R.P., 2016, The Stratigraphic Record of Submarine-Channel Evolution. The Sedimentary Record, v. 14, September issue, p. 4–11, http://www.sepm.org/The-Sedimentary-Record
-21 Jobe, Z.R., Howes, N.C., and Auchter, N.C., 2016, Comparing submarine and fluvial channel kinematics: Implications for stratigraphic architecture: Geology, v. 44, p. 931–934, https://doi.org/10.1130/G38158.1
-20 Parker, A.O., Schmidt, M.W., Jobe, Z.R., and Slowey, N.C., 2016, A new perspective on West African hydroclimate during the last deglaciation: Earth and Planetary Science Letters, v. 449, p. 79–88, https://doi.org/10.1016/j.epsl.2016.05.038
-2015 and prior
-19 Jobe, Z.R., Sylvester, Z., Parker, A.O., Howes, N., Slowey, N., and Pirmez, C., 2015, Rapid Adjustment of Submarine Channel Architecture To Changes In Sediment Supply: Journal of Sedimentary Research, v. 85, p. 729–753, https://doi.org/10.2110/jsr.2015.30
-18 Talling, P. J., Allin, J., Armitage, D. A., Arnott, R. W., Cartigny, M. J., Clare, M. A., Felletti, F., Covault, J.A., Girardclos, S. Hansen, E., Hill, P.R., Hiscott, R.N., Hogg, A.J., Clarke, J.H., Jobe, Z.R., Malgesini, G., Mozzato, A., Naruse, H., Parkinson, S., Peel, F.J., Piper, D.J.W., Pope, E., Postma, G., Rowley, P., Sguazzini, A., Stevenson, C.J., Sumner, E.J., Sylvester, Z., Watts, C., and Xu, J., 2015, Key Future Directions for Research on Turbidity Currents and Their Deposits. Journal of Sedimentary Research, v. 85, no. 2, 153-169, doi: https://doi.org/10.2110/jsr.2015.03
-17 Jackett, S.J., Jobe, Z.R., Lutz, B.P. Da Gama, R., Sylvester, Z., Prince, I.M., Albrecht, H.L., Prasad, T., 2014, Detecting baffle mudstones using microfossils: An integrated working example from the Cardamom Field, Block 427 Garden Banks, Gulf of Mexico, Palaeogeography, Palaeoclimatology, Palaeoecology, doi: 10.1016/j.palaeo.2014.04.007.
-16 Sylvester, Z., Pirmez, P., Cantelli, A., and Jobe, Z.R., 2013, Global (latitudinal) variation in submarine channel sinuosity: Comment. Geology, v. 41, e287-e287, doi: https://doi.org/10.1130/G33548C.1.
-15 Bernhardt, A., Jobe, Z.R., Grove, M. and Lowe, D.R., 2012, Palaeogeography and diachronous infill of an ancient deep‐marine foreland basin, Upper Cretaceous Cerro Toro Formation, Magallanes Basin. Basin Research v. 24, no. 3, 269-294, doi: 10.1111/j.1365-2117.2011.00528.x.
-14 Jobe, Z.R., Lowe, D.R., Morris, W.R., 2012, Climbing‐ripple successions in turbidite systems: depositional environments, sedimentation rates and accumulation times. Sedimentology 59 (3), 867-898, doi: 10.1111/j.1365-3091.2011.01283.x
-13 Kane, I.A., McGee, D.T., and Jobe, Z. R., 2012, Halokinetic effects on submarine channel equilibrium profiles and implications for facies architecture: conceptual model illustrated with a case study from Magnolia Field, Gulf of Mexico. Geological Society, London, Special Publications 363, 289-302, doi: https://doi.org/10.1144/SP363.13.
-12 Bernhardt, A., Jobe, Z.R., Lowe, D.R., 2011, Stratigraphic evolution of a submarine channel–lobe complex system in a narrow fairway within the Magallanes foreland basin, Cerro Toro Formation, southern Chile. Marine and Petroleum Geology 28 (3), 785-806, doi: https://doi.org/10.1016/j.marpetgeo.2010.05.013.
-11 Jobe, Z.R., Lowe, D.R., and Uchytil, S.J., 2011, Two Fundamentally Different Types of Submarine Canyons Along the Continental Margin of Equatorial Guinea. Marine and Petroleum Geology 28 (3), 843-860, https://doi.org/10.1016/j.marpetgeo.2010.07.012.
-10 Jobe, Z.R., Bernhardt, A., and Lowe, D.R., 2010, Facies and Architectural Asymmetry in a Conglomerate-Rich Submarine Channel Fill, Cerro Toro Formation, Sierra del Toro, Magallanes Basin, Chile. Journal of Sedimentary Research 80 (12), 1085-1108, doi: https://doi.org/10.2110/jsr.2010.092
-9 Bernhardt, A., Jobe, Z.R., and Lowe, D.R., 2009, Pehoe Member: Lowermost Channel Complex, Silla Syncline, in Fildani, A., Hubbard, S.M., and Romans, B.R., eds.: Stratigraphic Evolution of Deep-Water Architecture: Examples on controls and depositional styles from the Magallanes Basin, Chile, SEPM Field Trip Guidebook No. 10 for SEPM Field Conference, Magallanes Basin, Chile, February 22-28, 2009, pp. 25-27.
-8 Jobe, Z.R., Bernhardt, A., Hubbard, S.M., and Lowe, D.R., 2009, Wildcat Channel Complex Axis-to-Margin Architecture, Sierra del Toro, in Fildani, A., Hubbard, S.M., and Romans, B.R., eds.: Stratigraphic Evolution of Deep-Water Architecture: Examples on controls and depositional styles from the Magallanes Basin, Chile, SEPM Field Trip Guidebook No. 10 for SEPM Field Conference, Magallanes Basin, Chile, February 22-28, 2009, pp. 35-37.
-7 Jobe, Z.R., Bernhardt, A., Fosdick, J.C., and Lowe, D.R., 2009, Cerro Toro Channel Margins on Sierra del Toro, in Fildani, A., Hubbard, S.M., and Romans, B.R., eds.: Stratigraphic Evolution of Deep-Water Architecture: Examples on controls and depositional styles from the Magallanes Basin, Chile, SEPM Field Trip Guidebook No. 10 for SEPM Field Conference, Magallanes Basin, Chile, February 22-28, 2009, pp. 31-33.
-6 Bernhardt, A., Jobe, Z.R., and Lowe, D.R., 2008, The evolution of an elongate foreland basin: the deep- to shallow-marine filling of the Cretaceous Magallanes Basin, Chile, in: K. Schofield, N.C. Rosen, D. Pfeiffer, S. Johnson, Editors, Answering the Challenges of Production from Deep-water Reservoirs, GCS-SEPM Foundation 28th Annual Bob F. Perkins Research Conference (2008), pp. 268-310.
-5 Holbrook, J., Kliem, G., Nzewunwah, C., Jobe, Z.R., and Goble, R., 2006, Surficial alluvium and topography of the Overton Bottoms North Unit, Big Muddy National Fish and Wildlife Refuge in the Missouri River Valley and its potential influence on environmental management, chap. 2 of Jacobson, R.B., ed., Science to support adaptive habitat management–Overton Bottoms North Unit, Big Muddy National Fish and Wildlife Refuge, Missouri: U.S. Geological Survey, Scientific Investigations Report 2006-5086, p. 17-31.
-4 Caster, J.L., Avdeev, B.C., Main, D.A., Jobe, Z.R., & Holbrook, J.M., 2005, Surficial material map of the Lexington East 7.5’ Quadrangle, Ray County, Missouri: Missouri Division of Geology and Land Survey, Open-File Report, Scale 1:24000.
-3 Avdeev, B.C., Caster, J.L., Jobe, Z.R., Main, D.A. & Holbrook, J.M., 2005, Surficial material map of the Hardin 7.5’ Quadrangle, Ray County, Missouri: Missouri Division of Geology and Land Survey, Open-File Report, Scale 1:24000.
-2 Main, D.A., Jobe, Z.R., Avdeev, B.C., Caster, J.L., & Holbrook, J.M., 2005, Surficial material map of the Norborne 7.5’ Quadrangle, Carroll County, Missouri: Missouri Division of Geology and Land Survey, Open-File Report, Scale 1:24000.
-1 Jobe, Z. R., Main, D.A., Avdeev, B.C., Caster, J.L., & Holbrook, J.M., 2005, Surficial material map of the Dover 7.5’ Quadrangle, Carroll County, Missouri: Missouri Division of Geology and Land Survey, Open-File Report, Scale 1:24000.
-
-## Book Chapters
-Jobe, Z.R., 2013, Turbidity currents and submarine channels. 52 Things You Should Know About Geology. Agile Libre, 132 p., ISBN: 978-0987959423.
+{% include publications-from-cv.md %}
 
 ## Invited Presentations and Articles
 - October 2025 Invited Keynote speaker at the Digital Geoscience conference, Geological Society of London
@@ -460,7 +373,7 @@ Jobe, Z.R., 2013, Turbidity currents and submarine channels. 52 Things You Shoul
 - GE Undergraduate Summer Research Program award (Dingxin Cai - $3,200)
 - Attended Mines Undergraduate Commencement in May 2017
 - 2016: Attended Mines Preview Day, October 29, 2016
-- Author of “off the shelf edge” geology blog http://offtheshelfedge.wordpress.com/, 2010-present
+- Author of “off the shelf edge” geology blog https://offtheshelfedge.wordpress.com/, 2010-present
 - SEPM (Society of Sedimentary Geology)
 - Sedimentology Councilor (elected position): 2019-2021
 - Leader of the ‘Deepwater Research Group’ (2016-2019)
@@ -471,7 +384,7 @@ Jobe, Z.R., 2013, Turbidity currents and submarine channels. 52 Things You Shoul
 - Co-author of educational article about submarine channels in the magazine “The Sedimentary Record” (September 2016 issue)
 - Co-editor of the 2017 AAPG Centennial “Outcrops” atlas
 - Interview for the AAPG Learn Blog (August 2016) - http://www.aapg.org/publications/blogs/learn/article/Articleid/33427/outcrops-and-modern-depositional-systems-as-reservoir-analogs-interview-with-zane-jobe
-- Participant, 2014 NSF workshop, “Increasing the Access to and the Relevance of Marine Seismic Data” https://www.earthcube.org/document/2014/marine-seismic-domain-workshop-report
+- Participant, 2014 NSF workshop, “Increasing the Access to and the Relevance of Marine Seismic Data” 
 - Organizer for nomination of, and keynote speaker for Donald R. Lowe for the 2013 American Association of Petroleum Geologists Distinguished Educator award
 - Provided letters of recommendation for Pat Nguyen, Rob Dorrell, Mike Clare, Lauren Shumaker, Anne Bernhardt, Dingxin Cai, Ali Downard
 - Developer and leader, Sedimentology Network, Shell, 2010-2013
