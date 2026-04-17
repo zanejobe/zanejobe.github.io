@@ -3,6 +3,13 @@ items:
     year: 2026
     recipient: "Jutamas Charoensuk"
     amount: 1200
+    amount_display: "$1,000"
+    source: "SEPM"
+    
+    - category: "student-led"
+    year: 2026
+    recipient: "Jutamas Charoensuk"
+    amount: 1200
     amount_display: "$1,200"
     source: "Tobacco Root Geological Society"
     
