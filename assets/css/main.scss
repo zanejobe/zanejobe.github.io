@@ -46,6 +46,15 @@ a:focus {
   color: #ffffff;
 }
 
+/* Improve visibility of the active "Home" nav label and page title on dark background. */
+.greedy-nav .active > a,
+.greedy-nav .visible-links .masthead__menu-item--active > a,
+.greedy-nav .site-title,
+.masthead .site-title,
+.page__title {
+  color: #e5e7eb !important;
+}
+
 .page__content table th,
 .page__content table td {
   border-color: #4a4a4a;
