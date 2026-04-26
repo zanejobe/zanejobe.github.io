@@ -31,6 +31,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/zane-jobe/"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-7654-4528"
 
 footer:
   links:
@@ -65,7 +68,7 @@ plugins:
   - jekyll-include-cache
 
 after_footer_scripts:
-  - /assets/js/open-links-new-tab.js
+  - /assets/js/external-links-new-tab.js
 
 atom_feed:
   hide: true

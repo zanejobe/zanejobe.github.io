@@ -51,8 +51,9 @@ a:focus {
 .greedy-nav .visible-links .masthead__menu-item--active > a,
 .greedy-nav .site-title,
 .masthead .site-title,
-.page__title {
-  color: #e5e7eb !important;
+.page__title,
+.page__title a {
+  color: #ffffff !important;
 }
 
 .page__content table th,
@@ -69,6 +70,22 @@ a:focus {
   background: transparent !important;
   background-color: transparent !important;
   color: #ffffff !important;
+}
+
+.sidebar .author__urls,
+.sidebar .author__urls li,
+.sidebar .author__urls a {
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.sidebar .author__name {
+  font-size: 1.2rem;
+}
+
+.sidebar .author__bio {
+  font-size: 0.95rem;
+  line-height: 1.5;
 }
 
 .home-intro {
