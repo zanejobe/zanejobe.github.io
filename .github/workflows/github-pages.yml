@@ -1,0 +1,80 @@
+# Deploy GitHub Pages after building the site and generating the CV PDF in one run.
+# This avoids a second "pages build and deployment" caused by the bot committing the PDF.
+#
+# Repository setup (one-time): Settings → Pages → Build and deployment → Source: GitHub Actions
+# (Disable "Deploy from a branch" so only this workflow publishes the site.)
+
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build site with Jekyll
+        run: bundle exec jekyll build
+
+      - name: Set up Node
+        uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+
+      - name: Install Playwright
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+
+      - name: Generate CV PDF into _site
+        run: |
+          mkdir -p _site/files
+          python3 -m http.server 4001 --directory _site >/tmp/cv-pdf-server.log 2>&1 &
+          for attempt in {1..20}; do
+            if curl --silent --fail "http://127.0.0.1:4001/cv/" >/dev/null; then
+              break
+            fi
+            sleep 1
+          done
+          if ! curl --silent --fail "http://127.0.0.1:4001/cv/" >/dev/null; then
+            echo "Timed out waiting for local site server"
+            cat /tmp/cv-pdf-server.log
+            exit 1
+          fi
+          node scripts/render-cv-pdf.mjs "http://127.0.0.1:4001/cv/" "_site/files/Zane_Jobe_CV_2026.pdf"
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
