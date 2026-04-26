@@ -5,6 +5,12 @@ layout: single
 author_profile: true
 ---
 
+<style>
+  .page__title {
+    color: #d1d5db;
+  }
+</style>
+
 <div class="home-intro">
   <div class="home-intro__text">
     <p>I am a sedimentologist and research professor at Colorado School of Mines. My work focuses on using outcrop analogs to improve prediction of subsurface fluid flow.</p>

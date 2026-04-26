@@ -64,6 +64,9 @@ permalink: /:categories/:title/
 plugins:
   - jekyll-include-cache
 
+after_footer_scripts:
+  - /assets/js/open-links-new-tab.js
+
 atom_feed:
   hide: true
 
