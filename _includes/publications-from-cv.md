@@ -15,6 +15,8 @@
 
 #### 2026
 
+69\. Nworie, C. D., Jobe, Z. R., Slootman, A., Venturelli, R., Eggenhuisen, J. T., & Reijmer, J. J. G. (2026). Carbonate turbidity currents play an underappreciated role in the global carbon cycle. *The Sedimentary Record*, 24(1). [https://doi.org/10.2110/001c.159298](https://doi.org/10.2110/001c.159298) [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2026%20Nworie%20et%20al%20TSR%20-%20Carbon%20burial.pdf)
+
 68\. Slootman, A., de Kruijf, M., Glatz, G., Eggenhuisen, J.T., Jobe, Z.R., Reijmer, J.J.G., 2026, Settling velocity of sediment grains, Part 2: Volume/area ratio as descriptor of particle size and shape in sediment hydrodynamics. Sedimentologika, 26 p., [https://doi.org/10.57035/journals/sdk.2026.e41.2307](https://doi.org/10.57035/journals/sdk.2026.e41.2307) [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2026-Slootman-et-al-Sedimentologika-Grain-size-and-shape-part-2.pdf)
 
 67\. Slootman, A., de Kruijf, M., Glatz, G., Eggenhuisen, J.T., Jobe, Z.R., Reijmer, J.J.G., 2026, Settling velocity of sediment grains, Part 1: Natural sediment particles are not ellipsoids. Sedimentologika, 21 p., [https://doi.org/10.57035/journals/sdk.2026.e41.1937](https://doi.org/10.57035/journals/sdk.2026.e41.1937) [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2026-Slootman-et-al-Sedimentologika-Grain-size-and-shape-part-1.pdf)
@@ -192,6 +194,31 @@
 1\. Jobe, Z. R., Main, D.A., Avdeev, B.C., Caster, J.L., & Holbrook, J.M., 2005, Surficial material map of the Dover 7.5’ Quadrangle, Carroll County, Missouri: Missouri Division of Geology and Land Survey, Open-File Report, Scale 1:24000. [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2011-Jobe-et-al-MAP-Dover-quad-MIssouri.pdf)
 
 </div>
+
+<style>
+  .publications-list a[href*="raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/"] {
+    display: inline-block;
+    margin-left: 0.35rem;
+    padding: 0.12rem 0.55rem;
+    border-radius: 9999px;
+    border: 1px solid #16a34a;
+    background-color: #dcfce7;
+    color: #166534;
+    font-size: 0.95rem;
+    font-weight: 700;
+    line-height: 1.2;
+    text-decoration: none;
+    transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  }
+
+  .publications-list a[href*="raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/"]:hover,
+  .publications-list a[href*="raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/"]:focus {
+    background-color: #bbf7d0;
+    border-color: #15803d;
+    color: #14532d;
+    text-decoration: none;
+  }
+</style>
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
