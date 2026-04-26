@@ -197,18 +197,18 @@
 
 <style>
   .publications-list a[href*="raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/"] {
-    display: inline-flex;
-    align-items: center;
+    display: inline-block;
     vertical-align: baseline;
     margin-left: 0.35rem;
-    padding: 0.08em 0.55em;
+    padding: 0.1em 0.55em;
     border-radius: 9999px;
     border: 1px solid #16a34a;
     background-color: #dcfce7;
     color: #166534;
     font-size: 0.82em;
     font-weight: 700;
-    line-height: 1;
+    line-height: 1.25;
+    white-space: nowrap;
     text-decoration: none;
     transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
   }
