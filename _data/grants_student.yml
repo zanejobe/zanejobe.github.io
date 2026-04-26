@@ -6,7 +6,7 @@ items:
     amount_display: "$1,000"
     source: "SEPM"
     
-    - category: "student-led"
+  - category: "student-led"
     year: 2026
     recipient: "Jutamas Charoensuk"
     amount: 1200
