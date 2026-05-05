@@ -21,7 +21,7 @@
 
 67\. Slootman, A., de Kruijf, M., Glatz, G., Eggenhuisen, J.T., Jobe, Z.R., Reijmer, J.J.G., 2026, Settling velocity of sediment grains, Part 1: Natural sediment particles are not ellipsoids. Sedimentologika, 21 p., [https://doi.org/10.57035/journals/sdk.2026.e41.1937](https://doi.org/10.57035/journals/sdk.2026.e41.1937) [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2026-Slootman-et-al-Sedimentologika-Grain-size-and-shape-part-1.pdf)
 
-66\. Saifudin, L., Jobe, Z.R., Slootman, A., Carr, M., Plink-Bjorklund, P., 2026, Supercritical-flow structures in a Cretaceous submarine channel-lobe transition zone, Point Loma Formation, California. The Depositional Record, DOI pending verification (previously listed as [https://doi.org/10.1002/dep2.70070](https://doi.org/10.1002/dep2.70070)).
+66\. Saifudin, L., Jobe, Z.R., Slootman, A., Carr, M., Plink-Bjorklund, P., 2026, Supercritical-flow structures in a Cretaceous submarine channel-lobe transition zone, Point Loma Formation, California. The Depositional Record, DOI pending verification (previously listed as [https://doi.org/10.1002/dep2.70070](https://doi.org/10.1002/dep2.70070)). [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2026%20Saifudin%20et%20al%20TDR%20-%20Point%20Loma%20CLTZ.pdf)
 
 #### 2025
 
