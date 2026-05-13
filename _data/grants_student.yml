@@ -23,8 +23,8 @@ items:
   - category: "student-led"
     year: 2026
     recipient: "Jutamas Charoensuk"
-    amount: 1000
-    amount_display: "$1,000"
+    amount: 2000
+    amount_display: "$2,000"
     source: "Bartshe Fund at Mines"
 
   - category: "student-led"
