@@ -6,7 +6,7 @@ items:
     amount_display: "$2,000"
     source: "Anderson-Schmidt Fund at Mines"
     
-    - category: "student-led"
+  - category: "student-led"
     year: 2026
     recipient: "Jutamas Charoensuk"
     amount: 1000
