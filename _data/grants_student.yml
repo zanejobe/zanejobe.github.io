@@ -1,8 +1,15 @@
 items:
   - category: "student-led"
     year: 2026
+    recipient: "Guldana Alimzhanova"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "Anderson-Schmidt Fund at Mines"
+    
+    - category: "student-led"
+    year: 2026
     recipient: "Jutamas Charoensuk"
-    amount: 1200
+    amount: 1000
     amount_display: "$1,000"
     source: "SEPM"
     
