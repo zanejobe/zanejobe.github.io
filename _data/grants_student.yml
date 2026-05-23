@@ -35,6 +35,13 @@ items:
     source: "Bartshe Fund at Mines"
 
   - category: "student-led"
+    year: 2026
+    recipient: "Jutamas Charoensuk"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "RMS-SEPM Donald L. Smith Research Grant"
+
+  - category: "student-led"
     year: 2025
     recipient: "David Nworie"
     amount: 10000
@@ -114,6 +121,13 @@ items:
   - category: "student-led"
     year: 2024
     recipient: "Maxi Miguez"
+    amount: 2000
+    amount_display: "$2,000"
+    source: "Kent Fund at Mines"
+
+  - category: "student-led"
+    year: 2024
+    recipient: "Luthfi Saifudin"
     amount: 2000
     amount_display: "$2,000"
     source: "Kent Fund at Mines"

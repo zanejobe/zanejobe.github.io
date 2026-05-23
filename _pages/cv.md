@@ -370,6 +370,7 @@ document.addEventListener("DOMContentLoaded", function () {
 &emsp;- Cody Trigg (2014; also served as PhD committee member at Stanford University)  
 
 ## Invited Presentations and Articles
+- May 2026 Keynote speaker at the Pertamina pavilion, Indonesia Petroleum Association (IPA)
 - October 2025 Invited Keynote speaker at the Digital Geoscience conference, Geological Society of London
 - December 2024 BSRG (British Sedimentological Research Group) Annual Meeting plenary speaker
 - October 2023 SEPM Deepwater Research Group invited panelist and presenter
