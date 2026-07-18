@@ -10,6 +10,7 @@ on:
   push:
     branches:
       - main
+  pull_request:
 
 permissions:
   contents: read
@@ -17,7 +18,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.event_name }}-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -37,16 +38,19 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Set up Node
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         uses: actions/setup-node@v6
         with:
           node-version: "24"
 
       - name: Install Playwright
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
           npm install --no-save playwright
           npx playwright install --with-deps chromium
 
       - name: Generate CV PDF into _site
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: |
           mkdir -p _site/files
           python3 -m http.server 4001 --directory _site >/tmp/cv-pdf-server.log 2>&1 &
@@ -64,11 +68,13 @@ jobs:
           node scripts/render-cv-pdf.mjs "http://127.0.0.1:4001/cv/" "_site/files/Zane_Jobe_CV_2026.pdf"
 
       - name: Upload Pages artifact
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
   deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
     needs: build
     runs-on: ubuntu-latest
     environment:

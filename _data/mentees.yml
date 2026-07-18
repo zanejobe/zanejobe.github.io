@@ -1,0 +1,161 @@
+# CV Mentoring Experience — structured for Liquid rendering in _pages/cv.md
+# Categories: research associates/postdocs/staff, primary advisees, committee,
+# undergraduates, and Shell summer interns.
+
+research_associates:
+  - name: "Lauren Shumaker"
+    years: "2016-2018"
+    role: "2 year postdoc"
+  - name: "Ross Meyer"
+    years: "2018-2020"
+    role: "data scientist"
+  - name: "Arnoud Slootman"
+    years: "2022-2025"
+    role: "3 year postdoc"
+
+primary_advisees:
+  phd:
+    - name: "Luke Pettinga"
+      year: 2020
+    - name: "Thomas Martin"
+      year: 2022
+    - name: "Clark Gilbert"
+      year: 2023
+    - name: "Rachel Aisner Williams"
+      year: 2026
+    - name: "Guldana Alimzhanova"
+      year: 2026
+    - name: "Marat Ibagarov"
+      year: 2026
+    - name: "David Chibuzor Nworie"
+      year: 2026
+  msc:
+    - name: "Rosie Fryer"
+      year: 2018
+    - name: "Wylie Walker"
+      year: 2019
+    - name: "Evan Gross"
+      year: 2019
+    - name: "Kaci Kus"
+      year: 2020
+    - name: "Chance Seckinger"
+      year: 2022
+    - name: "Hanaga Simabrata"
+      year: 2022
+    - name: "Nataly Chacón Buitrago"
+      year: 2022
+    - name: "Mitch Schneider"
+      year: 2022
+    - name: "Leonela Aguada"
+      year: 2023
+    - name: "Shaskia Herida Putri"
+      year: 2023
+    - name: "Sanzhar Begimbetov"
+      year: 2024
+    - name: "Luthfi Saifudin"
+      year: 2024
+    - name: "Maximiliano Miguez"
+      year: 2024
+    - name: "Viska Dewi"
+      year: 2025
+    - name: "Jutamas Charoensuk"
+      year: 2027
+
+# Committee memberships. Default institution is Colorado School of Mines unless noted.
+committee:
+  phd:
+    - name: "Mark Hansford"
+    - name: "Michael Peffer"
+    - name: "Sebastian Cardona"
+    - name: "Dessy Sapardina"
+    - name: "Pengfei Hou"
+    - name: "Haipeng Li"
+    - name: "Jianqiao Wang"
+    - name: "Rania Pommer"
+    - name: "Hirofumi Kobayashi"
+    - name: "Jacquie Colborne"
+    - name: "Alexis Wright"
+    - name: "Hani Alzahrani"
+    - name: "Luke Weidner"
+    - name: "Forrest McFarlin"
+    - name: "Chris Matson"
+    - name: "Zaid Nadhim"
+    - name: "Matt Musso"
+    - name: "Mohamed Daniel Davis bin Monhamed"
+    - name: "Adesh Pandey"
+  msc:
+    - name: "Brittany Abbuhl"
+    - name: "April Bievenour"
+    - name: "Victoria Blanchard"
+    - name: "Alyssa Charsky"
+    - name: "Alex Cheney"
+    - name: "Stephen Schwarz"
+    - name: "Obianuju Ugwu-Oju"
+    - name: "Sonia Ellison"
+    - name: "Cahill Kelleghan"
+    - name: "Jennifer Blake"
+    - name: "Selena Neale"
+    - name: "Matt Musso"
+    - name: "Shane McWilliams"
+    - name: "Fredrik Engstrom"
+    - name: "Abdulrahman AlHussaini"
+    - name: "Andrew Swift"
+  # Non-Mines committee roles called out elsewhere (e.g. Shell intern notes)
+  other:
+    - name: "Cody Trigg"
+      degree: "PhD"
+      institution: "Stanford University"
+      note: "also listed under Shell Oil Company summer internships"
+
+undergraduates:
+  - name: "Dingxin Cai"
+    suffix: "2017 MURF"
+  - name: "Ali Downard"
+    suffix: "2018 MURF"
+  - name: "Andrew Harger"
+    suffix: "2018"
+  - name: "Carissa Anderson"
+    suffix: "2019"
+  - name: "Jared Tadla"
+    suffix: "2019-2020 MURF"
+  - name: "Jessy Liao and Eric Klatzco"
+    suffix: "2020"
+  - name: "Michael Field"
+    suffix: "2020-2021 MURF"
+  - group: "Computer Science field session group 2020"
+    members:
+      - "Lexie Ludeman"
+      - "Jessy Liao"
+      - "Courtney Richardson"
+      - "Marcelo Gonzalez"
+  - group: "Computer Science field session group 2021"
+    members:
+      - "Grant Falkner"
+      - "Matt Plumb"
+      - "Ryan Armstrong"
+      - "Patrick Schassberger"
+  - group: "Computer Science field session group 2023 Lidar-fracture"
+    members:
+      - "Keshav Vembar"
+      - "Rielly King"
+      - "Zachary Royal"
+      - "Adam Lisle"
+  - group: "Computer Science field session group 2023 CT-scan"
+    members:
+      - "Connor Sparks"
+      - "Asa Sprow"
+      - "Kira Hanson"
+      - "Carla Ellefsen"
+  - name: "Sera Maurice Reyes"
+    years_inline: "2024-2026"
+
+shell_interns:
+  - name: "Neal Auchter"
+    years: "2015"
+  - name: "Andrew Parker"
+    years: "2013"
+  - name: "Lauren Shumaker"
+    years: "2012, 2014"
+  - name: "Cody Trigg"
+    years: "2014"
+    note: "also served as PhD committee member at Stanford University"

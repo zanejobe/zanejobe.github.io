@@ -16,7 +16,7 @@ Goal: make focused, low-risk edits to content and layout, then verify the site s
 - `_config.yml`: Site-wide config (title, URL, plugins, defaults, scripts).
 - `_pages/`: Top-level pages (`/`, `/cv/`, `/publications/`, etc.).
 - `_includes/`: Reusable Liquid/HTML partials (for example, publications rendering).
-- `_data/`: YAML data used by templates/pages (`grants_major.yml`, `grants_student.yml`, navigation).
+- `_data/`: YAML data used by templates/pages (`grants_major.yml`, `grants_student.yml`, `mentees.yml`, navigation).
 - `scripts/render-cv-pdf.mjs`: Playwright script used in CI to generate the downloadable CV PDF.
 - `docs/local-preview-setup.md`: Local environment notes and known Ruby/Jekyll constraints.
 
@@ -63,6 +63,7 @@ use the normal browser or verify with `curl`.
 - **Publications list + custom publication styles/scripts** -> `_includes/publications-from-cv.md`
 - **CV page content** -> `_pages/cv.md`
 - **Grant/funding values used by CV calculations** -> `_data/grants_major.yml` and `_data/grants_student.yml`
+- **CV mentoring lists (advisees, committee, undergrads, postdocs/staff, Shell interns)** -> `_data/mentees.yml`
 - **CV downloadable PDF generation logic** -> `scripts/render-cv-pdf.mjs` and workflow file
 - **Deployment behavior** -> `.github/workflows/github-pages.yml`
 
