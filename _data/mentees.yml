@@ -1,6 +1,7 @@
 # CV Mentoring Experience — structured for Liquid rendering in _pages/cv.md
 # Categories: research associates/postdocs/staff, primary advisees, committee,
 # undergraduates, and Shell summer interns.
+# Primary advisee optional fields: thesis, position (job or next step).
 
 research_associates:
   - name: "Lauren Shumaker"
@@ -17,49 +18,93 @@ primary_advisees:
   phd:
     - name: "Luke Pettinga"
       year: 2020
+      thesis: "Scaling relationships in Submarine Depositional Environments"
+      position: "EOG Resources, Fort Worth, TX"
     - name: "Thomas Martin"
       year: 2022
+      thesis: "Machine learning for facies prediction"
+      position: "NCAR, Boulder, CO"
     - name: "Clark Gilbert"
       year: 2023
+      thesis: "Unraveling the Tectonostratigraphic Evolution of the Ventura Basin, California Using Detrital Zircon Mixture Modeling"
+      position: "Bureau of Reclamation, Lakewood, CO"
     - name: "Rachel Aisner Williams"
       year: 2026
+      thesis: "Depositional processes and mechanical stratigraphy of carbonate lower slope deposits, Guadalupe Mts., Texas"
+      position: "TBD"
     - name: "Guldana Alimzhanova"
       year: 2026
+      thesis: "Depositional processes and mechanical stratigraphy of carbonate lower slope deposits"
+      position: "TBD"
     - name: "Marat Ibagarov"
       year: 2026
+      thesis: "Depositional processes and mechanical stratigraphy of carbonate lower slope deposits, Guadalupe Mts., Texas"
+      position: "QaraTas LLP, Kazakhstan"
     - name: "David Chibuzor Nworie"
       year: 2026
+      thesis: "Carbonate sediment-gravity-flow experiments: How do particle characteristics affect flow structure, deposit texture, and reservoir quality in deep-marine settings?"
+      position: "ExxonMobil"
+    - name: "Jutamas Charoensuk"
+      year: 2029
+      thesis: "Characterization of Deep-water Depositional Systems for Reservoir Analogues in the Sabah Basin"
+      position: "PTTEP, Thailand"
   msc:
     - name: "Rosie Fryer"
       year: 2018
+      thesis: "Bed-scale Characterization of Submarine Lobe Deposits, Point Loma Formation, California"
+      position: "Hilcorp, Houston, TX"
     - name: "Wylie Walker"
       year: 2019
+      thesis: "Stratigraphic architecture of the Bone Spring Formation, Delaware Basin, Texas"
+      position: "Ovintiv, Denver, CO"
     - name: "Evan Gross"
       year: 2019
+      thesis: "Bounding surface architecture of a wet eolian system: Entrada Sandstone, Utah"
+      position: "Chevron, Houston, TX"
     - name: "Kaci Kus"
       year: 2020
+      thesis: "Quantifying bed-scale architecture of submarine lobe deposits, Point Loma Formation, CA"
+      position: "MORSE Corp, Boston, MA"
     - name: "Chance Seckinger"
       year: 2022
+      thesis: "Lateral Heterogeneity of Basin-Plain Turbidites of the Cloridorme Formation, Quebec, Canada: Implications for Horizontal Well Prediction"
+      position: "Tepa Companies, Denver, CO"
     - name: "Hanaga Simabrata"
       year: 2022
+      thesis: "Multi-scale syn-emplacement deformation and microstructure facies of mixed carbonate-siliciclastic MTD, The Cutoff Formation, Guadalupe Mountain, Texas"
+      position: "Berry Corp, Bakersfield, CA"
     - name: "Nataly Chacón Buitrago"
       year: 2022
+      thesis: "Towards lithology recognition using digital outcrop models and machine learning"
+      position: "PhD, University of Texas (Michael Pyrcz); BP"
     - name: "Mitch Schneider"
       year: 2022
+      thesis: "Quantifying Rock-Fabric Characteristics that Promote CO2 Sequestration in the San Andres Formation, Permian Basin"
+      position: "ExxonMobil"
     - name: "Leonela Aguada"
       year: 2023
+      thesis: "Implications for Subsurface Lateral Facies Prediction: Wolfcamp Formation, Delaware Basin, Texas"
+      position: "San Telmo Market, Golden, CO (owner)"
     - name: "Shaskia Herida Putri"
       year: 2023
+      thesis: "Chemofacies of the Wolfcamp A, Delaware Basin, TX"
+      position: "Universitas Padjadjaran, Bandung, Indonesia"
     - name: "Sanzhar Begimbetov"
       year: 2024
+      thesis: "Mechanical stratigraphy and depositional process of carbonate slope deposits"
+      position: "University of Wyoming"
     - name: "Luthfi Saifudin"
       year: 2024
+      thesis: "Hyperspectral imaging of oil and gas core"
+      position: "Pertamina Hulu Energi"
     - name: "Maximiliano Miguez"
       year: 2024
+      thesis: "Carbonate debris-flow deposits, Apache Mts., Texas"
+      position: "Pampa Energia, Argentina"
     - name: "Viska Dewi"
       year: 2025
-    - name: "Jutamas Charoensuk"
-      year: 2027
+      thesis: "Carbonate sediment gravity flow deposits: Integrating depositional process, carbonate texture, diagenetic paragenesis, and geomechanical behavior"
+      position: "Pertamina Hulu Energi"
 
 # Committee memberships. Default institution is Colorado School of Mines unless noted.
 committee:

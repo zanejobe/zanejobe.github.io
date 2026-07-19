@@ -316,15 +316,19 @@ document.addEventListener("DOMContentLoaded", function () {
 
 #### PhD
 
-{% for person in site.data.mentees.primary_advisees.phd %}
-&emsp;- {{ person.name }} (PhD student, {{ person.year }})  
-{% endfor %}
+| Name | Year | Thesis | Position |
+|------|------|--------|----------|
+{%- for person in site.data.mentees.primary_advisees.phd %}
+| {{ person.name }} | {{ person.year }} | {{ person.thesis }} | {{ person.position }} |
+{%- endfor %}
 
 #### MSc
 
-{% for person in site.data.mentees.primary_advisees.msc %}
-&emsp;- {{ person.name }} ({{ person.year }})  
-{% endfor %}
+| Name | Year | Thesis | Position |
+|------|------|--------|----------|
+{%- for person in site.data.mentees.primary_advisees.msc %}
+| {{ person.name }} | {{ person.year }} | {{ person.thesis }} | {{ person.position }} |
+{%- endfor %}
 
 #### Committee member for:
 
