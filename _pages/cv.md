@@ -308,66 +308,53 @@ document.addEventListener("DOMContentLoaded", function () {
 
 #### Research associates
 
-&emsp;- Lauren Shumaker (2016-2018, 2 year postdoc)  
-&emsp;- Ross Meyer (2018-2020, data scientist)  
-&emsp;- Arnoud Slootman (2022-2025, 3 year postdoc)  
+{% for person in site.data.mentees.research_associates %}
+&emsp;- {{ person.name }} ({{ person.years }}, {{ person.role }})  
+{% endfor %}
 
 #### Primary advisees (chronological)
 
 #### PhD
 
-&emsp;- Luke Pettinga (PhD student, 2020)  
-&emsp;- Thomas Martin (PhD student, 2022)  
-&emsp;- Clark Gilbert (PhD student, 2023)  
-&emsp;- Rachel Aisner Williams (PhD student, 2026)  
-&emsp;- Guldana Alimzhanova (PhD student, 2026)  
-&emsp;- Marat Ibagarov (PhD student, 2026)  
-&emsp;- David Chibuzor Nworie (PhD student, 2026)  
+| Name | Year | Thesis | Position |
+|------|------|--------|----------|
+{%- for person in site.data.mentees.primary_advisees.phd %}
+| {{ person.name }} | {{ person.year }} | {{ person.thesis }} | {{ person.position }} |
+{%- endfor %}
 
 #### MSc
 
-&emsp;- Rosie Fryer (2018)  
-&emsp;- Wylie Walker (2019)  
-&emsp;- Evan Gross (2019)  
-&emsp;- Kaci Kus (2020)  
-&emsp;- Chance Seckinger (2022)  
-&emsp;- Hanaga Simabrata (2022)  
-&emsp;- Nataly Chacón Buitrago (2022)  
-&emsp;- Mitch Schneider (2022)  
-&emsp;- Leonela Aguada (2023)  
-&emsp;- Shaskia Herida Putri (2023)  
-&emsp;- Sanzhar Begimbetov (2024)  
-&emsp;- Luthfi Saifudin (2024)  
-&emsp;- Maximiliano Miguez (2024)  
-&emsp;- Viska Dewi (2025)  
-&emsp;- Jutamas Charoensuk (2027)  
+| Name | Year | Thesis | Position |
+|------|------|--------|----------|
+{%- for person in site.data.mentees.primary_advisees.msc %}
+| {{ person.name }} | {{ person.year }} | {{ person.thesis }} | {{ person.position }} |
+{%- endfor %}
 
 #### Committee member for:
 
-&emsp;- PhD: Mark Hansford, Michael Peffer, Sebastian Cardona, Dessy Sapardina, Pengfei Hou, Haipeng Li, Jianqiao Wang, Rania Pommer, Hirofumi Kobayashi, Jacquie Colborne, Alexis Wright, Hani Alzahrani, Luke Weidner, Forrest McFarlin, Chris Matson, Zaid Nadhim, Matt Musso, Mohamed Daniel Davis bin Monhamed, Adesh Pandey,  
-&emsp;- MSc:Brittany Abbuhl, April Bievenour, Victoria Blanchard, Alyssa Charsky, Alex Cheney, Stephen Schwarz, Obianuju Ugwu-Oju, Sonia Ellison, Cahill Kelleghan, Jennifer Blake, Selena Neale, Matt Musso, Shane McWilliams, Fredrik Engstrom, Abdulrahman AlHussaini, Andrew Swift  
+&emsp;- PhD: {% for person in site.data.mentees.committee.phd %}{{ person.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}  
+&emsp;- MSc: {% for person in site.data.mentees.committee.msc %}{{ person.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}  
+{% if site.data.mentees.committee.other.size > 0 %}
+&emsp;- Other universities: {% for person in site.data.mentees.committee.other %}{{ person.name }} ({{ person.degree }}, {{ person.institution }}){% unless forloop.last %}; {% endunless %}{% endfor %}  
+{% endif %}
 
 #### Undergraduate researchers
 
-&emsp;- Dingxin Cai (2017 MURF)  
-&emsp;- Ali Downard (2018 MURF)  
-&emsp;- Andrew Harger (2018)  
-&emsp;- Carissa Anderson (2019)  
-&emsp;- Jared Tadla (2019-2020 MURF)  
-&emsp;- Jessy Liao and Eric Klatzco (2020)  
-&emsp;- Michael Field (2020-2021 MURF)  
-&emsp;- Computer Science field session group 2020 (Lexie Ludeman, Jessy Liao, Courtney Richardson, Marcelo Gonzalez)  
-&emsp;- Computer Science field session group 2021 (Grant Falkner, Matt Plumb, Ryan Armstrong, Patrick Schassberger)  
-&emsp;- Computer Science field session group 2023 Lidar-fracture (Keshav Vembar, Rielly King, Zachary Royal, Adam Lisle)  
-&emsp;- Computer Science field session group 2023 CT-scan (Connor Sparks, Asa Sprow, Kira Hanson, Carla Ellefsen)  
-&emsp;- Sera Maurice Reyes 2024-2026  
+{% for person in site.data.mentees.undergraduates %}
+{% if person.group %}
+&emsp;- {{ person.group }} ({{ person.members | join: ", " }})  
+{% elsif person.years_inline %}
+&emsp;- {{ person.name }} {{ person.years_inline }}  
+{% else %}
+&emsp;- {{ person.name }} ({{ person.suffix }})  
+{% endif %}
+{% endfor %}
 
 ### Shell Oil Company summer internships
 
-&emsp;- Neal Auchter (2015)  
-&emsp;- Andrew Parker (2013)  
-&emsp;- Lauren Shumaker (2012, 2014)  
-&emsp;- Cody Trigg (2014; also served as PhD committee member at Stanford University)  
+{% for person in site.data.mentees.shell_interns %}
+&emsp;- {{ person.name }} ({{ person.years }}{% if person.note %}; {{ person.note }}{% endif %})  
+{% endfor %}
 
 ## Invited Presentations and Articles
 - May 2026 Keynote speaker at the Pertamina pavilion, Indonesia Petroleum Association (IPA)
