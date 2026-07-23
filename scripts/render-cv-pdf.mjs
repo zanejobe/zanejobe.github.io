@@ -16,7 +16,12 @@ try {
     viewport: { width: 1400, height: 2000 },
   });
 
-  await page.goto(url, { waitUntil: "networkidle" });
+  await page.goto(url, {
+    waitUntil: "load",
+    timeout: 60_000,
+  });
+  // Give late layout/fonts a moment without waiting forever on networkidle.
+  await page.waitForTimeout(1500);
 
   // Generate a clean, printable CV PDF from the rendered Jekyll page.
   await page.addStyleTag({
