@@ -2,6 +2,10 @@
 title: "Publications"
 permalink: /publications/
 layout: single
+toc: true
+toc_sticky: true
+toc_label: "On this page"
+toc_icon: "list-ul"
 ---
 
 Profiles: [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-7654-4528)

@@ -3,6 +3,10 @@ title: "CV"
 permalink: /cv/
 layout: single
 classes: wide
+toc: true
+toc_sticky: true
+toc_label: "On this page"
+toc_icon: "list-ul"
 ---
 
 [Download full CV (PDF)](/files/Zane_Jobe_CV_2026.pdf)

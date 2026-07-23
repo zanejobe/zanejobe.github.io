@@ -133,3 +133,84 @@ a:focus {
     margin-left: 0;
   }
 }
+
+/* Sticky on-page TOC (Minimal Mistakes sidebar__right). */
+.sidebar__right {
+  z-index: 2;
+}
+
+.sidebar__right.sticky {
+  position: sticky;
+  top: 1.5rem;
+  max-height: calc(100vh - 2rem);
+  overflow: auto;
+}
+
+nav.toc,
+.toc {
+  background: #2a2a2a;
+  border: 1px solid #3a3a3a;
+  border-radius: 6px;
+  padding: 0.85rem 1rem 1rem;
+  color: #ffffff;
+}
+
+.toc .nav__title {
+  color: #ffffff;
+  margin: 0 0 0.65rem;
+  font-size: 0.95rem;
+}
+
+.toc__menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.toc__menu ul {
+  margin: 0.25rem 0 0.35rem 0.85rem;
+  padding: 0;
+  list-style: none;
+}
+
+.toc__menu li {
+  margin: 0.2rem 0;
+}
+
+.toc__menu a {
+  display: block;
+  color: #c9c9c9 !important;
+  text-decoration: none;
+  border-left: 2px solid transparent;
+  padding: 0.2rem 0.35rem 0.2rem 0.55rem;
+  line-height: 1.35;
+  font-size: 0.88rem;
+  transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+}
+
+.toc__menu a:hover,
+.toc__menu a:focus {
+  color: #ffffff !important;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.toc__menu a.is-active,
+.toc__menu li.is-active > a {
+  color: #ffffff !important;
+  border-left-color: #8fc7ff;
+  background: rgba(143, 199, 255, 0.12);
+  font-weight: 600;
+}
+
+/* Keep TOC to major sections / subsections; hide deep #### year lists etc. */
+.toc__menu ul ul {
+  display: none;
+}
+
+@media print {
+  .sidebar__right,
+  nav.toc,
+  .toc {
+    display: none !important;
+  }
+}

@@ -69,6 +69,7 @@ plugins:
 
 after_footer_scripts:
   - /assets/js/external-links-new-tab.js
+  - /assets/js/toc-scrollspy.js
 
 atom_feed:
   hide: true
@@ -81,3 +82,7 @@ defaults:
       layout: single
       author_profile: true
       classes: wide
+      toc: true
+      toc_sticky: true
+      toc_label: "On this page"
+      toc_icon: "list-ul"

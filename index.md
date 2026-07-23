@@ -3,6 +3,10 @@ title: "Home"
 permalink: /
 layout: single
 author_profile: true
+toc: true
+toc_sticky: true
+toc_label: "On this page"
+toc_icon: "list-ul"
 ---
 
 <div class="home-intro">
