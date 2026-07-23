@@ -2,8 +2,9 @@
 title: "Publications"
 permalink: /publications/
 layout: single
-toc: true
-toc_sticky: true
+author_profile: true
+sidebar_toc: true
+toc: false
 toc_label: "On this page"
 toc_icon: "list-ul"
 ---

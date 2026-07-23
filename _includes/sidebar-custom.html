@@ -1,0 +1,23 @@
+{% comment %}
+  Left-sidebar on-page TOC, rendered under the author profile links.
+  Uses page content headings; disables Minimal Mistakes' default right-rail TOC
+  by keeping page.toc false and page.sidebar_toc true.
+{% endcomment %}
+{% if page.sidebar_toc %}
+  {% assign toc_html = content %}
+  {% capture sidebar_toc %}
+    {% include toc.html sanitize=true html=toc_html h_min=2 h_max=3 class="toc__menu" skip_no_ids=true %}
+  {% endcapture %}
+  {% assign sidebar_toc = sidebar_toc | strip %}
+  {% if sidebar_toc != blank %}
+    <nav class="toc toc--sidebar" aria-label="{{ page.toc_label | default: 'On this page' }}">
+      <header>
+        <h4 class="nav__title">
+          <i class="fas fa-{{ page.toc_icon | default: 'list-ul' }}" aria-hidden="true"></i>
+          {{ page.toc_label | default: 'On this page' }}
+        </h4>
+      </header>
+      {{ sidebar_toc }}
+    </nav>
+  {% endif %}
+{% endif %}

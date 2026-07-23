@@ -1,6 +1,6 @@
 (function () {
   function initTocScrollspy() {
-    var toc = document.querySelector("nav.toc, .sidebar__right .toc, .toc");
+    var toc = document.querySelector(".sidebar .toc--sidebar, .sidebar .toc, nav.toc");
     if (!toc) {
       return;
     }

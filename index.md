@@ -3,8 +3,8 @@ title: "Home"
 permalink: /
 layout: single
 author_profile: true
-toc: true
-toc_sticky: true
+sidebar_toc: true
+toc: false
 toc_label: "On this page"
 toc_icon: "list-ul"
 ---

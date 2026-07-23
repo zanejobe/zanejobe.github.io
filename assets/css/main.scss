@@ -134,81 +134,81 @@ a:focus {
   }
 }
 
-/* Sticky on-page TOC (Minimal Mistakes sidebar__right). */
+/* Hide Minimal Mistakes' default right/top TOC rail. */
 .sidebar__right {
-  z-index: 2;
+  display: none !important;
 }
 
-.sidebar__right.sticky {
-  position: sticky;
-  top: 1.5rem;
-  max-height: calc(100vh - 2rem);
-  overflow: auto;
-}
-
-nav.toc,
-.toc {
-  background: #2a2a2a;
-  border: 1px solid #3a3a3a;
-  border-radius: 6px;
-  padding: 0.85rem 1rem 1rem;
+/* Left-sidebar TOC under author profile / social links. */
+.sidebar .toc--sidebar {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid #3a3a3a;
+  background: transparent;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  border-radius: 0;
+  padding-left: 0;
+  padding-right: 0;
   color: #ffffff;
 }
 
-.toc .nav__title {
+.sidebar .toc--sidebar .nav__title {
   color: #ffffff;
   margin: 0 0 0.65rem;
   font-size: 0.95rem;
 }
 
-.toc__menu {
+.sidebar .toc--sidebar .nav__title .fas {
+  margin-right: 0.35rem;
+  opacity: 0.85;
+}
+
+.sidebar .toc__menu {
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.toc__menu ul {
-  margin: 0.25rem 0 0.35rem 0.85rem;
+.sidebar .toc__menu ul {
+  margin: 0.2rem 0 0.3rem 0.75rem;
   padding: 0;
   list-style: none;
 }
 
-.toc__menu li {
-  margin: 0.2rem 0;
+.sidebar .toc__menu li {
+  margin: 0.15rem 0;
 }
 
-.toc__menu a {
+.sidebar .toc__menu a {
   display: block;
   color: #c9c9c9 !important;
   text-decoration: none;
   border-left: 2px solid transparent;
-  padding: 0.2rem 0.35rem 0.2rem 0.55rem;
+  padding: 0.2rem 0.25rem 0.2rem 0.5rem;
   line-height: 1.35;
-  font-size: 0.88rem;
+  font-size: 0.85rem;
   transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
 }
 
-.toc__menu a:hover,
-.toc__menu a:focus {
+.sidebar .toc__menu a:hover,
+.sidebar .toc__menu a:focus {
   color: #ffffff !important;
   background: rgba(255, 255, 255, 0.05);
 }
 
-.toc__menu a.is-active,
-.toc__menu li.is-active > a {
+.sidebar .toc__menu a.is-active,
+.sidebar .toc__menu li.is-active > a {
   color: #ffffff !important;
   border-left-color: #8fc7ff;
   background: rgba(143, 199, 255, 0.12);
   font-weight: 600;
 }
 
-/* Keep TOC to major sections / subsections; hide deep #### year lists etc. */
-.toc__menu ul ul {
-  display: none;
-}
-
 @media print {
   .sidebar__right,
+  .toc--sidebar,
   nav.toc,
   .toc {
     display: none !important;
