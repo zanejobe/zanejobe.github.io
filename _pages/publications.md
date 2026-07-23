@@ -7,6 +7,8 @@ sidebar_toc: true
 toc: false
 toc_label: "On this page"
 toc_icon: "list-ul"
+toc_h_min: 2
+toc_h_max: 3
 ---
 
 Profiles: [Google Scholar](https://scholar.google.com/citations?user=58dKXjAAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-7654-4528)

@@ -8,6 +8,8 @@ sidebar_toc: true
 toc: false
 toc_label: "On this page"
 toc_icon: "list-ul"
+toc_h_min: 2
+toc_h_max: 2
 ---
 
 [Download full CV (PDF)](/files/Zane_Jobe_CV_2026.pdf)
