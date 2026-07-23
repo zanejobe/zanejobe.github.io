@@ -15,7 +15,7 @@ research_associates:
     role: "3 year postdoc"
 
 primary_advisees:
-  phd:
+  PhD:
     - name: "Luke Pettinga"
       year: 2020
       thesis: "Scaling relationships in Submarine Depositional Environments"
@@ -48,7 +48,7 @@ primary_advisees:
       year: 2029
       thesis: "Characterization of Deep-water Depositional Systems for Reservoir Analogues in the Sabah Basin"
       position: "PTTEP, Thailand"
-  msc:
+  MSc:
     - name: "Rosie Fryer"
       year: 2018
       thesis: "Bed-scale Characterization of Submarine Lobe Deposits, Point Loma Formation, California"
@@ -108,7 +108,7 @@ primary_advisees:
 
 # Committee memberships. Default institution is Colorado School of Mines unless noted.
 committee:
-  phd:
+  PhD:
     - name: "Mark Hansford"
     - name: "Michael Peffer"
     - name: "Sebastian Cardona"
@@ -126,9 +126,9 @@ committee:
     - name: "Chris Matson"
     - name: "Zaid Nadhim"
     - name: "Matt Musso"
-    - name: "Mohamed Daniel Davis bin Monhamed"
+    - name: "Mohamed Daniel Davis bin Mohamed"
     - name: "Adesh Pandey"
-  msc:
+  MSc:
     - name: "Brittany Abbuhl"
     - name: "April Bievenour"
     - name: "Victoria Blanchard"
@@ -145,54 +145,108 @@ committee:
     - name: "Fredrik Engstrom"
     - name: "Abdulrahman AlHussaini"
     - name: "Andrew Swift"
-  # Non-Mines committee roles called out elsewhere (e.g. Shell intern notes)
+  # Non-Mines committee / external examiner roles
   other:
     - name: "Cody Trigg"
-      degree: "PhD"
+      degree: "PhD committee member"
       institution: "Stanford University"
-      note: "also listed under Shell Oil Company summer internships"
+    - name: "Max Boumeester"
+      degree: "PhD viva external examiner"
+      institution: "University of Manchester"
+    - name: "Maarten Heijnen"
+      degree: "PhD viva external examiner"
+      institution: "University of Southampton"
 
 undergraduates:
+  # Individuals: name, years, program, project
+  # Field-session groups: members (shown as Name), years, program, project
   - name: "Dingxin Cai"
-    suffix: "2017 MURF"
+    years: "2017"
+    program: "MURF"
+    project: "Superelevation mapping"
   - name: "Ali Downard"
-    suffix: "2018 MURF"
+    years: "2018"
+    program: "MURF"
+    project: "Graphic log machine learning"
   - name: "Andrew Harger"
-    suffix: "2018"
-  - name: "Carissa Anderson"
-    suffix: "2019"
+    years: "2018"
+    program: "MURF"
+    project: "Grain size characterization of submarine levee deposits"
   - name: "Jared Tadla"
-    suffix: "2019-2020 MURF"
+    years: "2019-2020"
+    program: "MURF"
+    project: "XRF the Lewis Shale, Wyoming"
   - name: "Jessy Liao and Eric Klatzco"
-    suffix: "2020"
-  - name: "Michael Field"
-    suffix: "2020-2021 MURF"
-  - group: "Computer Science field session group 2020"
+    years: "2020"
+    program: "Computer Science Field Session"
+    project: "CCUS website"
+  - years: "2020"
+    program: "Computer Science field session"
+    project: "S4SLIDE"
     members:
       - "Lexie Ludeman"
       - "Jessy Liao"
       - "Courtney Richardson"
       - "Marcelo Gonzalez"
-  - group: "Computer Science field session group 2021"
+  - name: "Michael Field"
+    years: "2020-2021"
+    program: "MURF"
+    project: "Machine learning for facies prediction in digital outcrop models"
+  - years: "2021"
+    program: "Computer Science field session"
+    project: "CO2 Sequestration"
     members:
       - "Grant Falkner"
       - "Matt Plumb"
       - "Ryan Armstrong"
       - "Patrick Schassberger"
-  - group: "Computer Science field session group 2023 Lidar-fracture"
+  - years: "2023"
+    program: "Computer Science field session"
+    project: "Lidar-fracture"
     members:
       - "Keshav Vembar"
       - "Rielly King"
       - "Zachary Royal"
       - "Adam Lisle"
-  - group: "Computer Science field session group 2023 CT-scan"
+  - years: "2023"
+    program: "Computer Science field session"
+    project: "CT-scan"
     members:
       - "Connor Sparks"
       - "Asa Sprow"
       - "Kira Hanson"
       - "Carla Ellefsen"
   - name: "Sera Maurice Reyes"
-    years_inline: "2024-2026"
+    years: "2024-2026"
+    program: "Undergraduate researcher"
+    project: "Database management, XRF, rock polishing"
+  - name: "Billy Kinsey"
+    years: "2026"
+    program: "MURF"
+    project: "Brushy Canyon database"
+  - name: "Blake Helmick"
+    years: "2026"
+    program: "Volunteer Researcher"
+    project: "Brushy Canyon database"
+  - years: "2026"
+    program: "Computer Science field session"
+    project: "UraVan"
+    members:
+      - "Morgan Smith"
+      - "Sedona Szczepaniak"
+      - "Caleb Tonk"
+      - "Gray Willits"
+  - years: "2026"
+    program: "Computer Science field session"
+    project: "OutcropAnalog.com"
+    members:
+      - "Chris Giere"
+      - "Daniel Fishbein"
+      - "Sushruth Rao"
+      - "Michelle Lieng"
+      - "Varsha Sathiskumar"
+      - "Katie Schneider"
+      - "Trevor Sheehy"
 
 shell_interns:
   - name: "Neal Auchter"
@@ -202,5 +256,4 @@ shell_interns:
   - name: "Lauren Shumaker"
     years: "2012, 2014"
   - name: "Cody Trigg"
-    years: "2014"
-    note: "also served as PhD committee member at Stanford University"
+    years: "2014, Stanford"

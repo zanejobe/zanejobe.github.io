@@ -308,9 +308,11 @@ document.addEventListener("DOMContentLoaded", function () {
 
 #### Research associates
 
-{% for person in site.data.mentees.research_associates %}
-&emsp;- {{ person.name }} ({{ person.years }}, {{ person.role }})  
-{% endfor %}
+| Name | Years | Role |
+|------|-------|------|
+{%- for person in site.data.mentees.research_associates %}
+| {{ person.name }} | {{ person.years }} | {{ person.role }} |
+{%- endfor %}
 
 #### Primary advisees (chronological)
 
@@ -318,7 +320,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 | Name | Year | Thesis | Position |
 |------|------|--------|----------|
-{%- for person in site.data.mentees.primary_advisees.phd %}
+{%- for person in site.data.mentees.primary_advisees.PhD %}
 | {{ person.name }} | {{ person.year }} | {{ person.thesis }} | {{ person.position }} |
 {%- endfor %}
 
@@ -326,35 +328,37 @@ document.addEventListener("DOMContentLoaded", function () {
 
 | Name | Year | Thesis | Position |
 |------|------|--------|----------|
-{%- for person in site.data.mentees.primary_advisees.msc %}
+{%- for person in site.data.mentees.primary_advisees.MSc %}
 | {{ person.name }} | {{ person.year }} | {{ person.thesis }} | {{ person.position }} |
 {%- endfor %}
 
 #### Committee member for:
 
-&emsp;- PhD: {% for person in site.data.mentees.committee.phd %}{{ person.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}  
-&emsp;- MSc: {% for person in site.data.mentees.committee.msc %}{{ person.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}  
+&emsp;- PhD: {% for person in site.data.mentees.committee.PhD %}{{ person.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}  
+&emsp;- MSc: {% for person in site.data.mentees.committee.MSc %}{{ person.name }}{% unless forloop.last %}, {% endunless %}{% endfor %}  
 {% if site.data.mentees.committee.other.size > 0 %}
 &emsp;- Other universities: {% for person in site.data.mentees.committee.other %}{{ person.name }} ({{ person.degree }}, {{ person.institution }}){% unless forloop.last %}; {% endunless %}{% endfor %}  
 {% endif %}
 
 #### Undergraduate researchers
 
-{% for person in site.data.mentees.undergraduates %}
-{% if person.group %}
-&emsp;- {{ person.group }} ({{ person.members | join: ", " }})  
-{% elsif person.years_inline %}
-&emsp;- {{ person.name }} {{ person.years_inline }}  
-{% else %}
-&emsp;- {{ person.name }} ({{ person.suffix }})  
-{% endif %}
-{% endfor %}
+| Name | Years | Program | Project |
+|------|-------|---------|---------|
+{%- for person in site.data.mentees.undergraduates %}
+{%- if person.members %}
+| {{ person.members | join: ", " }} | {{ person.years }} | {{ person.program }} | {{ person.project }} |
+{%- else %}
+| {{ person.name }} | {{ person.years }} | {{ person.program }} | {{ person.project }} |
+{%- endif %}
+{%- endfor %}
 
 ### Shell Oil Company summer internships
 
-{% for person in site.data.mentees.shell_interns %}
-&emsp;- {{ person.name }} ({{ person.years }}{% if person.note %}; {{ person.note }}{% endif %})  
-{% endfor %}
+| Name | Years |
+|------|-------|
+{%- for person in site.data.mentees.shell_interns %}
+| {{ person.name }} | {{ person.years }}{% if person.note %}; {{ person.note }}{% endif %} |
+{%- endfor %}
 
 ## Invited Presentations and Articles
 - May 2026 Keynote speaker at the Pertamina pavilion, Indonesia Petroleum Association (IPA)
