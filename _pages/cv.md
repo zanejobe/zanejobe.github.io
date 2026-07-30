@@ -368,6 +368,7 @@ document.addEventListener("DOMContentLoaded", function () {
 {%- endfor %}
 
 ## Invited Presentations and Articles
+- September 2026 Invited talk for Rocky Mountain Association of Geologists (RMAG), Denver, CO. "Brushy Canyon Redux"
 - May 2026 Keynote speaker at the Pertamina pavilion, Indonesia Petroleum Association (IPA)
 - October 2025 Invited Keynote speaker at the Digital Geoscience conference, Geological Society of London
 - December 2024 BSRG (British Sedimentological Research Group) Annual Meeting plenary speaker
