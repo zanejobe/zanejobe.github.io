@@ -128,6 +128,7 @@ committee:
     - name: "Matt Musso"
     - name: "Mohamed Daniel Davis bin Mohamed"
     - name: "Adesh Pandey"
+    - name: "Rakan Alghamdi"
   MSc:
     - name: "Brittany Abbuhl"
     - name: "April Bievenour"
@@ -145,6 +146,7 @@ committee:
     - name: "Fredrik Engstrom"
     - name: "Abdulrahman AlHussaini"
     - name: "Andrew Swift"
+    - name: "Rakan Alghamdi"
   # Non-Mines committee / external examiner roles
   other:
     - name: "Cody Trigg"
