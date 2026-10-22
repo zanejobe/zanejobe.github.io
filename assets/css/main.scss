@@ -207,10 +207,50 @@ a:focus {
 }
 
 @media print {
+  html,
+  body,
+  .layout--single,
+  .masthead,
+  .page,
+  .archive,
+  .initial-content,
+  .page__inner-wrap,
+  .page__content,
+  .page__content p,
+  .page__content li,
+  .page__content h1,
+  .page__content h2,
+  .page__content h3,
+  .page__content h4,
+  .page__content table,
+  .page__content th,
+  .page__content td {
+    background: #ffffff !important;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  a,
+  a:visited {
+    color: #000000 !important;
+    text-decoration: none !important;
+  }
+
+  .masthead,
+  .greedy-nav,
+  .page__footer,
+  .sidebar,
   .sidebar__right,
   .toc--sidebar,
   nav.toc,
   .toc {
     display: none !important;
+  }
+
+  .page__content table th,
+  .page__content table td {
+    border-color: #999999 !important;
   }
 }

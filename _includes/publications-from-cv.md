@@ -5,7 +5,9 @@
 ### In the Pipeline
 - Marat Ibagarov - Fractures in the Rader, GSA Bulletin
 
-- Rachel Williams - Fractures in the Pinery, GSA Bulletin
+- Marat Ibagarov - 123D, Sedimentologika
+
+- Guldana Alimzhanova - Alamo strike paper, JSR
 
 - Zaid Nadhim - Doña Ana in Alamo, Sedimentologika
 
@@ -14,6 +16,8 @@
 ### Published
 
 #### 2026
+
+70\. Aisner-Williams, R., Jobe, Z.R., Playton, T., Wood, L.J., Slootman, A., Bishop, J., Heesakkers, V., Sarmiento, S., Earnest, E., Ibagarov, M., Plink-Björklund, P., 2026, Depositional influences on fracture stratigraphy of a grain-rich carbonate toe-of-slope, Permian Bell Canyon Formation, West Texas, USA. Geological Society of America Bulletin, [https://doi.org/10.1130/B39178.1](https://doi.org/10.1130/B39178.1)
 
 69\. Nworie, C. D., Jobe, Z. R., Slootman, A., Venturelli, R., Eggenhuisen, J. T., & Reijmer, J. J. G. (2026). Carbonate turbidity currents play an underappreciated role in the global carbon cycle. *The Sedimentary Record*, 24(1). [https://doi.org/10.2110/001c.159298](https://doi.org/10.2110/001c.159298) [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2026%20Nworie%20et%20al%20TSR%20-%20Carbon%20burial.pdf)
 
