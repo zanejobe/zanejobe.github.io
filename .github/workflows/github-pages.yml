@@ -23,7 +23,9 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # Pinned: ruby/setup-ruby has no Ruby 3.1 build for ubuntu-26.04 (ubuntu-latest),
+    # and the github-pages 223 / Jekyll 3.9 stack in Gemfile.lock targets Ruby 3.1.
+    runs-on: ubuntu-24.04
     timeout-minutes: 20
     steps:
       - name: Checkout repository
