@@ -401,6 +401,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - Invited contributor for 3 articles in the 2009 Society of Sedimentary Geology (SEPM) Field Trip Guide #10, “Stratigraphic Evolution of Deep-Water Architecture: Examples on Controls and Depositional Styles from the Magallanes Basin, Chile”
 
 ## Awards and Scholarships
+- 2026 Steve Champlin Award for best poster at the 2025 RMS AAPG meeting in Keystone, “Ultra-high-resolution core characterization quantifies heterogeneity in fluid reservoirs and critical mineral deposits”
 - 2018 Mines Geology poster fair – best undergraduate poster award (Ali Downard and Zane Jobe)
 - 2017 keynote speaker for Deep-water Depositional Systems: Advances and Applications (Geological Society of London)
 - 2017 “Exceptional Reviewer” for GeoSphere journal
