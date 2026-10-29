@@ -3,8 +3,6 @@
 ## Peer-Reviewed Publications
 
 ### In the Pipeline
-- Marat Ibagarov - Fractures in the Rader, GSA Bulletin
-
 - Marat Ibagarov - 123D, Sedimentologika
 
 - Guldana Alimzhanova - Alamo strike paper, JSR
@@ -16,6 +14,8 @@
 ### Published
 
 #### 2026
+
+71\. Ibagarov, M., Slootman, A., Playton, T., Bishop, J., Heesakkers, V., Sarmiento, S., Plink-Bjorklund, P., Wood, L., Aisner-Williams, R., and Jobe, Z.R., 2026, Clast arrangement influences fracture stratigraphy in a carbonate toe-of-slope megabreccia, Permian Rader Member, Bell Canyon Formation, Guadalupe Mountains, Texas, USA. Geological Society of America Bulletin, [https://doi.org/10.1130/B39263.1](https://doi.org/10.1130/B39263.1) [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2026-Ibagarov-et-al-GSAB-Rader-megabreccia-fracture-stratigraphy.pdf)
 
 70\. Aisner-Williams, R., Jobe, Z.R., Playton, T., Wood, L.J., Slootman, A., Bishop, J., Heesakkers, V., Sarmiento, S., Earnest, E., Ibagarov, M., Plink-Björklund, P., 2026, Depositional influences on fracture stratigraphy of a grain-rich carbonate toe-of-slope, Permian Bell Canyon Formation, West Texas, USA. Geological Society of America Bulletin, [https://doi.org/10.1130/B39178.1](https://doi.org/10.1130/B39178.1)
 

@@ -51,6 +51,9 @@ Sedimentologist with 20+ years of experience in clastic and mixed-lithology deep
 
 ### 2026
 
+- Ibagarov, M., Slootman, A., Playton, T., Bishop, J., Heesakkers, V., Sarmiento, S., Plink-Bjorklund, P., Wood, L., Aisner-Williams, R., and Jobe, Z.R., 2026, Clast arrangement influences fracture stratigraphy in a carbonate toe-of-slope megabreccia, Permian Rader Member, Bell Canyon Formation, Guadalupe Mountains, Texas, USA. *Geological Society of America Bulletin*. [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2026-Ibagarov-et-al-GSAB-Rader-megabreccia-fracture-stratigraphy.pdf)  
+  *Outcrop: digital outcrop models and grid-cell mapping of the middle Rader megabreccia in Bell Canyon; clast arrangement linked to fracture stratigraphy for toe-of-slope reservoir analogs.*
+
 - Saifudin, L., Jobe, Z.R., Slootman, A., Carr, M., Plink-Bjorklund, P., 2026, Supercritical-flow structures in a Cretaceous submarine channel-lobe transition zone, Point Loma Formation, California. *The Depositional Record*, v. 2(3), e70070. [PDF](https://raw.githubusercontent.com/zanejobe/zanejobe-pdfs/main/papers/2026%20Saifudin%20et%20al%20TDR%20-%20Point%20Loma%20CLTZ.pdf)  
   *Outcrop: coastal-cliff exposures at Cabrillo National Monument; bed-scale architecture mapped in the field for subsurface channel-lobe transition prediction.*
 
